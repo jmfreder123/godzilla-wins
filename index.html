@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Godzilla Wins Run Sheet</title>
+<meta name="description" content="Weekly run sheet for the Godzilla Wins Saturday show. Comment on segments or add stories.">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap">
+    <p class="kicker">Run sheet</p>
+    <h1>Godzilla Wins</h1>
+    <div class="showmeta">
+      <span id="show-date">Loading run sheet...</span>
+      <span id="show-airtime"></span>
+      <label class="picker" hidden>
+        <span class="visually-hidden">Choose show</span>
+        <select id="show-picker"></select>
+      </label>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="intro">
+    <p id="show-lineup"></p>
+    <p class="howto">Tap a headline to open the story. Use <strong>Comment</strong> or <strong>Add a story</strong> under any segment. No login, just your name.</p>
+    <p id="comments-status" class="status" hidden></p>
+    <details id="verify" class="verify" hidden>
+      <summary>Verify before air</summary>
+      <ul id="verify-list"></ul>
+      <p id="lines-note" class="small"></p>
+    </details>
+  </section>
+
+  <nav id="toc" class="toc" aria-label="Segments"></nav>
+  <div id="sheet"></div>
+
+  <section class="segment general" id="seg-general" data-segment="general">
+    <div class="seg-head"><h3>General show notes</h3></div>
+    <p class="small">Anything that doesn't fit a segment: guest availability, ideas for next week, corrections.</p>
+    <ul class="additions"></ul>
+    <div class="thread"></div>
+    <div class="seg-actions"></div>
+  </section>
+</main>
+
+<footer class="wrap footer">
+  <p>Godzilla Wins airs Saturdays 9-11 AM ET. Comments are public.</p>
+</footer>
+
+<template id="form-tpl">
+  <form class="post-form">
+    <input type="text" name="website" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+    <label>Your name <input type="text" name="name" maxlength="40" required></label>
+    <label class="text-label"><span class="text-label-text">Comment</span> <textarea name="text" rows="3" maxlength="1000" required></textarea></label>
+    <label class="link-label" hidden>Link to the story (optional) <input type="url" name="link" maxlength="500" placeholder="https://"></label>
+    <div class="form-row">
+      <button type="submit">Post</button>
+      <button type="button" class="cancel">Cancel</button>
+      <span class="form-msg" role="status"></span>
+    </div>
+  </form>
+</template>
+
+<script src="assets/config.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,205 @@
+{
+  "id": "2026-09-12",
+  "show": "Godzilla Wins",
+  "date": "Saturday, September 12, 2026",
+  "airtime": "9:00-11:00 AM ET",
+  "lineup": "Hour 1: College Football (9:00-9:15) and NFL Week 1 (9:15-10:00). Hour 2: Fantasy Football Hour with John, Frank, and Trent Conner.",
+  "lines_note": "NFL lines from bet365 via FOX Sports (Fri 9/11 AM). CFB lines from FanDuel, DraftKings, and CBS (9/9-9/11). Pull current lines before air.",
+  "verify": [
+    "Friday NFL injury designations: Nabers, Tua, Kamara, Pierce, Odunze",
+    "A.J. Brown timeline (ESPN says 4+ weeks, others 3+)",
+    "Josh Simmons (KC LT) status for Monday",
+    "Any Saturday-morning line moves"
+  ],
+  "hours": [
+    {
+      "title": "Hour 1",
+      "subtitle": "College football, then NFL Week 1",
+      "blocks": [
+        {
+          "title": "Block 1: College Football",
+          "time": "9:00-9:15",
+          "segments": [
+            {
+              "id": "cfb-reset",
+              "time": "9:00-9:04",
+              "title": "Week 1 reset",
+              "items": [
+                { "h": "AP Top 10 after Week 1", "t": "1 Ohio St, 2 Georgia, 3 Notre Dame, 4 Texas, 5 Indiana, 6 Oregon (down from 2), 7 Miami, 8 LSU, 9 Ole Miss, 10 Texas A&M. Michigan dropped out.", "url": "https://www.ncaa.com/news/football/article/2026-09-08/lsu-breaks-top-10-michigan-drops-out-week-1-ap-top-25-poll", "src": "NCAA.com" },
+                { "h": "LSU 51, Clemson 10 in Kiffin's debut", "t": "644 yards, Leavitt 3 total TD. Heat rising on Dabo.", "url": "https://lsusports.net/news/2026/09/6/football-smothers-clemson-in-season-opener-51-10", "src": "LSU Athletics" },
+                { "h": "Upset of the week: UMass 37, Rutgers 21", "t": "UMass was a 29-point underdog.", "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-1-year-of-wr-oklahoma-state/", "src": "CBS Sports" },
+                { "h": "Close calls", "t": "Oregon 34-27 over Boise St (24-pt dog), Michigan 13-12 over WMU on a disputed Hail Mary, Ole Miss 41-38 over #24 Louisville.", "url": "https://bleacherreport.com/articles/25496444-brs-2026-college-football-winners-and-losers-week-1", "src": "Bleacher Report" },
+                { "h": "Mensah is the new Heisman favorite", "t": "Miami's Darian Mensah threw for 401 yards and 5 TD; now the favorite at the books.", "url": "https://www.cbssports.com/college-football/news/2026-heisman-trophy-odds-week-2-darian-mensah-arch-manning-julian-sayin/", "src": "CBS Sports" }
+              ]
+            },
+            {
+              "id": "cfb-wvu",
+              "time": "9:04-9:07",
+              "title": "WVU",
+              "items": [
+                { "h": "WVU 31, Coastal Carolina 24", "t": "Blew a 24-0 lead (allowed 24 straight). Cam Cook 30-142-2 TD incl a 75-yard TD on the first possession. Michigan Hawkins Jr. in his first career start: 11/14, 132 yds, TD pass and TD run.", "url": "https://wvusports.com/news/2026/9/5/football-game-day-west-virginia-opens-season-against-coastal-carolina-pat-white-to-be-honored", "src": "WVU Athletics" },
+                { "h": "Rich Rod: \"Second half, we played bad football\"", "t": "Said the uncorrected mistakes fall on him.", "url": "https://www.si.com/college/westvirginia/football/what-rich-rodriguez-said-following-the-one-score-win-over-coastal-carolina", "src": "SI" },
+                { "h": "QB depth chart still says Hawkins OR Fox", "t": "Edge Darius Wiley out; Emerson Joy moves up.", "url": "https://www.si.com/college/westvirginia/football/wvu-updates-depth-chart-ahead-of-week-2-clash-with-ut-martin", "src": "SI" },
+                { "h": "Today: UT Martin, 1PM ESPN+", "t": "WVU -39.5, O/U 56.5. WVU is 23-0 all-time vs FCS.", "url": "https://www.on3.com/sites/wv-sports/news/game-preview-west-virginia-football-vs-ut-martin", "src": "On3" }
+              ]
+            },
+            {
+              "id": "cfb-picks",
+              "time": "9:07-9:15",
+              "title": "Week 2 picks",
+              "items": [
+                { "h": "#1 Ohio St at #4 Texas, 7:30PM ABC", "t": "In Austin, GameDay on site. Texas -1.5, O/U 49.5. OSU won the last two (CFP semi, 14-7 in 2025); Sarkisian 0-5 vs OSU/Georgia. Sayin vs Manning; Jeremiah Smith has no TDs in his two career games vs Texas. OSU OL vs Colin Simmons is the matchup.", "url": "https://www.elevenwarriors.com/ohio-state-football/2026/09/163749/ohio-state-vs-texas-preview-elite-quarterbacks-battles-in-the-trenches-flashy-wide-receivers-highlight-top-four-matchup", "src": "Eleven Warriors" },
+                { "h": "#11 Oklahoma at Michigan, Noon FOX", "t": "OU -5.5, O/U 43.5 (7-point swing from a Michigan -1.5 opener). Whittingham says Underwood's hold on the job \"isn't infinite.\"", "url": "https://www.nbcsports.com/betting/college-football/news/oklahoma-vs-michigan-prediction-odds-expert-picks-team-and-player-news-betting-trends-and-stats", "src": "NBC Sports" },
+                { "h": "#12 Alabama at Kentucky, 3:30PM ABC", "t": "Bama -10.5, O/U 49.5. Keelon Russell's first road start; Will Stein year 1 at UK.", "url": "https://www.nationalfootballpost.com/2026/09/08/no-12-alabama-looks-to-keep-ground-game-rolling-at-kentucky", "src": "National Football Post" },
+                { "h": "#18 Tennessee at Georgia Tech, 7PM ESPN", "t": "Tenn -12.5, O/U 55.5. True freshman Faizon Brandon had 5 total TD in his debut.", "url": "https://utsports.com/news/2026/9/11/football-fb-preview-18-18-vols-ready-for-first-road-test-at-georgia-tech", "src": "Tennessee Athletics" },
+                { "h": "#6 Oregon at Oklahoma St, Noon ESPN", "t": "Oregon -22.5, O/U 57.5. Ducks bounce-back spot; OSU lost to Tulsa in Eric Morris's debut.", "url": "https://www.klcc.org/sports/2026-09-11/oregon-football-oklahoma-state-preview-lanning-morris-2026", "src": "KLCC" },
+                { "h": "Panel picks", "t": "Each panelist: OSU-Texas side and score, plus one ATS lock from the slate.", "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-game-lines-spreads-week-2-2026/", "src": "CBS lines" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: NFL Week 1",
+          "time": "9:15-10:00",
+          "segments": [
+            {
+              "id": "nfl-so-far",
+              "time": "9:15-9:25",
+              "title": "What we already saw",
+              "items": [
+                { "h": "Seahawks 13, Patriots 10 (Wed)", "t": "Drew Lock 16/22, 187, TD in relief. JSN 122 yds incl a 45-yard TD on 4th-and-1. Maye 3 INT (0-for-4 on throws of 20+ yards).", "url": "https://www.nfl.com/news/patriots-seahawks-in-2026-nfl-kickoff-game-what-we-learned-from-seattle-s-13-10-win", "src": "NFL.com" },
+                { "h": "Darnold hip injury", "t": "Hurt on the opening drive; muscle, not a fracture. Expected to miss Week 2.", "url": "https://www.nfl.com/news/sam-darnold-hip-injury-miss-seahawks-week-2-game-cardinals", "src": "NFL.com" },
+                { "h": "A.J. Brown high ankle sprain", "t": "Hurt in his Patriots debut, in a walking boot. Timeline varies by source.", "url": "https://www.espn.com/nfl/story/_/id/49897884/sources-patriots-aj-brown-likely-least-4-weeks", "src": "ESPN" },
+                { "h": "49ers 27, Rams 7 in Melbourne (Thu)", "t": "Purdy 3 TD; Mike Evans TD in his debut. Bosa back, 36 snaps. Myles Garrett 0 tackles in his Rams debut. Stafford 155 yds, 0 TD, the Rams' fewest points in his 85 starts; Rams arrived about 28 hours before kickoff.", "url": "https://www.nfl.com/news/niners-rams-in-australia-what-we-learned-from-san-francisco-s-27-7-win", "src": "NFL.com" },
+                { "h": "McCaffrey 36 snaps; Kaelon Black out-carried him 14-10", "t": "Lightest non-injury workload for CMC since 2022.", "url": "https://www.clickondetroit.com/sports/2026/09/11/the-49ers-make-their-case-as-a-contender-with-season-opening-27-7-win-over-the-rams/", "src": "AP" },
+                { "h": "Aaron Donald did not play", "t": "Targeting MNF 9/21 vs the Giants.", "url": "https://www.nfl.com/news/rams-rule-out-aaron-donald-week-1-game-49ers-australia", "src": "NFL.com" }
+              ]
+            },
+            {
+              "id": "nfl-primetime",
+              "time": "9:25-9:40",
+              "title": "Primetime picks",
+              "items": [
+                { "h": "MNF: Broncos at Chiefs, Mon 8:15PM ESPN", "t": "KC -2.5, O/U 43.5. Mahomes expected to start about 9 months off the ACL. Denver was the AFC's 1 seed; KC went 6-11.", "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-injury-update-chiefs-qb/", "src": "CBS Sports" },
+                { "h": "Chiefs LT Josh Simmons trending out", "t": "UDFA rookie Kahlil Benson could face a Denver defense that led the NFL with 68 sacks.", "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/josh-simmons-out-of-chiefs-practice-thursday", "src": "PFT" },
+                { "h": "SNF: Cowboys at Giants, 8:20PM NBC", "t": "DAL -2.5, O/U 48.5. John Harbaugh's Giants debut, Jaxson Dart starting.", "url": "https://www.si.com/nfl/ranking-all-16-nfl-week-1-games-worst-to-best-2026", "src": "SI" },
+                { "h": "Nabers back from the ACL", "t": "Full practice Wed/Thu; he says it's his call.", "url": "https://www.giants.com/news/injury-report-statuses-giants-vs-cowboys-sunday-night-football-week-1-malik-nabers", "src": "Giants.com" }
+              ]
+            },
+            {
+              "id": "nfl-afternoon",
+              "time": "9:40-9:55",
+              "title": "Sunday afternoon picks",
+              "items": [
+                { "h": "Bills at Texans, 1PM CBS", "t": "BUF -1.5, O/U 44.5 (some books HOU -1, call it a pick'em). Josh Allen under new HC Joe Brady; Stroud vs Buffalo.", "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games", "src": "FOX Sports odds" },
+                { "h": "Bucs at Bengals, 1PM FOX", "t": "CIN -3.5, O/U 50.5, the highest total on the board. Mayfield plays days after his 3yr/$165M extension; Chase and Higgins both full practice.", "url": "https://www.nfl.com/news/nfl-network-buccaneers-qb-baker-mayfield-agree-to-three-year-contract-extension", "src": "NFL.com" },
+                { "h": "Commanders at Eagles, 4:25PM FOX", "t": "PHI -5.5, O/U 44.5. First game after the A.J. Brown trade. Washington without Tunsil (IR), Amos (IR), Newton (IR), and Armstrong (suspended).", "url": "https://www.phillyvoice.com/eagles-commanders-week-1-injury-report-analysis-2026-jonathan-greenard-laremy-tunsil/", "src": "PhillyVoice" },
+                { "h": "Packers at Vikings, 4:25PM CBS", "t": "MIN -1.5, O/U 46.5. Kyler Murray starts, Minnesota's 4th different Week 1 QB in 4 years (Wentz QB2, McCarthy QB3).", "url": "https://www.nfl.com/news/vikings-carson-wentz-back-up-kyler-murray-week-1-jj-mccarthy-qb3", "src": "NFL.com" },
+                { "h": "Packers without Josh Jacobs", "t": "On the Commissioner's Exempt List.", "url": "https://www.nfl.com/news/nfl-places-packers-rb-josh-jacobs-commissioner-exempt-list", "src": "NFL.com" }
+              ]
+            },
+            {
+              "id": "nfl-quick-hits",
+              "time": "9:55-10:00",
+              "title": "Quick hits and lock of the week",
+              "items": [
+                { "h": "Saleh vs his old team: Jets at Titans", "t": "TEN -1.5, O/U 38.5, the lowest total on the board.", "url": "https://www.si.com/nfl/ranking-all-16-nfl-week-1-games-worst-to-best-2026", "src": "SI" },
+                { "h": "Watson's first start since 2024, at Jacksonville", "t": "JAX -8.5.", "url": "https://www.clevelandbrowns.com/news/deshaun-watson-named-browns-starting-quarterback", "src": "Browns.com" },
+                { "h": "Cousins starts over Mendoza in Las Vegas", "t": "", "url": "https://sports.yahoo.com/nfl/breaking-news/article/kirk-cousins-raiders-starting-qb-week-1-matchup-delaying-fernando-mendozas-nfl-debut-163439603.html", "src": "Yahoo" },
+                { "h": "Tua (oblique) status TBD", "t": "Cooper Rush took first-team reps; line moved PIT -3.5 to -5.5. Mike McCarthy's Steelers debut.", "url": "https://www.atlantafalcons.com/news/cooper-rush-takes-first-team-reps-in-wake-of-tua-tagovailoa-s-oblique-injury", "src": "Falcons.com" },
+                { "h": "Lock of the week from each panelist", "t": "", "url": "https://www.nfl.com/schedules/2026/by-week/week-1", "src": "NFL schedule" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hour 2",
+      "subtitle": "Fantasy Football Hour with John, Frank, and Trent Conner. Week 1 lineups lock tomorrow at 1PM; last chance at free agents.",
+      "blocks": [
+        {
+          "title": "Block 1: What we learned and who to add",
+          "time": "",
+          "segments": [
+            {
+              "id": "ff-fallout",
+              "time": "",
+              "title": "Wed/Thu fallout",
+              "items": [
+                { "h": "Kaelon Black out-carried CMC 14-10", "t": "CMC at 36 snaps. Panic or preservation?", "url": "https://sports.yahoo.com/articles/meet-kaelon-black-49ers-rb-020359620.html", "src": "Yahoo" },
+                { "h": "Evans 6-49-TD on 49 snaps; Kittle 30 snaps in his return", "t": "De'Zhaun Stribling (our 8/29 ADP riser) carted off with an ankle injury.", "url": "https://www.pff.com/news/fantasy-football-week-1-recap-49ers-rams", "src": "PFF" },
+                { "h": "Patriots and Seahawks fallout", "t": "A.J. Brown out multiple weeks: Mack Hollins and Romeo Doubs move up. Darnold out Week 2: Drew Lock is a superflex add. George Holani took third-down work.", "url": "https://www.pff.com/news/nfl-week-1-recap-immediate-fantasy-football-takeaways-from-patriots-seahawks", "src": "PFF" }
+              ]
+            },
+            {
+              "id": "ff-pickups",
+              "time": "",
+              "title": "Pickups before Sunday",
+              "items": [
+                { "h": "MarShawn Lloyd (GB)", "t": "Jacobs is out; FAAB suggestions of 25-50%.", "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-impact-of-nfl-placing-packers-rb-josh-jacobs-on-commissioner-exempt-list-202836289.html", "src": "Yahoo" },
+                { "h": "Michael Mayer (LV TE)", "t": "Bowers out after a meniscus trim; Mayer had a 24% target share without Bowers last year.", "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-waiver-wire-nfl-injury-report-week-1-brock-bowers/", "src": "CBS Sports" },
+                { "h": "Ja'Kobi Lane (BAL), Kayshon Boutte (HOU), Kaelon Black (SF)", "t": "Lane is the WR3 with first-team snaps; Boutte moves up after Jayden Higgins' ACL tear.", "url": "https://www.fantasypros.com/2026/09/6-fantasy-football-waiver-wire-pickups-stashes-week-1-2026/", "src": "FantasyPros" },
+                { "h": "More waiver names", "t": "Drew Lock (superflex), Jonah Coleman (DEN), Dylan Sampson (CLE).", "url": "https://www.rotowire.com/football/article/fantasy-football-waiver-wire-pickups-for-week-1-132805", "src": "RotoWire" }
+              ]
+            },
+            {
+              "id": "ff-best-starts",
+              "time": "",
+              "title": "Segment: Best starts of the week",
+              "items": [
+                { "h": "Must starts", "t": "QB Hurts, Lamar, Allen, Herbert, Burrow. RB Barkley, Henry, Bijan, J. Taylor, Gibbs, Achane, Hampton. WR Lamb, Jefferson, Chase, St. Brown, Nico Collins, London. TE McBride, Warren, Loveland.", "url": "https://www.fantasypros.com/2026/09/the-primer-week-1-edition-2026-fantasy-football/", "src": "FantasyPros Primer" },
+                { "h": "Sits", "t": "Mahomes and KC pass catchers vs DEN (first game back, backup LT). Browns (Watson, Jeudy, Fannin) at JAX, 16.0 implied. MHJ at LAC. Tua/ATL downgrade. Jeremiyah Love (high ankle, Allgeier listed starter). Chuba Hubbard in a split with Brooks.", "url": "https://sports.yahoo.com/articles/fantasy-football-2026-week-1-183000673.html", "src": "SB Nation via Yahoo" },
+                { "h": "Streamers", "t": "QB Malik Willis, Tyler Shough, Jaxson Dart. TE Mayer, Cade Otton (CIN allowed the most TE points). D/ST Lions, Titans, Raiders, Jets.", "url": "https://www.rotowire.com/football/article/streaming-defenses-dst-picks-for-week-1-132259", "src": "RotoWire" },
+                { "h": "Panel split: Jordan Love", "t": "FantasyPros says start, others fade.", "url": "https://www.fantasypros.com/2026/09/the-primer-week-1-edition-2026-fantasy-football/", "src": "FantasyPros" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: The long game",
+          "time": "",
+          "segments": [
+            {
+              "id": "ff-stash",
+              "time": "",
+              "title": "Segment: Stash before breakout",
+              "items": [
+                { "h": "Checking our 8/29 list", "t": "Diggs (WAS) active, flex vs a tough PHI. Kincaid (BUF) healthy, start at HOU. Denzel Boston (CLE) starting as a rookie. Mike Washington Jr. (LV) handcuff only now that Jeanty is full-go.", "url": "https://bleacherreport.com/articles/25498091-ashton-jeantys-updated-injury-status-and-fantasy-outlook-raiders-vs-dolphins-nfl-week-1", "src": "Bleacher Report" },
+                { "h": "C. Rodriguez Jr. (JAX) in a split with Tuten", "t": "", "url": "https://sports.yahoo.com/articles/bhayshul-tuten-chris-rodriguez-lequint-143935675.html", "src": "Yahoo" },
+                { "h": "Ja'Kobi Lane (BAL) could see more work", "t": "Bateman's situation could open more targets.", "url": "https://www.cbssports.com/nfl/news/jakobi-lane-ravens-rookie-lamar-jackson-wr2/", "src": "CBS Sports" },
+                { "h": "Tank Dell (HOU) on IR, earliest return Week 5", "t": "", "url": "https://www.si.com/nfl/texans/onsi/texans-wr-tank-dell-to-start-season-on-ir-what-it-means", "src": "SI" },
+                { "h": "New stashes", "t": "Kaelon Black (SF), Emmett Johnson (KC rookie behind K. Walker).", "url": "https://www.fantasypros.com/2026/09/6-fantasy-football-waiver-wire-pickups-stashes-week-1-2026/", "src": "FantasyPros" }
+              ]
+            },
+            {
+              "id": "ff-vegas",
+              "time": "",
+              "title": "Segment: Vegas' best start",
+              "items": [
+                { "h": "Highest implied totals (bet365)", "t": "LAC 28.5 (Herbert, Hampton, McConkey, Q. Johnston, LAC D/ST vs ARI). DET 28.0 (Goff, Gibbs, St. Brown, Jameson Williams). CIN 27.0 (Burrow, Chase Brown, Chase, Higgins).", "url": "https://www.foxsports.com/stories/nfl/2026-nfl-odds-week-1-lines-spreads-all-16-games", "src": "FOX Sports odds" },
+                { "h": "Shootout sleeper: TB 23.5 in the 50.5 game", "t": "Irving, Godwin, Otton.", "url": "", "src": "" },
+                { "h": "Lowest implied totals", "t": "CLE 16.0, ATL 18.0, MIA and NYJ 18.5, ARI 19.0.", "url": "", "src": "" }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Final lineup calls and close",
+          "time": "",
+          "segments": [
+            {
+              "id": "ff-close",
+              "time": "",
+              "title": "Final calls",
+              "items": [
+                { "h": "Each host", "t": "Start of the week, sit of the week, and one waiver add. Monday night Mahomes decision for anyone starting Chiefs.", "url": "", "src": "" },
+                { "h": "Close", "t": "MNF Broncos-Chiefs reminder; tease Week 2 waiver wire and Donald's MNF debut 9/21.", "url": "", "src": "" }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
