@@ -1,0 +1,493 @@
+{
+  "id": "2026-09-19",
+  "show": "Godzilla Wins",
+  "date": "Saturday, September 19, 2026",
+  "airtime": "9:00-11:00 AM ET",
+  "lineup": "Hour 1: college football Week 3 reset and picks, then NFL Week 2 primetime and Sunday picks. Hour 2: Fantasy Football Hour with John, Frank, and Trent Conner.",
+  "lines_note": "NFL lines from bet365 via SportsBookReview, captured Mon 9/14 2:22 PM ET (four days old - pull current numbers before air). CFB lines from FanDuel 9/16-9/17, except Alabama-Florida State and Georgia-Arkansas spreads, which are from CBS Sports.",
+  "verify": [
+    "Friday NFL designations not yet posted when we researched: Joe Burrow (back), Kyler Murray (concussion protocol), Zay Flowers (hamstring), Kaelon Black (groin).",
+    "A.J. Brown timeline conflict: CBS Sports says IR, at least 4 games, eligible Week 6; other framing says about 6 weeks.",
+    "Zay Flowers status conflict: Pro Football Network lists him OUT, Ravens reporting had him day-to-day after two straight DNPs.",
+    "DJ Moore (BUF) shoulder/stinger - confirmed he did not return Thursday, no multi-week outlook found.",
+    "Dolphins-49ers injury detail (Chop Robinson, Nick Bosa) could not be sourced; those pages were blocked.",
+    "Cowboys' own Week 2 injury report could not be located; only Washington's list is confirmed.",
+    "Rich Rodriguez postgame quotes: fake quotes are circulating this week. Confirm anything you read on air against WVU's official postgame video.",
+    "Emmett Johnson (KC) Week 1 stat line - sources disagreed on the opponent; treat the numbers as soft.",
+    "Stefon Diggs (WAS) Week 1 stat line was not retrieved. Do not put a number on air.",
+    "No live FAAB percentages were published in the fantasy sources we pulled.",
+    "All NFL and CFB lines - recheck for Saturday morning movement."
+  ],
+  "hours": [
+    {
+      "title": "Hour 1",
+      "subtitle": "College Football (9:00-9:15) and NFL Week 2 (9:15-10:00)",
+      "blocks": [
+        {
+          "title": "Block 1: College Football",
+          "time": "9:00-9:15",
+          "segments": [
+            {
+              "id": "cfb-week2-reset",
+              "time": "9:00-9:04",
+              "title": "Week 2 reset",
+              "items": [
+                {
+                  "h": "Texas is the new No. 1 and Oregon fell 15 spots",
+                  "t": "AP Top 10: 1 Texas, 2 Georgia, 3 Notre Dame, 4 Indiana, 5 Miami, 6 Ohio State, 7 LSU, 8 Ole Miss, 9 Texas A&M, 10 Alabama. Texas jumped from 4 to 1, Ohio State fell from 1 to 6, Oregon dropped from 6 to 21. Michigan is back in at 19 after beating then-No. 11 Oklahoma. Washington dropped out.",
+                  "url": "https://www.ncaa.com/news/football/article/2026-09-13/texas-climbs-no-1-oregon-plummets-latest-ap-top-25-college-football-rankings",
+                  "src": "NCAA.com"
+                },
+                {
+                  "h": "Texas 24, Ohio State 23 - the Longhorns trailed 23-3",
+                  "t": "Texas scored 21 unanswered in the fourth quarter. Largest comeback of Steve Sarkisian's career and the largest blown lead of Ryan Day's tenure at Ohio State. Jeremiah Smith had 8 catches for 164 and a TD in the loss, but Ohio State ran only 4:26 of clock across three second-half drives and the defense was gassed.",
+                  "url": "https://lastwordonsports.com/collegefootball/2026/09/12/ohio-state-texas/",
+                  "src": "Last Word on Sports"
+                },
+                {
+                  "h": "Upset of the week: unranked Oklahoma State over No. 6 Oregon",
+                  "t": "The biggest upset of the 2026 season so far, and the reason Oregon is down at 21 in the new poll.",
+                  "url": "https://www.nbcsports.com/college-football/news/escape-act-fails-sixth-ranked-oregon-in-shocking-loss-to-oklahoma-state",
+                  "src": "NBC Sports"
+                }
+              ]
+            },
+            {
+              "id": "wvu-ut-martin-and-virginia",
+              "time": "9:04-9:07",
+              "title": "West Virginia",
+              "items": [
+                {
+                  "h": "WVU 52, UT Martin 7 - 2-0 for the first time since 2018",
+                  "t": "Michael Hawkins Jr. threw two TD and ran 71 yards for another. DJ Epps went 53 yards for a TD on the opening drive. Cam Cook and Amari Latimer each ran one in, Kedrick Triplett scored on his first career catch as a Mountaineer, and Ryan Ward added a 32-yard TD reception.",
+                  "url": "https://wvusports.com/news/2026/9/12/football-game-day-west-virginia-hosts-ut-martin-on-family-day",
+                  "src": "WVU Athletics"
+                },
+                {
+                  "h": "Rich Rod: \"The best you can be after two games is 2-0\"",
+                  "t": "Postgame, he also liked what he saw from Hawkins: \"I thought Mike played really well. He obviously has the ability to make big plays with his feet.\" Note - fake Rich Rodriguez quotes are circulating this week, so confirm anything else against the official video.",
+                  "url": "https://www.si.com/college/westvirginia/football/what-rich-rodriguez-said-following-the-win-over-ut-martin",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Today: WVU at No. 25 Virginia, 7:30PM, ACC Network",
+                  "t": "Virginia -10.5, O/U 53.5. First road game and first ranked opponent of the year for the Mountaineers.",
+                  "url": "https://www.sportsgrid.com/cfb/game/west-virginia-mountaineers-virginia-cavaliers-scores-odds-picks-props-september-19-2026/32e742c1-77fc-465f-bafd-a55f34db28a6",
+                  "src": "SportsGrid / FanDuel"
+                }
+              ]
+            },
+            {
+              "id": "cfb-week3-picks",
+              "time": "9:07-9:15",
+              "title": "Week 3 picks",
+              "items": [
+                {
+                  "h": "No. 7 LSU at No. 8 Ole Miss, 7:30PM ABC - LSU -2.5, O/U 57.5",
+                  "t": "The only ranked-vs-ranked game on the board and the game of the day. Lane Kiffin returns to Oxford as LSU's head coach to face the program he left.",
+                  "url": "https://www.fanduel.com/research/lsu-vs-ole-miss-college-football-odds-picks-best-bets-for-9-19-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "No. 10 Alabama vs Florida State, 3:30PM - Bama -19.5",
+                  "t": "Revenge spot for FSU's 31-17 upset of then-No. 8 Alabama in last season's opener. Mike Norvell is on the hot seat at 0-1 in conference with a buyout north of $50M in play. Keelon Russell comes off a 45-17 win at Kentucky where the Bama defense allowed three second-half first downs.",
+                  "url": "https://www.cbssports.com/college-football/news/alabama-florida-state-prediction-picks-odds-spread-where-to-watch-live/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "No. 2 Georgia vs Arkansas, Noon ABC - Georgia -24.5",
+                  "t": "SEC opener. Georgia has 133 points in two games, third-most in SEC history, and Gunner Stockton leads the nation in pass efficiency at 285.5. Arkansas is on an 11-game losing streak against FBS teams, the longest in program history, and ranks 111th in scoring defense and 114th in scoring offense. Kirby Smart is 27-0 on the road at Georgia.",
+                  "url": "https://www.cbssports.com/college-football/news/georgia-arkansas-prediction-picks-odds-spread-where-to-watch-live/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Clemson vs North Carolina, Noon ESPN - Clemson -3.5, O/U 43.5",
+                  "t": "Live dog spot. Clemson is 0-1 ATS as a favorite of 3.5 or more, ranks 129th nationally on offense and is allowing 29 a game. North Carolina has covered as a 3.5-plus dog and ranks 5th nationally in points allowed. The model still has Clemson at 68.3% to win straight up.",
+                  "url": "https://www.fanduel.com/research/clemson-vs-north-carolina-college-football-odds-picks-best-bets-for-9-19-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "No. 1 Texas vs UTSA, 8PM SEC Network+",
+                  "t": "The new No. 1's first look since the reshuffle, in Austin. We did not pull a line on this one.",
+                  "url": "https://texaslonghorns.com/sports/football/schedule",
+                  "src": "Texas Athletics"
+                },
+                {
+                  "h": "PANEL: picks",
+                  "t": "Each panelist gives an LSU-Ole Miss side and a score, plus one ATS lock from the full slate.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: NFL Week 2",
+          "time": "9:15-10:00",
+          "segments": [
+            {
+              "id": "nfl-what-we-already-saw",
+              "time": "9:15-9:25",
+              "title": "What we already saw",
+              "items": [
+                {
+                  "h": "Bills 41, Lions 31 on Thursday in the new Highmark Stadium opener",
+                  "t": "Buffalo is 2-0. They led 21-0 and 27-10 at half. Josh Allen went 20/31 for 248 and 3 TD, and added 69 rushing yards and 2 more scores. Jared Goff's 327 and 4 TD came largely after the outcome was decided; Amon-Ra St. Brown had 9 for 142 and 2.",
+                  "url": "https://www.nbcnewyork.com/news/sports/nfl/lions-bills-score-week-2/6549168",
+                  "src": "NBC New York"
+                },
+                {
+                  "h": "Bills WR DJ Moore left with a shoulder injury and did not return",
+                  "t": "He was hurt diving for a catch in the end zone with about three minutes left in the second quarter and had X-rays in the locker room.",
+                  "url": "https://www.buffalobills.com/news/bills-issue-injury-update-on-wr-dj-moore",
+                  "src": "Buffalo Bills"
+                },
+                {
+                  "h": "Ed Oliver was a surprise scratch after a pregame hip injury",
+                  "t": "He was not on the pregame injury report at all.",
+                  "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-bills-dl-ed-oliver-wont-play-after-injuring-hip-in-pregame",
+                  "src": "NBC Sports / ProFootballTalk"
+                },
+                {
+                  "h": "Monday night rewind: Chiefs 31, Broncos 10",
+                  "t": "Patrick Mahomes in his first game back from the torn ACL went 15/27 for 184 with 2 TD and an INT, plus a 15-yard rushing TD to open the scoring. Kenneth Walker III ran for 173 and 2 TD in his Chiefs debut. Bo Nix was 17/28 for 131 with a TD, an INT and three fumbles, and Denver's 176 total yards were its fewest under Sean Payton since 2023.",
+                  "url": "https://www.nbcnewyork.com/news/sports/nfl/chiefs-broncos-score-week-1-mahomes/6547689",
+                  "src": "NBC New York"
+                },
+                {
+                  "h": "Week 1 leftover: Bears 59, Panthers 37 was the highest-scoring Week 1 game in NFL history",
+                  "t": "96 combined points. Caleb Williams became the first Bear ever with 200-plus passing, 2-plus passing TD, 50-plus rushing and 2-plus rushing TD in a game.",
+                  "url": "https://www.nfl.com/news/2026-nfl-season-week-1-what-we-learned-from-sunday-s-games",
+                  "src": "NFL.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-primetime-picks",
+              "time": "9:25-9:40",
+              "title": "Primetime picks",
+              "items": [
+                {
+                  "h": "SNF: Colts at Chiefs, Sunday 8:20PM NBC - KC -6.5, O/U 47.5",
+                  "t": "Kansas City comes off the Mahomes return and the Kenneth Walker debut. Colts WR Alec Pierce is sidelined per Indianapolis' injury report.",
+                  "url": "https://roundtable.io/sports/nfl/colts/news/colts-vs-chiefs-week-2-injury-report-alec-pierce-sidelined",
+                  "src": "Roundtable"
+                },
+                {
+                  "h": "MNF: Giants at Rams, Monday 8:15PM ESPN - Rams -7.5, O/U 48.5",
+                  "t": "John Harbaugh's Giants are 1-0 after beating Dallas 28-20 in his debut.",
+                  "url": "https://www.nfl.com/schedules/2026/by-week/week-2",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "PANEL: primetime picks",
+                  "t": "Side and total on both primetime games, one sentence each.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            },
+            {
+              "id": "nfl-sunday-afternoon-picks",
+              "time": "9:40-9:55",
+              "title": "Sunday afternoon picks",
+              "items": [
+                {
+                  "h": "Saints at Ravens, 1PM CBS - Baltimore -8.5, O/U 47.5",
+                  "t": "Zay Flowers did not practice Wednesday or Thursday with the hamstring and a third straight DNP would make him a bleak bet to play. Lamar Jackson and Derrick Henry come off a 31-0 halftime lead on Indianapolis in Week 1.",
+                  "url": "https://www.cbssports.com/nfl/news/zay-flowers-injury-who-will-step-up-baltimore-ravens-new-orleans-saints",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Bengals at Texans, 1PM CBS - Houston -3, O/U 46.5",
+                  "t": "Joe Burrow has been limited all week with back tightness and says he is playing barring a need for surgery. Ja'Marr Chase had 2 catches for 12 yards in Week 1.",
+                  "url": "https://www.cbssports.com/nfl/news/joe-burrow-injury-watch-nfl-week-2",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Texans banged up on both sides for that one",
+                  "t": "Nico Collins did not practice Thursday with the hamstring and is called unlikely for Sunday. Jadeveon Clowney (knee) and Ed Ingram (groin) are also dinged.",
+                  "url": "https://www.si.com/nfl/bengals/onsi/bengals-injury-report-joe-burrow-continues-practicing-texans-stars-downgrading",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Vikings at Bears, 1PM FOX - Chicago -5.5, O/U 49.5",
+                  "t": "Kyler Murray is still in concussion protocol with limited participation Wednesday and Thursday; Carson Wentz is the contingency starter. Jordan Mason went to IR with a fractured thumb.",
+                  "url": "https://www.vikings.com/news/injury-report-week-2-chicago-bears-2026",
+                  "src": "Vikings.com"
+                },
+                {
+                  "h": "Rapoport: Murray \"has a chance to play Sunday if he continues to progress\"",
+                  "t": "No Friday designation was posted when we pulled this.",
+                  "url": "https://bolavip.com/en/nfl/vikings-receive-encouraging-kyler-murray-injury-update-for-week-2-game-vs-bears",
+                  "src": "Bolavip"
+                },
+                {
+                  "h": "Commanders at Cowboys, 4:25PM FOX - Dallas -3.5, O/U 50.5",
+                  "t": "Highest total on our board. Washington had Frankie Luvu (groin), Chig Okonkwo (hamstring) and Javon Kinlaw (back) all not practicing, with several others limited. Dallas is 0-1 after losing the opener to the Giants.",
+                  "url": "https://www.commanders.com/news/commanders-vs-cowboys-week-2-injury-report-2026",
+                  "src": "Commanders.com"
+                },
+                {
+                  "h": "Raiders at Chargers, 4:05PM CBS - LAC -6.5 (DraftKings had -7), O/U 43.5",
+                  "t": "Ladd McConkey did not practice Wednesday with the rib and is day-to-day. KeAndre Lambert-Smith and Derius Davis are out, and Elijah Molden (hamstring) and Teair Tart (ankle) also missed Wednesday.",
+                  "url": "https://athlonsports.com/nfl/los-angeles-chargers/ladd-mcconkey-chargers-injury-updates-week-2",
+                  "src": "Athlon Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-quick-hits-and-lock",
+              "time": "9:55-10:00",
+              "title": "Quick hits and lock of the week",
+              "items": [
+                {
+                  "h": "Dolphins at 49ers, 4:25PM FOX - SF -13.5, O/U 45.5, the biggest spread of the week",
+                  "t": "Miami's implied total of 16.0 is the lowest on the board.",
+                  "url": "https://www.sportsbookreview.com/odds/nfl/",
+                  "src": "SportsBookReview / bet365"
+                },
+                {
+                  "h": "Tua is doubtful with the oblique and Cooper Rush is in line to start",
+                  "t": "Also on the board: Brock Bowers out again for Las Vegas, RJ Harvey questionable with a hamstring in Denver.",
+                  "url": "https://www.profootballnetwork.com/fantasy-football/fantasy-football-injury-report-week-2-2026/",
+                  "src": "Pro Football Network"
+                },
+                {
+                  "h": "A.J. Brown is on IR in New England with a high ankle sprain",
+                  "t": "He will miss at least four games - Steelers, Jaguars, Bills, Raiders - and is eligible to return Week 6 against the Jets.",
+                  "url": "https://www.cbssports.com/nfl/news/patriots-a-j-brown-injured-reserve",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "PANEL: lock of the week",
+                  "t": "One lock from each panelist, side or total, with the reason in a sentence.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hour 2",
+      "subtitle": "Fantasy Football Hour with John, Frank, and Trent Conner - Week 2 lineups lock Sunday at 1PM",
+      "blocks": [
+        {
+          "title": "Block 1: What We Learned and Who to Add",
+          "time": "",
+          "segments": [
+            {
+              "id": "ff-week1-fallout",
+              "time": "",
+              "title": "Week 1 fallout",
+              "items": [
+                {
+                  "h": "Breakouts: Swift 18-124-3, Coker 8-138-2, Lamar 324 and a rushing TD",
+                  "t": "D'Andre Swift ran for three scores. Jalen Coker went 8 for 138 and 2 on nine targets with Bryce Young throwing for 361 and 4. Lamar Jackson threw for 324 in Declan Doyle's new Baltimore scheme.",
+                  "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-1-booms-and-busts-ravens-bears-impress-in-historic-high-scoring-start-to-2026-221207478.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "Busts: Chase 2-12, Loveland 0 catches, Odunze 2, Pollard 7-35",
+                  "t": "Ja'Marr Chase caught 2 of 4 targets for 12 yards. Colston Loveland was shut out on two targets. Tony Pollard managed 7 carries for 35 behind poor quarterback play.",
+                  "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-week-1-booms-and-busts-ravens-bears-impress-in-historic-high-scoring-start-to-2026-221207478.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "Role changes that matter: Mason to IR, Lane's wrist, Collins' hamstring",
+                  "t": "Jordan Mason's fractured thumb opens the Minnesota backfield for Aaron Jones. Ja'Kobi Lane fractured his wrist reaching for an end zone catch and is out roughly a month. Nico Collins' hamstring elevates Dalton Schultz in Houston.",
+                  "url": "https://bleacherreport.com/articles/25499266-jakobi-lane-injury-update-latest-rumors-ravens-wrs-status-fantasy-implications-after-week-1",
+                  "src": "Bleacher Report"
+                }
+              ]
+            },
+            {
+              "id": "ff-pickups",
+              "time": "",
+              "title": "Pickups before Sunday",
+              "items": [
+                {
+                  "h": "RB: Kaelon Black (SF, 15%), Tyler Allgeier (ARI, 42%), Mike Washington Jr. (LV, 39%)",
+                  "t": "Black took 14 carries, four more than McCaffrey, and is the priority add - but see the groin note below. Allgeier out-carried Jeremiyah Love 17 to 11.",
+                  "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-2-wr-jalen-coker-rb-kaelon-black-among-top-targets",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "WR: Jalen Coker (CAR, 51%), Devaughn Vele (NO, 13%), Caleb Douglas (MIA, 16%), Mack Hollins (NE, 0%)",
+                  "t": "Vele caught 7 of 9 for 69 and a goal-line TD. Hollins is the A.J. Brown replacement in New England, deep leagues only.",
+                  "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-2-wr-jalen-coker-rb-kaelon-black-among-top-targets",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "TE Michael Mayer (LV, 30%) and QB Bryce Young (CAR, 11%), Carson Wentz (MIN, 0%)",
+                  "t": "Mayer caught 6 of 7 targets and Brock Bowers is out again. D/ST adds: 49ers (7%), Packers (16%), Buccaneers (13%), Panthers (1%). No live FAAB percentages were published in the sources we pulled - set your own.",
+                  "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-2-wr-jalen-coker-rb-kaelon-black-among-top-targets",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Kaelon Black was added to the injury report Thursday with a groin",
+                  "t": "Limited practice, extent uncertain. Check the Friday designation before you spend FAAB.",
+                  "url": "https://www.rotowire.com/football/headlines/kaelon-black-injury-added-to-injury-report-637782",
+                  "src": "RotoWire"
+                }
+              ]
+            },
+            {
+              "id": "best-starts-of-the-week",
+              "time": "",
+              "title": "SEGMENT: Best Starts of the Week",
+              "items": [
+                {
+                  "h": "Must starts: Jordan Love, Aaron Jones, Croskey-Merritt, Golden, Tre Tucker, Fannin",
+                  "t": "Love faces a Jets pass rush that pressured on 23.1% in Week 1 and is down a starting safety. Aaron Jones inherits the Minnesota backfield with Mason on IR. Jacory Croskey-Merritt draws a Dallas defense that gave up 27.3 fantasy points to running backs. Harold Fannin Jr. gets Tampa Bay.",
+                  "url": "https://fantasysixpack.net/2026-fantasy-football-week-2-start-sit/",
+                  "src": "Fantasy Six Pack"
+                },
+                {
+                  "h": "Sits: Trevor Lawrence, Ashton Jeanty, Jeremiyah Love, Jaylen Waddle, Sam LaPorta",
+                  "t": "Jeanty's Week 1 receiving TD was the outlier and the game script is a risk. Love had 11 carries to Allgeier's 17 and is still working off the high ankle. Waddle caught 1 of 3 targets in a 28-attempt offense. Too many mouths in Detroit for LaPorta.",
+                  "url": "https://fantasysixpack.net/2026-fantasy-football-week-2-start-sit/",
+                  "src": "Fantasy Six Pack"
+                },
+                {
+                  "h": "Streamers: QB Wentz and Bryce Young, TE Gesicki and Schultz, D/ST Carolina",
+                  "t": "Wentz is 1% rostered after going 12/19 for 133 and 3 in relief, and Chicago gave up 361 and 3 to Bryce Young. Young himself is 4-1 career against Atlanta. Gesicki led Cincinnati with 7 targets and the Bengals have allowed the worst fantasy TE production in the league six seasons running, which makes Schultz the mirror play. Carolina's D/ST faces an Atlanta offense that had 143 passing yards, 2 interceptions and went 2-for-12 on third down.",
+                  "url": "https://fantasysixpack.net/2026-fantasy-football-week-2-streamers-qb-te-def/",
+                  "src": "Fantasy Six Pack"
+                },
+                {
+                  "h": "PANEL: the Jalen Coker argument",
+                  "t": "He shows up as a top waiver add and as a Week 2 sit in two different outlets. Settle it on air.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: The Long Game",
+          "time": "",
+          "segments": [
+            {
+              "id": "stash-before-breakout",
+              "time": "",
+              "title": "SEGMENT: Stash Before Breakout",
+              "items": [
+                {
+                  "h": "Kincaid graduates - he is a start now, not a stash",
+                  "t": "Dalton Kincaid caught 5 of 6 targets for a career-high 130 yards in Week 1, including catches of 40 and 35.",
+                  "url": "https://www.rotowire.com/football/headlines/dalton-kincaid-news-career-high-130-yards-in-week-1-637120",
+                  "src": "RotoWire"
+                },
+                {
+                  "h": "Denzel Boston: 2 catches, 59 yards and a TD, but it came in garbage time",
+                  "t": "It was a Browns blowout loss to Jacksonville, so the role is still unproven. Hold as a flier.",
+                  "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-09-13/denzel-boston-scores-garbage-time-td-in-week-1",
+                  "src": "NBC Sports"
+                },
+                {
+                  "h": "Chris Rodriguez Jr. - drop him, Tuten has the job",
+                  "t": "Rodriguez had 6 carries for 23 yards on 23 snaps. Bhayshul Tuten took 15 carries at 4.4 a pop plus a 22-yard catch on 28 snaps. Note the name on last week's list was wrong: it is Chris, not Cody.",
+                  "url": "https://www.rotowire.com/football/headlines/chris-rodriguez-news-handles-six-carries-in-week-1-win-637220",
+                  "src": "RotoWire"
+                },
+                {
+                  "h": "Ja'Kobi Lane - drop in standard leagues",
+                  "t": "Fractured wrist, surgery expected, roughly a month. New stash in its place: Rashod Bateman, with Flowers hurting and Lane gone the Baltimore targets have to land somewhere.",
+                  "url": "https://bleacherreport.com/articles/25499266-jakobi-lane-injury-update-latest-rumors-ravens-wrs-status-fantasy-implications-after-week-1",
+                  "src": "Bleacher Report"
+                },
+                {
+                  "h": "Tank Dell still on IR, designated to return, no date found",
+                  "t": "Deep stash only until he is actually practicing.",
+                  "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-08-30/tank-dell-lands-on-injured-reserve-return",
+                  "src": "NBC Sports"
+                },
+                {
+                  "h": "Holds: Kaelon Black, Mike Washington Jr., Emmett Johnson",
+                  "t": "Black is still the best of the group if the groin clears. Washington is a handcuff only behind Jeanty at 39% rostered. Emmett Johnson had 8 carries for 24 and 2 catches for 44 behind Kenneth Walker's 26 touches - the receiving role is the reason to hold.",
+                  "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-2-wr-jalen-coker-rb-kaelon-black-among-top-targets",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Housekeeping: \"Gabe Diggs\" does not exist",
+                  "t": "The name on last week's list was wrong. It is Stefon Diggs in Washington. We could not retrieve his Week 1 line, so do not put a number on air.",
+                  "url": "https://www.cbssports.com/fantasy/football/news/stefon-diggs-washington-commanders-fantasy-football-2026-outlook/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "vegas-best-start",
+              "time": "",
+              "title": "SEGMENT: Vegas' Best Start",
+              "items": [
+                {
+                  "h": "Highest implied totals: SF 29.5, BAL 28.0, LAR 28.0, CHI 27.5, KC 27.0, DAL 27.0",
+                  "t": "Math is half the total plus half the spread. San Francisco at 29.5 off SF -13.5 and a 45.5 total is the play of the week against a Miami team starting Cooper Rush. Baltimore 28.0 off -8.5 and 47.5. Chicago 27.5 off -5.5 and 49.5 - Caleb Williams, Swift and an Odunze bounce-back.",
+                  "url": "https://www.sportsbookreview.com/odds/nfl/",
+                  "src": "SportsBookReview / bet365"
+                },
+                {
+                  "h": "Shootout to target: Commanders-Cowboys at 50.5, the highest total on the board",
+                  "t": "Dallas implies 27.0 and Washington 23.5 off DAL -3.5. Both sides are startable.",
+                  "url": "https://www.sportsbookreview.com/odds/nfl/",
+                  "src": "SportsBookReview / bet365"
+                },
+                {
+                  "h": "Lowest implied totals: MIA 16.0, LV 18.5, NO 19.5, IND 20.5, NYG 20.5",
+                  "t": "Fade the skill players in those games where you have a choice. Miami at 16.0 is the lowest number on the board.",
+                  "url": "https://www.sportsbookreview.com/odds/nfl/",
+                  "src": "SportsBookReview / bet365"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Final Lineup Calls and Close",
+          "time": "",
+          "segments": [
+            {
+              "id": "final-lineup-calls",
+              "time": "",
+              "title": "Final calls",
+              "items": [
+                {
+                  "h": "PANEL: start, sit and one waiver add from each host",
+                  "t": "One name each, with the reason in a sentence.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "PANEL: the Kyler Murray contingency",
+                  "t": "Anyone rostering Murray needs a Sunday morning backup plan if he does not clear protocol.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            },
+            {
+              "id": "close-and-tease",
+              "time": "",
+              "title": "Close and tease",
+              "items": [
+                {
+                  "h": "Close: primetime reminders and next week's tease",
+                  "t": "SNF Colts-Chiefs and MNF Giants-Rams reminders, then tease Week 3 waivers and the Brock Bowers return.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
