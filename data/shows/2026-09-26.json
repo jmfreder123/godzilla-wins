@@ -1,0 +1,634 @@
+{
+  "id": "2026-09-26",
+  "show": "Godzilla Wins",
+  "date": "Saturday, September 26, 2026",
+  "airtime": "9:00-11:00 AM ET",
+  "lineup": "Hour 1 is all college football - the Week 3 reset and new poll, West Virginia, and picks for the biggest games on today's Week 4 board. Hour 2 opens live from Knoxville with Michael Patrick Leahy on scene for Texas at Tennessee, then goes to NFL Week 3 - Thursday night, the Week 2 rewind, Sunday and primetime picks, and a lock of the week from each panelist.",
+  "lines_note": "NFL spreads and totals from DraftKings via CBS Sports, captured Friday 9/25 at 11:12 AM ET. College football lines from FanDuel via SportsGrid, captured 9/25. Lines will move before kickoff.",
+  "verify": [
+    "Michael Patrick Leahy's live hit at 10:00 ET from Knoxville - confirm the connection and his location before air, and have a backup topic ready if the shot drops.",
+    "Giants' starting QB with Jaxson Dart out for the season - Yahoo reports Jameis Winston, other reports mention Russell Wilson. Check the Friday depth chart before naming him.",
+    "Atlanta and Green Bay records after Thursday night. We have both at 1-2; confirm on the NFL standings page.",
+    "Caleb Williams (hamstring) and Tyson Bagent (concussion protocol) for Monday night. Case Keenum is the fallback.",
+    "Friday NFL designations: Puka Nacua (hip), Zay Flowers (hamstring), Nico Collins (hamstring), DJ Moore (shoulder), Brock Bowers (knee), Sam Darnold.",
+    "Oregon's ranking - the AP poll has them 20th, some slate pages list 21st.",
+    "Week number for the college slate - most outlets call today Week 4, one calls it Week 5. Say Week 4.",
+    "Iowa-Michigan and Oklahoma-Georgia spreads differ by about a point between FanDuel and DraftKings/CBS.",
+    "No Oklahoma State injury report confirmed for the WVU game - check Friday's release before listing anyone.",
+    "Ohio State's one loss is reported as the Texas comeback but we did not confirm that game's box score. Don't cite a score.",
+    "Home team on the Rio game - it is a neutral site and sources label it both ways. Pick one and stay consistent.",
+    "Re-pull all NFL and college lines Saturday morning and say which book on air."
+  ],
+  "hours": [
+    {
+      "title": "Hour 1",
+      "subtitle": "College Football - Week 3 reset, West Virginia, and Week 4 picks",
+      "blocks": [
+        {
+          "title": "Block 1: Week 3 Reset and the New Poll",
+          "time": "9:00-9:15",
+          "segments": [
+            {
+              "id": "cfb-poll",
+              "time": "9:00-9:05",
+              "title": "The new AP Top 25",
+              "items": [
+                {
+                  "h": "Texas still No. 1, Ole Miss jumps to No. 4",
+                  "t": "AP Top 10: 1 Texas (3-0), 2 Georgia (3-0), 3 Notre Dame (3-0), 4 Ole Miss (3-0), 5 Indiana (3-0), 6 Miami (3-0), 7 Ohio State (2-1), 8 Alabama (3-0), 9 BYU (3-0), 10 LSU (2-1).",
+                  "url": "https://www.ncaa.com/news/football/article/2026-09-20/ole-miss-enters-top-five-latest-ap-top-25-college-football-rankings",
+                  "src": "NCAA.com"
+                },
+                {
+                  "h": "11 through 25",
+                  "t": "Texas Tech, USC (4-0), Penn State, Tennessee, Utah, Louisville, Iowa, Michigan, Missouri, Oregon, Florida, SMU, Texas A&M, Mississippi State, Houston.",
+                  "url": "https://www.cbssports.com/college-football/rankings/ap/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Biggest movers",
+                  "t": "Ole Miss into the top five. Texas A&M down 15 spots to 23 after losing at home. SMU down six after losing to Louisville, which climbed to 16. Michigan back at 18.",
+                  "url": "https://www.ncaa.com/news/football/article/2026-09-20/ole-miss-enters-top-five-latest-ap-top-25-college-football-rankings",
+                  "src": "NCAA.com"
+                }
+              ]
+            },
+            {
+              "id": "cfb-results",
+              "time": "9:05-9:10",
+              "title": "Biggest results",
+              "items": [
+                {
+                  "h": "Ole Miss 32, LSU 24",
+                  "t": "Trinidad Chambliss went 33-of-48 for 363 yards and three total touchdowns in Oxford. Traylon Ray had 7 catches for 115 and a score, and Ole Miss outgained LSU 426-330. The Rebels are the only team in the country with two wins over ranked opponents.",
+                  "url": "https://www.foxsports.com/college-football/lsu-tigers-vs-ole-miss-rebels-sep-19-2026-game-boxscore-43276",
+                  "src": "FOX Sports"
+                },
+                {
+                  "h": "Around the country",
+                  "t": "Alabama 50 Florida State 36, Georgia 45 Arkansas 17, Florida 44 Auburn 39, Notre Dame 27 Michigan State 10, Ohio State 59 Kent State 3, Iowa 55 Northern Iowa 0.",
+                  "url": "https://www.pff.com/news/college-football-scores-and-recaps-for-every-week-3-game",
+                  "src": "PFF"
+                }
+              ]
+            },
+            {
+              "id": "cfb-upsets",
+              "time": "9:10-9:15",
+              "title": "The upsets",
+              "items": [
+                {
+                  "h": "Kentucky 31, Texas A&M 21 - upset of the week",
+                  "t": "Unranked Kentucky walked into College Station and beat the then-No. 9 Aggies, who fell 15 spots in the poll.",
+                  "url": "https://www.espn.com/college-football/recap?gameId=401856694",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "How Kentucky pulled it off",
+                  "t": "Full recap of the Wildcats' win in College Station.",
+                  "url": "https://www.wkyt.com/2026/09/19/kentucky-football-upsets-no9-texas-am-college-station/",
+                  "src": "WKYT"
+                },
+                {
+                  "h": "Two ranked teams went down on the same day",
+                  "t": "Kentucky and West Virginia both knocked off top-25 opponents in Week 3.",
+                  "url": "https://www.ncaa.com/news/football/article/2026-09-19/west-virginia-kentucky-pull-top-25-upsets-week-3",
+                  "src": "NCAA.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: West Virginia",
+          "time": "9:15-9:30",
+          "segments": [
+            {
+              "id": "wvu-last-week",
+              "time": "9:15-9:21",
+              "title": "WVU 38, No. 25 Virginia 27",
+              "items": [
+                {
+                  "h": "Hawkins accounted for all five touchdowns",
+                  "t": "Michael Hawkins Jr. put up 313 total yards - 10-of-17 for 190 and two scores through the air, 18 carries for 123 and three on the ground. He was named Big 12 Offensive Player of the Week.",
+                  "url": "https://www.whsv.com/2026/09/20/west-virginia-beats-no-25-virginia-38-27-dukes-mayo-classic/",
+                  "src": "WHSV (AP)"
+                },
+                {
+                  "h": "This was a neutral site, not a road game",
+                  "t": "The Duke's Mayo Classic at Bank of America Stadium in Charlotte. Roughly two-thirds of the 39,377 in the building wore gold.",
+                  "url": "https://www.whsv.com/2026/09/20/west-virginia-beats-no-25-virginia-38-27-dukes-mayo-classic/",
+                  "src": "WHSV (AP)"
+                },
+                {
+                  "h": "3-0 for the first time since 2018",
+                  "t": "The Mountaineers are receiving AP votes but have not cracked the poll.",
+                  "url": "https://wvusports.com/sports/football/schedule",
+                  "src": "WVU Athletics"
+                }
+              ]
+            },
+            {
+              "id": "wvu-today",
+              "time": "9:21-9:30",
+              "title": "Today: Oklahoma State at West Virginia",
+              "items": [
+                {
+                  "h": "7:00 PM ET on FS1, Gold Rush game in Morgantown",
+                  "t": "West Virginia -1.5, total 61.5. Moneyline WVU -122, Oklahoma State +102 (FanDuel, captured 9/25).",
+                  "url": "https://www.sportsgrid.com/cfb/game/oklahoma-state-cowboys-west-virginia-mountaineers-scores-odds-picks-props-september-26-2026/00d09044-a028-4b1d-acc8-bb0290e755c3",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "Two of the best offenses in the league",
+                  "t": "Both teams average better than 35 points a game. Oklahoma State leads the Big 12 in total offense at 528.0 yards and passing at 306.3; West Virginia leads it in rushing at 281.3 behind Hawkins and Cam Cook. Cowboys QB Drew Mestemaker went 20-of-22 for 324 and five scores against Murray State.",
+                  "url": "https://www.nationalfootballpost.com/2026/09/24/high-octane-offenses-collide-as-ok-state-wvu-open-big-12-play",
+                  "src": "National Football Post"
+                },
+                {
+                  "h": "Oklahoma State is carrying two long losing streaks",
+                  "t": "Eighteen straight Big 12 losses and eleven straight on the road, their longest road skid since the 1930s - but they already own an upset of Oregon this season.",
+                  "url": "https://www.nationalfootballpost.com/2026/09/24/high-octane-offenses-collide-as-ok-state-wvu-open-big-12-play",
+                  "src": "National Football Post"
+                },
+                {
+                  "h": "WVU injury news is mostly good",
+                  "t": "Rich Rodriguez says LG Nick Krahe will be limited in practice but should play. WR Jaden Bray (hip bruise), TE Cam Ball and RBs Martavious Boswell and Talley are all expected to go, and WR Prince Strachan gets an expanded role after a full week.",
+                  "url": "https://www.si.com/college/westvirginia/football/rich-rodriguez-delivers-good-injury-news-on-several-key-wvu-players",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Talker for the segment",
+                  "t": "Big 12 opener, a one-and-a-half point line and a 61.5 total. Is this the week WVU gets into the poll, or is Oklahoma State the trap?",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Week 4 Picks",
+          "time": "9:30-10:00",
+          "segments": [
+            {
+              "id": "cfb-pick-texas",
+              "time": "9:30-9:38",
+              "title": "No. 1 Texas at No. 14 Tennessee",
+              "items": [
+                {
+                  "h": "Noon ET on ABC, Texas -4.5, total 54.5",
+                  "t": "The top-ranked team on the road in the loudest building on the schedule. Michael Patrick Leahy is on scene for this one and joins us live at 10:00 in Hour 2.",
+                  "url": "https://www.sportsgrid.com/cfb/game/texas-longhorns-tennessee-volunteers-scores-odds-picks-props-september-26-2026/2e29bed1-d037-464d-85db-955364f3a8d4",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "Arch Manning has never been to Knoxville",
+                  "t": "Manning has 664 yards, 7 TD and 2 INT, including a 20-point comeback against Ohio State. Tennessee counters with freshman Faizon Brandon at 552 yards and 6 TD. Vols RB DeSean Bishop (hip) left the Kennesaw State game twice but is expected to play. Steve Sarkisian: \"I just had assumed he'd been to Knoxville. He's never been before.\"",
+                  "url": "https://www.thesportsleader.com/2026/09/22/arch-manning-no-1-texas-making-first-visit-to-no-14-tennessee/",
+                  "src": "The Sports Leader (AP)"
+                }
+              ]
+            },
+            {
+              "id": "cfb-pick-olemiss",
+              "time": "9:38-9:44",
+              "title": "No. 4 Ole Miss at No. 21 Florida",
+              "items": [
+                {
+                  "h": "3:30 PM ET on ABC, Florida -3.5, total 58.5",
+                  "t": "A top-five team getting points on the road - the best ranked-versus-ranked number on the board. Moneyline Ole Miss +130.",
+                  "url": "https://www.sportsgrid.com/cfb/game/ole-miss-rebels-florida-gators-scores-odds-picks-props-september-26-2026/2c0bf999-4439-44ec-9d79-eada03bdc25b",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "Florida is coming off a 44-39 win over Auburn",
+                  "t": "Ole Miss has beaten two ranked teams already; the Gators just came out of a shootout.",
+                  "url": "https://www.pff.com/news/college-football-scores-and-recaps-for-every-week-3-game",
+                  "src": "PFF"
+                }
+              ]
+            },
+            {
+              "id": "cfb-pick-oregon",
+              "time": "9:44-9:50",
+              "title": "No. 20 Oregon at No. 12 USC",
+              "items": [
+                {
+                  "h": "7:30 PM ET on NBC, Oregon -2.5, total 61.5",
+                  "t": "Road favorite against a 4-0 USC team riding a 10-game home winning streak, and the highest total of the marquee games.",
+                  "url": "https://www.sportsgrid.com/cfb/game/oregon-ducks-usc-trojans-scores-odds-picks-props-september-26-2026/fb6e9fff-a2ad-4863-a520-77f27f7fa8a1",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "USC's injury list is long",
+                  "t": "Out: WR Corey Simms, S Kendarius Reddick, LB Taylor Johnson, OL Kilian O'Connor. Doubtful: WR Trent Mosley. Questionable: DT Jahkeem Stewart, RB Deshonne Redeaux, S Alex Graham, LB Jadyn Walker.",
+                  "url": "https://sports.yahoo.com/articles/usc-trojans-lengthy-injury-report-001312883.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "Oregon's receiver room is banged up too",
+                  "t": "Out: WR Jeremiah McClellan (broken foot), OL Trent Ferguson (knee, season), ILB Brayden Platt, RB Simeon Price. WR Jalen Lott is doubtful - Dan Lanning: \"I don't know that you'll see him in this game.\"",
+                  "url": "https://sports.yahoo.com/articles/oregon-football-releases-injury-report-010052259.html",
+                  "src": "Yahoo Sports"
+                }
+              ]
+            },
+            {
+              "id": "cfb-pick-bigten",
+              "time": "9:50-9:55",
+              "title": "No. 17 Iowa at No. 18 Michigan",
+              "items": [
+                {
+                  "h": "3:30 PM ET on CBS, Michigan -5.5, total 38.5",
+                  "t": "The lowest total on the board by a wide margin. DraftKings has it at Michigan -4.5 and 37.5 - a full point of difference, so say which book.",
+                  "url": "https://www.sportsgrid.com/cfb/game/iowa-hawkeyes-michigan-wolverines-scores-odds-picks-props-september-26-2026/78d630b6-9aa5-4559-9279-789075765789",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "Iowa is getting bodies back",
+                  "t": "TE DJ Vonnahme missed the Northern Iowa game but Kirk Ferentz is optimistic, and RBs Kamari Moulton and LJ Phillips are expected available.",
+                  "url": "https://sports.yahoo.com/articles/iowa-vs-michigan-odds-injuries-110226944.html",
+                  "src": "Yahoo Sports"
+                }
+              ]
+            },
+            {
+              "id": "cfb-pick-rest",
+              "time": "9:55-10:00",
+              "title": "Rest of the board",
+              "items": [
+                {
+                  "h": "No. 23 Texas A&M at No. 10 LSU, 7:30 PM ET on ABC",
+                  "t": "LSU -9.5, total 52.5. Both teams are 2-1 and coming off losses; the loser is in real trouble.",
+                  "url": "https://www.sportsgrid.com/cfb/game/texas-am-aggies-lsu-tigers-scores-odds-picks-props-september-26-2026/b26e55ba-9b06-4ce1-acbc-6db009687a47",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "Oklahoma at No. 2 Georgia, 3:30 PM ET on ESPN",
+                  "t": "Georgia -12.5 and 44.5 at FanDuel, Georgia -14 and 43.5 at CBS. Georgia is averaging 59.3 points and nobody has come within 32. CBS reports friction between Oklahoma QB John Mateer and OC Ben Arbuckle, and Georgia RB Nate Frazier (ankle) is expected to play.",
+                  "url": "https://www.cbssports.com/college-football/news/georgia-oklahoma-prediction-picks-odds-spread-where-to-watch-live/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Illinois at No. 7 Ohio State, Noon on FOX",
+                  "t": "Ohio State -27.5, total 53.5. All three Illinois tight ends are out for the season along with WR Alex Perry and OG Brandon Henderson. Ohio State has won 10 straight in the series.",
+                  "url": "https://writingillini.com/illinois-football-at-ohio-state-how-to-watch-odds-injuries-and-more-in-massive-big-ten-matchup",
+                  "src": "Writing Illini"
+                },
+                {
+                  "h": "Also worth a mention",
+                  "t": "No. 19 Missouri at No. 24 Mississippi State, 7:30 on SEC Network. Wake Forest at No. 16 Louisville, Noon on ESPN.",
+                  "url": "https://fbschedules.com/college-football-schedule-tv-selections-september-26-2026/",
+                  "src": "FBSchedules"
+                },
+                {
+                  "h": "Full Week 4 grid",
+                  "t": "Every matchup, kickoff time and network for today.",
+                  "url": "https://fbschedules.com/college-football-schedule-2026-week-4-matchups-tv-kickoff-times/",
+                  "src": "FBSchedules"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hour 2",
+      "subtitle": "Live from Knoxville with Michael Patrick Leahy, then NFL Week 3",
+      "blocks": [
+        {
+          "title": "Block 1: Live from Knoxville - Michael Patrick Leahy",
+          "time": "10:00-10:12",
+          "segments": [
+            {
+              "id": "leahy-live",
+              "time": "10:00-10:08",
+              "title": "LIVE HIT: Michael Patrick Leahy on scene at Neyland",
+              "items": [
+                {
+                  "h": "Leahy joins at 10:00 ET, on site for Texas at Tennessee",
+                  "t": "Hard start at the top of the hour. Set him up with where he is and how long until kickoff - the game goes at Noon ET on ABC, so he is about two hours out when we come to him.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "The game he is there for",
+                  "t": "No. 1 Texas at No. 14 Tennessee. Texas -4.5, total 54.5 (FanDuel, captured 9/25). The top-ranked team on the road in the loudest building on the schedule.",
+                  "url": "https://www.sportsgrid.com/cfb/game/texas-longhorns-tennessee-volunteers-scores-odds-picks-props-september-26-2026/2e29bed1-d037-464d-85db-955364f3a8d4",
+                  "src": "SportsGrid (FanDuel)"
+                },
+                {
+                  "h": "Questions for Leahy",
+                  "t": "What does the campus feel like this morning? How is Knoxville treating the Arch Manning storyline - is it a Peyton thing or a Texas thing? Weather and field conditions. Any early word on DeSean Bishop (hip). What is the crowd expecting from freshman Faizon Brandon?",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "Background for the conversation",
+                  "t": "Manning has 664 yards, 7 TD and 2 INT and has never been to Knoxville. Brandon is at 552 yards and 6 TD. Sarkisian: \"I just had assumed he'd been to Knoxville. He's never been before.\"",
+                  "url": "https://www.thesportsleader.com/2026/09/22/arch-manning-no-1-texas-making-first-visit-to-no-14-tennessee/",
+                  "src": "The Sports Leader (AP)"
+                }
+              ]
+            },
+            {
+              "id": "leahy-handoff",
+              "time": "10:08-10:12",
+              "title": "Reaction and handoff",
+              "items": [
+                {
+                  "h": "Panel reaction",
+                  "t": "Quick round on what Leahy told us and whether it changes anybody's read on the game or the number.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "Handoff",
+                  "t": "Thank Leahy, tell listeners where to follow him for the rest of the day, and turn the hour to the NFL.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: What Already Happened",
+          "time": "10:12-10:28",
+          "segments": [
+            {
+              "id": "nfl-tnf",
+              "time": "10:12-10:19",
+              "title": "Thursday night: Falcons 35, Packers 14",
+              "items": [
+                {
+                  "h": "Atlanta scored 27 straight at Lambeau",
+                  "t": "The Falcons fell behind 7-0 and never trailed again. Bijan Robinson ran for 194 and two touchdowns as part of 242 team rushing yards, and Drake London caught 9 for 194 - the first time since 1976 that two road teammates each had 190-plus scrimmage yards.",
+                  "url": "https://www.cbssports.com/nfl/news/bijan-robinson-runs-for-194-yards-as-falcons-rout-packers-35-14/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Penix looked like himself in his return",
+                  "t": "Michael Penix Jr., back from a November ACL tear, went 18-of-25 for 256 with a touchdown and a pick.",
+                  "url": "https://www.cbssports.com/nfl/news/bijan-robinson-runs-for-194-yards-as-falcons-rout-packers-35-14/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Green Bay could not run it at all",
+                  "t": "Jordan Love threw 53 times for 312 yards and two scores while the Packers rushed eight times for 17 yards. It is their first home-opener loss since 2012, ending a 13-game streak.",
+                  "url": "https://www.cbssports.com/nfl/news/bijan-robinson-runs-for-194-yards-as-falcons-rout-packers-35-14/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Thursday injuries",
+                  "t": "Falcons CB A.J. Terrell went on injured reserve with a groin injury. Packers LB Edgerrin Cooper was evaluated for a concussion and G Jacob Monk hurt a quad. Green Bay was already without Jayden Reed (neck) and Aaron Banks (knee/toe).",
+                  "url": "https://www.nfl.com/news/nfl-week-3-injury-report-player-statuses-for-all-16-games",
+                  "src": "NFL.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-wk2",
+              "time": "10:19-10:25",
+              "title": "Week 2 rewind",
+              "items": [
+                {
+                  "h": "Biggest upset: Raiders 26, Chargers 14",
+                  "t": "Kirk Cousins went 8-of-12 for 181 yards and three touchdowns on throws of 10-plus air yards. Las Vegas is 2-0, the Chargers 0-2.",
+                  "url": "https://www.nfl.com/news/nfl-week-2-sunday-aftermath-top-5-storylines",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Mahomes went vintage in overtime",
+                  "t": "382 yards and three touchdowns with a career-high 14 play-action completions in a 33-30 OT win over Indianapolis.",
+                  "url": "https://www.nfl.com/news/nfl-week-2-sunday-aftermath-top-5-storylines",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "It was a defense week",
+                  "t": "Vikings 9, Bears 3 with Brian Flores blitzing Caleb Williams on 81.8 percent of dropbacks. Carolina beat Atlanta 34-3 behind Devin Lloyd's sack, two interceptions and a pick-six. Five defenses allowed no touchdowns and New England held Pittsburgh to three.",
+                  "url": "https://www.nfl.com/news/nfl-week-2-sunday-aftermath-top-5-storylines",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Dak passed Romo",
+                  "t": "Four touchdown passes against Washington moved Dak Prescott past Tony Romo for the Cowboys career record in a 37-20 win.",
+                  "url": "https://www.nfl.com/news/nfl-week-2-sunday-aftermath-top-5-storylines",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Full Week 2 scoreboard",
+                  "t": "Every score, including Rams 28, Giants 6 on Monday night.",
+                  "url": "https://nflschedules.com/weeks/2026/week-2/",
+                  "src": "NFLSchedules.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-board",
+              "time": "10:25-10:28",
+              "title": "The Week 3 board",
+              "items": [
+                {
+                  "h": "How we are handling the numbers",
+                  "t": "Every spread and total this hour is DraftKings via CBS Sports, captured Friday morning at 11:12 ET. Sixteen games, no byes.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "The extremes",
+                  "t": "Highest total on the board is Ravens-Cowboys in Rio at 52.5, four points clear of anything else. Lowest are Seahawks-Commanders and Titans-Giants at 40.5. Biggest spread is Kansas City -11.5 in Miami.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Full schedule and kickoff times",
+                  "t": "Every Week 3 game with its window and network.",
+                  "url": "https://www.nfl.com/schedules/2026/by-week/week-3",
+                  "src": "NFL.com"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Sunday Picks",
+          "time": "10:28-10:46",
+          "segments": [
+            {
+              "id": "nfl-rio",
+              "time": "10:28-10:34",
+              "title": "Ravens vs Cowboys in Rio de Janeiro",
+              "items": [
+                {
+                  "h": "4:25 PM ET on CBS, Baltimore -3, total 52.5",
+                  "t": "The NFL's first game in Rio and the highest total of the week by four points.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Both sides are shorthanded",
+                  "t": "Zay Flowers did not practice with a hamstring and is trending toward missing it. Dallas is out LB DeMarvion Overshown, CB Cobie Durant, S Malik Hooker and S P.J. Locke - a shredded secondary against Lamar Jackson.",
+                  "url": "https://www.nfl.com/news/nfl-week-3-injury-report-player-statuses-for-all-16-games",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "The angle",
+                  "t": "Baltimore lost to New Orleans and is fighting off 0-2 talk; Dak is coming off a franchise-record night. A 52.5 with a depleted Dallas secondary is the number to talk about.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                }
+              ]
+            },
+            {
+              "id": "nfl-seawas",
+              "time": "10:34-10:39",
+              "title": "Seahawks at Commanders",
+              "items": [
+                {
+                  "h": "1:00 PM ET on FOX, Seattle -7, total 40.5",
+                  "t": "The lowest total on the board, and a seven-point road favorite.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Seattle is on a franchise-record 12-game winning streak",
+                  "t": "Counting the playoffs. Drew Lock has a 127.3 rating, zero turnovers and four touchdown passes - all four to Jaxon Smith-Njigba, who is on pace to be only the second player ever with 120-plus receiving yards and a touchdown in each of his team's first three games. Sam Darnold returned to practice Wednesday and is day-to-day.",
+                  "url": "https://www.cbssports.com/nfl/news/shorthanded-commanders-host-rolling-seahawks-in-week-3/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Washington is starting Marcus Mariota",
+                  "t": "Jayden Daniels is out indefinitely with a dislocated elbow and is seeking additional opinions. The Commanders are 0-2.",
+                  "url": "https://www.nfl.com/news/marcus-mariota-commanders-week-3-qb-jayden-daniels-elbow",
+                  "src": "NFL.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-afc",
+              "time": "10:39-10:43",
+              "title": "Chiefs at Dolphins and Bengals at Steelers",
+              "items": [
+                {
+                  "h": "Chiefs at Dolphins, 1:00 PM ET on CBS",
+                  "t": "Kansas City -11.5, total 46 - the biggest spread of the week. Mahomes is coming off the 382-yard overtime win, Miami off a 35-13 beating in San Francisco.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Bengals at Steelers, 1:00 PM ET on CBS",
+                  "t": "Cincinnati -3.5, total 42.5. The Bengals are 2-0 and held Houston to six points; Pittsburgh scored three in New England. A rare road favorite in this rivalry.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                }
+              ]
+            },
+            {
+              "id": "nfl-rest-sunday",
+              "time": "10:43-10:46",
+              "title": "Rest of the Sunday board",
+              "items": [
+                {
+                  "h": "Chargers at Bills, 1:00 PM ET on FOX",
+                  "t": "Buffalo -7, total 46. Los Angeles is 0-2 after losing to the Raiders; Buffalo hung 41 on Detroit. Bills WR DJ Moore (shoulder) is day-to-day and the Chargers are down two tight ends.",
+                  "url": "https://www.sharpfootballanalysis.com/betting/nfl-injury-report-this-week-all-32-teams/",
+                  "src": "Sharp Football Analysis"
+                },
+                {
+                  "h": "Titans at Giants, 1:00 PM ET on CBS",
+                  "t": "New York -3, total 40.5, with the quarterback situation unsettled - the live number of the early window.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Jaxson Dart is out for the season",
+                  "t": "Torn MCL in the Monday night loss to the Rams, followed by knee surgery.",
+                  "url": "https://www.cbssports.com/nfl/news/jaxson-dart-knee-surgery-end-giants-qbs-2026-season/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "The rest of the card",
+                  "t": "Patriots at Jaguars JAX -3 / 45.5. Texans at Colts HOU -2.5 / 43.5. Jets at Lions DET -6.5 / 48. Panthers at Browns CAR -2.5 / 42.5. Vikings at Buccaneers MIN -1.5 / 42.5. Cardinals at 49ers SF -8.5 / 47.5. Raiders at Saints NO -3 / 43.5, with Brock Bowers close to returning.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 4: Primetime and Locks",
+          "time": "10:46-11:00",
+          "segments": [
+            {
+              "id": "nfl-snf",
+              "time": "10:46-10:51",
+              "title": "SNF: Rams at Broncos",
+              "items": [
+                {
+                  "h": "8:20 PM ET on NBC, Rams -2.5, total 45.5",
+                  "t": "The tightest primetime line of the weekend.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Puka Nacua is likely out again",
+                  "t": "Sean McVay said Nacua is not making great progress on the hip. Denver is coming off a win over Jacksonville.",
+                  "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-3-latest-news-updates-for-caleb-williams-jaxson-dart-more-with-fantasy-football-analysis-174807900.html",
+                  "src": "Yahoo Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-mnf",
+              "time": "10:51-10:56",
+              "title": "MNF: Eagles at Bears",
+              "items": [
+                {
+                  "h": "8:15 PM ET on ABC and ESPN, Eagles -3.5, total 43.5",
+                  "t": "Monday night in Chicago.",
+                  "url": "https://cbssports.com/betting/news/week-3-nfl-odds-betting-lines-totals-spreads",
+                  "src": "CBS Sports (DraftKings)"
+                },
+                {
+                  "h": "Chicago may be down to its third quarterback",
+                  "t": "Caleb Williams (hamstring) did not practice all week and is week to week; backup Tyson Bagent is in concussion protocol. Fourteen-year veteran Case Keenum is next in line.",
+                  "url": "https://www.nfl.com/news/bears-qb-caleb-williams-considered-week-to-week-after-suffering-hamstring-injury",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Philadelphia's report is ugly too",
+                  "t": "DNPs for TE Dallas Goedert (MCL sprain, multiple weeks), WR DeVonta Smith (hamstring), RB Tank Bigsby and RB Will Shipley. Saquon Barkley was limited with a stinger. Chicago is also without K Cairo Santos, RB Kyle Monangai and CB Tyrique Stevenson.",
+                  "url": "https://www.philadelphiaeagles.com/news/eagles-at-bears-injury-report-2026-nfl-week-3-monday-night-football-caleb-williams-saquon-barkley",
+                  "src": "PhiladelphiaEagles.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-locks",
+              "time": "10:56-11:00",
+              "title": "Lock of the week and close",
+              "items": [
+                {
+                  "h": "Lock of the week from each panelist",
+                  "t": "Around the table - one play, one sentence of reasoning, on the record. No repeats.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "Close",
+                  "t": "Reset the primetime schedule - Rams at Broncos Sunday night on NBC, Eagles at Bears Monday night on ABC and ESPN, and the Rio game at 4:25 on CBS. Tease next week.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
