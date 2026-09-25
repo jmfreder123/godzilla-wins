@@ -3,10 +3,11 @@
   "show": "Godzilla Wins",
   "date": "Saturday, September 26, 2026",
   "airtime": "9:00-11:00 AM ET",
-  "lineup": "Hour 1 is all college football - the Week 3 reset and new poll, West Virginia, and picks for the biggest games on today's Week 4 board. Hour 2 opens live from Knoxville with Michael Patrick Leahy on scene for Texas at Tennessee, then goes to NFL Week 3 - Thursday night, the Week 2 rewind, Sunday and primetime picks, and a lock of the week from each panelist.",
+  "lineup": "Hour 1 is all college football - the Week 3 reset and new poll, West Virginia, and picks for the biggest games on today's Week 4 board. Hour 2 opens live from Knoxville with Michael Patrick Leahy on scene for Texas at Tennessee, then five minutes of fantasy with Trent Conner, then NFL Week 3 - Thursday night, the Week 2 rewind, Sunday and primetime picks, and a lock of the week from each panelist.",
   "lines_note": "NFL spreads and totals from DraftKings via CBS Sports, captured Friday 9/25 at 11:12 AM ET. College football lines from FanDuel via SportsGrid, captured 9/25. Lines will move before kickoff.",
   "verify": [
     "Michael Patrick Leahy's live hit at 10:00 ET from Knoxville - confirm the connection and his location before air, and have a backup topic ready if the shot drops.",
+    "Fantasy segment: Denzel Boston's exact Week 2 line and roster percentage (sources conflict), Keon Coleman's ankle (listed as a top add by one outlet, out by another), and Travis Etienne's team label (sources list both New Orleans and Jacksonville).",
     "Giants' starting QB with Jaxson Dart out for the season - Yahoo reports Jameis Winston, other reports mention Russell Wilson. Check the Friday depth chart before naming him.",
     "Atlanta and Green Bay records after Thursday night. We have both at 1-2; confirm on the NFL standings page.",
     "Caleb Williams (hamstring) and Tyson Bagent (concussion protocol) for Monday night. Case Keenum is the fallback.",
@@ -296,7 +297,7 @@
     },
     {
       "title": "Hour 2",
-      "subtitle": "Live from Knoxville with Michael Patrick Leahy, then NFL Week 3",
+      "subtitle": "Live from Knoxville with Michael Patrick Leahy, five minutes of fantasy with Trent Conner, then NFL Week 3",
       "blocks": [
         {
           "title": "Block 1: Live from Knoxville - Michael Patrick Leahy",
@@ -346,7 +347,7 @@
                 },
                 {
                   "h": "Handoff",
-                  "t": "Thank Leahy, tell listeners where to follow him for the rest of the day, and turn the hour to the NFL.",
+                  "t": "Thank Leahy, tell listeners where to follow him for the rest of the day, and go to Trent for the fantasy five.",
                   "url": "",
                   "src": ""
                 }
@@ -355,12 +356,61 @@
           ]
         },
         {
-          "title": "Block 2: What Already Happened",
-          "time": "10:12-10:28",
+          "title": "Block 2: Five Minutes of Fantasy with Trent Conner",
+          "time": "10:12-10:17",
+          "segments": [
+            {
+              "id": "trent-fantasy",
+              "time": "10:12-10:17",
+              "title": "SEGMENT: Trent's Week 3 fantasy five",
+              "items": [
+                {
+                  "h": "Start of the week: David Montgomery (HOU) vs IND",
+                  "t": "The Colts are bottom-three in rush yards over expected and success rate and have allowed nine red zone trips. Montgomery also got the two-minute work in Week 2.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-running-backs-for-week-3",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Tight end start: Dalton Kincaid (BUF) vs LAC",
+                  "t": "He leads Buffalo in routes, targets, catches and receiving yards. Mark Andrews vs DAL is the other one - Dallas allows the third-most fantasy points per target to tight ends.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-3",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Sit of the week: Travis Etienne vs LV",
+                  "t": "Alvin Kamara's return tanked his usage - two targets in Week 2. Also sit Colston Loveland against an Eagles defense allowing a league-low 10.2 fantasy points to tight ends.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-running-backs-for-week-3",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Waiver add: Denzel Boston (CLE)",
+                  "t": "The top overall add - 21.2 percent target share, a 95 percent route rate and eighth in the NFL in red zone targets. About 33 percent rostered, worth roughly 10 percent FAAB.",
+                  "url": "https://dknetwork.draftkings.com/2026/09/22/is-denzel-boston-a-must-add-waiver-wire-pickup-for-week-3/",
+                  "src": "DK Network"
+                },
+                {
+                  "h": "Stash before he breaks out: Rashod Bateman (BAL)",
+                  "t": "Seven catches on nine targets for 88 yards with Zay Flowers out, and Baltimore has the highest implied total on the board in Rio. Cheap streamer if you need one: Drew Lock at 7 percent rostered against a Washington defense that allows the most passing scores in the league.",
+                  "url": "https://www.si.com/onsi/fantasy/waiver-wire/add-pickup-drop-wide-receivers-week-3-fantasy-football-denzel-boston-rashod-bateman",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Keep it to five",
+                  "t": "Hard out at 10:17 - one line per name, Trent picks the order.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: What Already Happened",
+          "time": "10:17-10:31",
           "segments": [
             {
               "id": "nfl-tnf",
-              "time": "10:12-10:19",
+              "time": "10:17-10:23",
               "title": "Thursday night: Falcons 35, Packers 14",
               "items": [
                 {
@@ -391,7 +441,7 @@
             },
             {
               "id": "nfl-wk2",
-              "time": "10:19-10:25",
+              "time": "10:23-10:28",
               "title": "Week 2 rewind",
               "items": [
                 {
@@ -428,7 +478,7 @@
             },
             {
               "id": "nfl-board",
-              "time": "10:25-10:28",
+              "time": "10:28-10:31",
               "title": "The Week 3 board",
               "items": [
                 {
@@ -454,12 +504,12 @@
           ]
         },
         {
-          "title": "Block 3: Sunday Picks",
-          "time": "10:28-10:46",
+          "title": "Block 4: Sunday Picks",
+          "time": "10:31-10:47",
           "segments": [
             {
               "id": "nfl-rio",
-              "time": "10:28-10:34",
+              "time": "10:31-10:36",
               "title": "Ravens vs Cowboys in Rio de Janeiro",
               "items": [
                 {
@@ -484,7 +534,7 @@
             },
             {
               "id": "nfl-seawas",
-              "time": "10:34-10:39",
+              "time": "10:36-10:40",
               "title": "Seahawks at Commanders",
               "items": [
                 {
@@ -509,7 +559,7 @@
             },
             {
               "id": "nfl-afc",
-              "time": "10:39-10:43",
+              "time": "10:40-10:44",
               "title": "Chiefs at Dolphins and Bengals at Steelers",
               "items": [
                 {
@@ -528,7 +578,7 @@
             },
             {
               "id": "nfl-rest-sunday",
-              "time": "10:43-10:46",
+              "time": "10:44-10:47",
               "title": "Rest of the Sunday board",
               "items": [
                 {
@@ -560,12 +610,12 @@
           ]
         },
         {
-          "title": "Block 4: Primetime and Locks",
-          "time": "10:46-11:00",
+          "title": "Block 5: Primetime and Locks",
+          "time": "10:47-11:00",
           "segments": [
             {
               "id": "nfl-snf",
-              "time": "10:46-10:51",
+              "time": "10:47-10:51",
               "title": "SNF: Rams at Broncos",
               "items": [
                 {
