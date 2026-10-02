@@ -2,7 +2,7 @@
   "id": "2026-10-03",
   "show": "Godzilla Wins",
   "date": "Saturday, October 3, 2026",
-  "airtime": "9:00-11:00 AM ET",
+  "airtime": "8:00-10:00 AM ET",
   "lineup": "Hour 1 is all college football Week 5 - the new AP poll, Florida's blowout of Ole Miss, three ranked-on-ranked upsets, West Virginia's loss to Oklahoma State and the trip to Iowa State, then picks on Ohio State-Iowa, Alabama-Mississippi State, Miami-Clemson, Florida-Missouri and Notre Dame-North Carolina. Hour 2 opens with Trent Conner's five-minute fantasy hit, then NFL Week 4 from Thursday night's Browns win through Sunday, the implied team totals and both primetime games.",
   "lines_note": "College football lines are FanDuel via FanDuel Research, captured Sept. 30 to Oct. 1; where only another book had a number it is labeled in the segment. NFL lines are DraftKings via ESPN, captured Friday Oct. 2 at 11:19 a.m. ET - one board for all 15 remaining games.",
   "verify": [
@@ -28,15 +28,15 @@
   "hours": [
     {
       "title": "Hour 1",
-      "subtitle": "College Football Week 5 (9:00-10:00)",
+      "subtitle": "College Football Week 5 (8:00-9:00)",
       "blocks": [
         {
           "title": "Block 1: Week 4 reset and the new poll",
-          "time": "9:00-9:15",
+          "time": "8:00-8:15",
           "segments": [
             {
               "id": "cfb-new-poll",
-              "time": "9:00-9:05",
+              "time": "8:00-8:05",
               "title": "The new AP Top 25",
               "items": [
                 {
@@ -61,7 +61,7 @@
             },
             {
               "id": "cfb-biggest-results",
-              "time": "9:05-9:10",
+              "time": "8:05-8:10",
               "title": "Biggest results",
               "items": [
                 {
@@ -92,7 +92,7 @@
             },
             {
               "id": "cfb-upsets",
-              "time": "9:10-9:15",
+              "time": "8:10-8:15",
               "title": "The upsets",
               "items": [
                 {
@@ -125,11 +125,11 @@
         },
         {
           "title": "Block 2: West Virginia",
-          "time": "9:15-9:30",
+          "time": "8:15-8:30",
           "segments": [
             {
               "id": "wvu-okstate-postmortem",
-              "time": "9:15-9:22",
+              "time": "8:15-8:22",
               "title": "Oklahoma State 41, West Virginia 24: what went wrong",
               "items": [
                 {
@@ -166,7 +166,7 @@
             },
             {
               "id": "wvu-at-iowa-state",
-              "time": "9:22-9:30",
+              "time": "8:22-8:30",
               "title": "Today: West Virginia at Iowa State, Noon ET, TNT",
               "items": [
                 {
@@ -223,11 +223,11 @@
         },
         {
           "title": "Block 3: Week 5 picks",
-          "time": "9:30-10:00",
+          "time": "8:30-9:00",
           "segments": [
             {
               "id": "pick-ohio-state-iowa",
-              "time": "9:30-9:37",
+              "time": "8:30-8:37",
               "title": "No. 5 Ohio State at No. 14 Iowa, 3:30 ET, CBS",
               "items": [
                 {
@@ -270,7 +270,7 @@
             },
             {
               "id": "pick-alabama-miss-state",
-              "time": "9:37-9:43",
+              "time": "8:37-8:43",
               "title": "No. 7 Alabama at No. 16 Mississippi State, Noon ET, ABC",
               "items": [
                 {
@@ -307,7 +307,7 @@
             },
             {
               "id": "pick-miami-clemson",
-              "time": "9:43-9:48",
+              "time": "8:43-8:48",
               "title": "No. 4 Miami at Clemson, 7:30 ET, ABC",
               "items": [
                 {
@@ -344,7 +344,7 @@
             },
             {
               "id": "pick-florida-missouri",
-              "time": "9:48-9:52",
+              "time": "8:48-8:52",
               "title": "No. 8 Florida at No. 25 Missouri, 3:30 ET, ABC",
               "items": [
                 {
@@ -381,7 +381,7 @@
             },
             {
               "id": "pick-notre-dame-unc-hot-seat",
-              "time": "9:52-9:56",
+              "time": "8:52-8:56",
               "title": "No. 3 Notre Dame at North Carolina, Noon ET, ESPN - and the hot seat",
               "items": [
                 {
@@ -418,7 +418,7 @@
             },
             {
               "id": "cfb-rest-of-board-heisman",
-              "time": "9:56-10:00",
+              "time": "8:56-9:00",
               "title": "Rest of the board, the Heisman and the bracket",
               "items": [
                 {
@@ -465,15 +465,15 @@
     },
     {
       "title": "Hour 2",
-      "subtitle": "Trent Conner's fantasy five at 10:00, then NFL Week 4 (10:05-11:00)",
+      "subtitle": "Trent Conner's fantasy five at 9:00, then NFL Week 4 (9:05-10:00)",
       "blocks": [
         {
           "title": "Block 1: SEGMENT - Trent's Fantasy Five",
-          "time": "10:00-10:05",
+          "time": "9:00-9:05",
           "segments": [
             {
               "id": "trent-fantasy-five",
-              "time": "10:00-10:05",
+              "time": "9:00-9:05",
               "title": "SEGMENT: Trent's fantasy five",
               "items": [
                 {
@@ -506,11 +506,11 @@
         },
         {
           "title": "Block 2: What already happened",
-          "time": "10:05-10:20",
+          "time": "9:05-9:20",
           "segments": [
             {
               "id": "nfl-thursday-night",
-              "time": "10:05-10:12",
+              "time": "9:05-9:12",
               "title": "Thursday night: Browns 27, Steelers 24",
               "items": [
                 {
@@ -541,7 +541,7 @@
             },
             {
               "id": "nfl-week3-rewind-board",
-              "time": "10:12-10:20",
+              "time": "9:12-9:20",
               "title": "Week 3 rewind and the Week 4 board",
               "items": [
                 {
@@ -592,11 +592,11 @@
         },
         {
           "title": "Block 3: Sunday picks",
-          "time": "10:20-10:45",
+          "time": "9:20-9:45",
           "segments": [
             {
               "id": "nfl-early-window",
-              "time": "10:20-10:30",
+              "time": "9:20-9:30",
               "title": "Early window",
               "items": [
                 {
@@ -633,7 +633,7 @@
             },
             {
               "id": "nfl-late-window",
-              "time": "10:30-10:38",
+              "time": "9:30-9:38",
               "title": "Late window and quick hits",
               "items": [
                 {
@@ -670,7 +670,7 @@
             },
             {
               "id": "nfl-implied-totals",
-              "time": "10:38-10:45",
+              "time": "9:38-9:45",
               "title": "Where the number says the value is",
               "items": [
                 {
@@ -703,11 +703,11 @@
         },
         {
           "title": "Block 4: Primetime and locks",
-          "time": "10:45-11:00",
+          "time": "9:45-10:00",
           "segments": [
             {
               "id": "nfl-snf",
-              "time": "10:45-10:50",
+              "time": "9:45-9:50",
               "title": "SNF: Lions at Panthers, 8:20 ET, NBC",
               "items": [
                 {
@@ -720,7 +720,7 @@
             },
             {
               "id": "nfl-mnf",
-              "time": "10:50-10:55",
+              "time": "9:50-9:55",
               "title": "MNF: Falcons at Saints, 8:15 ET, ESPN",
               "items": [
                 {
@@ -733,7 +733,7 @@
             },
             {
               "id": "nfl-locks-close",
-              "time": "10:55-11:00",
+              "time": "9:55-10:00",
               "title": "Lock of the week and close",
               "items": [
                 {
