@@ -1,0 +1,785 @@
+{
+  "id": "2026-10-10",
+  "show": "Godzilla Wins",
+  "date": "Saturday, October 10, 2026",
+  "airtime": "9:00-11:00 AM ET",
+  "lineup": "Hour 1 is college football Week 6 - the new AP poll, West Virginia's 45-42 loss at Iowa State and Arizona coming to Morgantown at noon, then Georgia-Alabama and Red River; Hour 2 opens with Trent Conner's fantasy five and turns to NFL Week 5, the Thursday night upset in Dallas, the Sunday board, implied team totals and a Ravens-Falcons line that moved nine points on Lamar Jackson.",
+  "lines_note": "College football lines from FanDuel via FanDuel Research, captured Oct 5, 2026, 11:35 PM ET, with a CBS Sports Oct 9 cross-check noted where the two differ; WVU-Arizona from FanDuel via Arizona on SI, Oct 8. NFL lines from the DraftKings-based Week 5 board via Sports Betting Dime, captured Friday Oct 9, 2026, 10:59 AM ET, cross-checked against CBS Sports' DraftKings board of Oct 8 - one board for all 14 remaining games. Re-pull everything Saturday morning.",
+  "verify": [
+    "Airtime could not be confirmed this week. The clock below is built on the usual 9:00-11:00 AM ET. If the show is 8-10 again, every block and topic time slides an hour earlier; kickoff times do not move.",
+    "No Friday NFL game-status designations were posted when the board was pulled. Re-check nfl.com/injuries Saturday morning for Lamar Jackson, Ja'Marr Chase, Tee Higgins, Saquon Barkley, DeVonta Smith, Justin Jefferson, D.J. Moore, Ladd McConkey and Kyle Monangai.",
+    "Lamar Jackson (ankle) has NOT been officially ruled out. Reported as an 'outside chance' to play, with Tyler Huntley likely. Ravens-Falcons has moved roughly nine points on the news (lookahead Ravens -6 to Falcons -3.5) and one book page still shows Ravens -3.5 with a 46.5 total - re-pull.",
+    "Bears-Packers: most sources have Chicago -1.5 to -3 as the road favorite, but one CBS page lists Green Bay -2.5. Confirm the side before reading a number on air.",
+    "CeeDee Lamb left Thursday's game and missed second-half time. No diagnosis, severity or designation has been released - do not characterize it.",
+    "Bucky Irving's Thursday touchdown total is 1 in the box score and 2 in the CBS live blog. Use the 165 rushing yards, which both confirm, and skip the TD count.",
+    "WVU-Arizona total has been quoted at 60.5, 61.0, 61.5 and 62.5 in three days. Call it 'around 61' or re-pull FanDuel Saturday morning.",
+    "WVU's ATS record is 2-3 per Covers and 2-2-1 per SI. Do not cite an ATS mark for the Mountaineers.",
+    "Rich Rodriguez's harsher quotes - 'atrocious,' 'not coached well enough' - trace only to the school's own recap page and an aggregator with no named beat writer. Use the WV MetroNews quotes and nothing sourced to social media.",
+    "Michael Hawkins Jr. being an Oklahoma transfer is unconfirmed. Do not use it as a Red River crossover angle on air.",
+    "John Mateer injury items in search results date to October 2025. He is Oklahoma's starter with no 2026 injury reported.",
+    "Alabama's injury report for Georgia was not pulled. Only Georgia's side is sourced.",
+    "Friday night's finals will be in the books by showtime: Iowa at Washington 9:00PM FOX, Iowa State at BYU 10:15PM ESPN, Florida State at Louisville 7:00PM. Get the scores before the poll talk.",
+    "Heisman prices are an Oct 3 FanDuel board with an Oct 6 refresh in which only Jeremiah Smith's number is FanDuel-attributed.",
+    "Tee Higgins' injury is described as groin, abductor and adductor by three different outlets. Say 'a groin-area injury.'",
+    "Minnesota-Michigan and Northwestern-Penn State are described as upsets but neither Michigan nor Penn State appears in the Oct 4 AP Top 25. Call them upsets without a ranking attached."
+  ],
+  "hours": [
+    {
+      "title": "Hour 1",
+      "subtitle": "College Football Week 6 (9:00-10:00)",
+      "blocks": [
+        {
+          "title": "Block 1: Week 5 Reset and the New Poll",
+          "time": "9:00-9:15",
+          "segments": [
+            {
+              "id": "cfb-ap-top-25",
+              "time": "9:00-9:05",
+              "title": "The new AP Top 25",
+              "items": [
+                {
+                  "h": "Texas holds at No. 1 and the top five is unchanged",
+                  "t": "1 Texas (4-0, 61 first-place votes), 2 Georgia (5-0), 3 Notre Dame (5-0), 4 Miami (5-0), 5 Ohio State (4-1), 6 Alabama (5-0), 7 Indiana (5-0), 8 BYU (4-0), 9 Ole Miss (3-1), 10 LSU (4-1). 11-25: Texas Tech, Utah, Oregon, Missouri, Tennessee, Florida, Mississippi State, Oklahoma State, USC, Iowa, UCLA, Houston, Boise State, SMU, Pittsburgh.",
+                  "url": "https://www.ncaa.com/news/football/article/2026-10-04/top-five-holds-alabama-rises-latest-ap-top-25-college-football-rankings",
+                  "src": "NCAA.com"
+                },
+                {
+                  "h": "Missouri up 11, Florida down 8",
+                  "t": "Missouri jumped from 25 to 14 after beating Florida; Florida fell from 8 to 16. BYU moved 10 to 8, Alabama 7 to 6, Oregon 15 to 13, and Iowa dropped 14 to 20.",
+                  "url": "https://www.ncaa.com/news/football/article/2026-10-04/top-five-holds-alabama-rises-latest-ap-top-25-college-football-rankings",
+                  "src": "NCAA.com"
+                },
+                {
+                  "h": "Pittsburgh is in at 25, Kentucky won and fell out",
+                  "t": "Pitt is 5-0 and makes its first appearance of the year. Kentucky won in overtime and still dropped out of the poll - it is now the first team receiving votes at 160, ahead of Wake Forest 142, Wisconsin 88, Duke 83, Northwestern 59 and Nebraska 48.",
+                  "url": "https://www.ncaa.com/news/football/article/2026-10-04/top-five-holds-alabama-rises-latest-ap-top-25-college-football-rankings",
+                  "src": "NCAA.com"
+                }
+              ]
+            },
+            {
+              "id": "cfb-week5-results",
+              "time": "9:05-9:10",
+              "title": "Biggest results",
+              "items": [
+                {
+                  "h": "Missouri 45, Florida 17 - the only top-10 team to lose",
+                  "t": "Austin Simmons went 23-of-30 for 340 and 2 TD, Missouri piled up 560 total yards, and Jadan Baugh was held to 13 yards on 12 carries a week after everyone made him a Heisman story.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Alabama 56, Mississippi State 23",
+                  "t": "Keelon Russell was 16-of-22 for 285 and three touchdowns plus a rushing score, and Mississippi State turned it over four times.",
+                  "url": "https://www.foxsports.com/live-blog/college-football/college-football-week-5-top-moments-results-michigan-minnesota-alabama-mississippi-st",
+                  "src": "FOX Sports"
+                },
+                {
+                  "h": "Ohio State 31, Iowa 14 and the Jeremiah Smith show",
+                  "t": "Smith had 11 catches for 206 and 2 TD and is now at 44 catches, 823 yards and 9 touchdowns through five games, with Ohio State receiving records attached.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Miami 41, Clemson 13",
+                  "t": "Six sacks, nine tackles for loss, a 39-yard pick-six by JJ Dunnigan and two rushing touchdowns from Mark Fletcher Jr.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Georgia 38, Vanderbilt 14; Tennessee 24, Auburn 14; BYU 17, TCU 10",
+                  "t": "Gunner Stockton 25-of-32 for 295 and 3 TD. DeSean Bishop ran for 216 and three scores for Tennessee. BYU won with 218 total yards and a 45.8 percent completion day from Bear Bachmeier - that is the tell on the No. 8 team in the country.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "cfb-week5-upsets",
+              "time": "9:10-9:15",
+              "title": "The upsets and the near-misses",
+              "items": [
+                {
+                  "h": "Minnesota 20, Michigan 14",
+                  "t": "Bryce Underwood went 10-of-21 for 101 with two interceptions, Michigan is 0-2 in the Big Ten, and it is P.J. Fleck's first win over Michigan.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Northwestern 34, Penn State 13",
+                  "t": "Penn State got outrushed 413 to 48. That is the whole story of that program right now, and USC walks into Beaver Stadium tonight as a 1.5-point underdog.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Kentucky 35, South Carolina 34 in overtime",
+                  "t": "Kentucky trailed 17-0 and Kenny Minchey threw the game-winning two-point conversion to Willie Rodriguez in overtime instead of kicking the tie.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "USC 25, Washington 21",
+                  "t": "USC erased an 11-point deficit, Jahkeem Stewart returned a fumble 48 yards, and Prophet Brown broke up the fourth-down throw with 39 seconds left. First USC win over Washington since 2016.",
+                  "url": "https://www.foxsports.com/live-blog/college-football/college-football-week-5-top-moments-results-michigan-minnesota-alabama-mississippi-st",
+                  "src": "FOX Sports"
+                },
+                {
+                  "h": "Around the board",
+                  "t": "Nebraska 48, Maryland 23 with Anthony Colandrea at 238 passing and 108 rushing and three touchdowns; Wake Forest 57, Stanford 3; UNLV 39, California 31 after Cal led 24-7 at the half.",
+                  "url": "https://www.cbssports.com/college-football/news/college-football-winners-losers-week-5-2026-scores-results/",
+                  "src": "CBS Sports"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: West Virginia",
+          "time": "9:15-9:30",
+          "segments": [
+            {
+              "id": "wvu-iowa-state-loss",
+              "time": "9:15-9:22",
+              "title": "Iowa State 45, West Virginia 42 - the second straight 40-point giveaway",
+              "items": [
+                {
+                  "h": "WVU put up 518 yards and lost anyway",
+                  "t": "The Mountaineers are 3-2, 0-2 in the Big 12. 518 total yards, 291 of them rushing, against 577 and 29 first downs for Iowa State.",
+                  "url": "https://www.cbssports.com/college-football/gametracker/recap/NCAAF_20261003_WVU@IOWAST/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Michael Hawkins Jr. had 376 all-purpose yards",
+                  "t": "11-of-23 for 227 and 2 TD with no interceptions, plus 20 carries for 149 and two more touchdowns. Cam Cook went 20-142-2 and DJ Epps had 4-114-1.",
+                  "url": "https://wvusports.com/news/2026/10/3/football-cyclones-win-big-12-shootout",
+                  "src": "WVU Athletics"
+                },
+                {
+                  "h": "Epps fumbled in the final minute",
+                  "t": "WVU was past midfield needing only a field goal when Epps put it on the ground.",
+                  "url": "https://wvmetronews.com/2026/10/04/stuff-i-hadnt-seen-in-years-rodriguez-searching-for-answers-after-wvu-yields-40-plus-points-again/",
+                  "src": "WV MetroNews"
+                },
+                {
+                  "h": "Aiden Flora ran for 212 and threw two touchdown passes",
+                  "t": "Three rushing touchdowns and two halfback-pass touchdowns, both in the first half. Jaylen Raynor was 19-of-27 for 264 and Cody Jackson had 6-160-1.",
+                  "url": "https://wvusports.com/news/2026/10/3/football-cyclones-win-big-12-shootout",
+                  "src": "WVU Athletics"
+                },
+                {
+                  "h": "Rodriguez: 'key problems to a level I haven't seen in a while'",
+                  "t": "On the defense: \"We've certainly got some key problems to a level I haven't seen in a while. We've got to fix that in a hurry.\" On the two halfback-pass scores: \"You've got to be kidding me. One was a zone coverage where there is just no reason,\" and \"It is stuff I hadn't seen in years.\" On the fumble: \"DJ was just trying to make a play. At that point, you have to be careful spinning around and stuff like that,\" and \"We felt good with the ball past midfield and only needing a field goal. It didn't happen. Give them credit.\"",
+                  "url": "https://wvmetronews.com/2026/10/04/stuff-i-hadnt-seen-in-years-rodriguez-searching-for-answers-after-wvu-yields-40-plus-points-again/",
+                  "src": "WV MetroNews"
+                }
+              ]
+            },
+            {
+              "id": "wvu-arizona-today",
+              "time": "9:22-9:30",
+              "title": "Today: Arizona at West Virginia, Noon ET, TNT",
+              "items": [
+                {
+                  "h": "Arizona -3.5, total around 61, noon on TNT, truTV and HBO Max",
+                  "t": "FanDuel had Arizona -3.5 with a 62.5 total on Oct 8; other books have been at 60.5, 61.0 and 61.5. Milan Puskar Stadium, with J.B. Long, Mike Golic Jr. and Allie LaForce. Arizona is 4-1 (1-1 Big 12), WVU 3-2 (0-2).",
+                  "url": "https://www.si.com/college/arizona/football/arizona-west-virginia-odds-spread-over-under-for-week-6",
+                  "src": "Arizona on SI"
+                },
+                {
+                  "h": "Rich Rodriguez coached Arizona for six years - and a former Mountaineer is coming home with them",
+                  "t": "Arizona receiver Rodney Gallagher III used to play at West Virginia, and he is in a bigger role because Arizona is down its top three wideouts and its top tight end.",
+                  "url": "https://tucson.com/sports/arizonawildcats/football/article_77565f14-fae3-4acd-bafa-4292b8872d43.html",
+                  "src": "Arizona Daily Star"
+                },
+                {
+                  "h": "Noah Fifita is the most efficient quarterback WVU has seen",
+                  "t": "124-of-168, 74 percent, 1,415 yards, 13 TD, 3 INT, plus 103 rushing yards and three rushing scores. Arizona is second in the Big 12 in passing at 299.8 a game. The backfield is a committee: Kedrick Reescano 218 and 3 TD at 3.6 a carry, Antwan Roberts Jr. 162, Quincy Craig 142.",
+                  "url": "https://tucson.com/sports/arizonawildcats/football/article_77565f14-fae3-4acd-bafa-4292b8872d43.html",
+                  "src": "Arizona Daily Star"
+                },
+                {
+                  "h": "Danny Gonzales' defense is the problem on paper",
+                  "t": "Arizona allows 16.6 points and 79 rushing yards a game and blitzes heavily. LB Chase Kennedy has four sacks. Arizona's only loss is at BYU.",
+                  "url": "https://www.on3.com/sites/wv-sports/news/game-preview-west-virginia-football-vs-arizona",
+                  "src": "On3 / WV Sports"
+                },
+                {
+                  "h": "WVU is third nationally in rushing and 110th in scoring defense",
+                  "t": "37.4 points and 294.0 rushing yards a game. Cam Cook leads the Big 12 at 130.4 a game with 652 yards and five scores; Hawkins has 836 passing and 574 rushing with 11 rushing touchdowns; DJ Epps is at 14-393-4; Kamari Wilson has 30 tackles. The defense is allowing 28.8 a game.",
+                  "url": "https://tucson.com/sports/arizonawildcats/football/article_77565f14-fae3-4acd-bafa-4292b8872d43.html",
+                  "src": "Arizona Daily Star"
+                },
+                {
+                  "h": "Availability, with one more report due Friday night",
+                  "t": "WVU OUT: Andre Devine, Armoni Weaver-Bomar, Darius Wiley, Emory Snyder. DOUBTFUL: Cam Ball and starting corner Nick Taylor, who was downgraded. Probable: John Neider, Harper Holloman, Ashton Woods, Jason Chambers.",
+                  "url": "https://www.si.com/college/westvirginia/football/wvu-starting-corner-downgraded-to-doubtful-vs-arizona",
+                  "src": "West Virginia on SI"
+                },
+                {
+                  "h": "Arizona is without its top three receivers and top tight end",
+                  "t": "OUT: Tre Spivey (broken foot, out for the season - he still leads their receivers at 22-314-4), Giovanni Richardson, Chris Hunter III, TE Cole Rusk. RB Ismail Mahdi has been ruled ineligible.",
+                  "url": "https://www.si.com/college/westvirginia/football/arizona-will-be-without-3-top-receivers-its-top-tight-end-vs-wvu",
+                  "src": "West Virginia on SI"
+                },
+                {
+                  "h": "Series and trends",
+                  "t": "WVU leads 1-0 - the only meeting was a 31-26 Mountaineer win in Tucson in 2024. WVU is 5-0 to the Over this season. Arizona is 1-4 ATS and has gone 2-8 to the Under in its last 10. The Arizona Daily Star picked Arizona 27-10.",
+                  "url": "https://tucson.com/sports/arizonawildcats/football/article_77565f14-fae3-4acd-bafa-4292b8872d43.html",
+                  "src": "Arizona Daily Star"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Week 6 Picks",
+          "time": "9:30-10:00",
+          "segments": [
+            {
+              "id": "pick-georgia-alabama",
+              "time": "9:30-9:38",
+              "title": "No. 2 Georgia at No. 6 Alabama, 7:30PM ABC",
+              "items": [
+                {
+                  "h": "Alabama -1.5, total 51.5",
+                  "t": "FanDuel had 51.5; CBS listed 52.5 on Oct 9. Both teams are 5-0 and this is the biggest game of the day by a mile - SEC race, No. 1 seed, all of it.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "Keelon Russell's Heisman number spiked after Mississippi State",
+                  "t": "16-of-22, 285 yards, three touchdowns and a rushing score, and his price moved from +1600 to +350 before settling around +750.",
+                  "url": "https://www.foxsports.com/stories/college-football/2026-heisman-trophy-odds",
+                  "src": "FOX Sports"
+                },
+                {
+                  "h": "Georgia's injury list has real names on it",
+                  "t": "OUT: Chauncey Bowens (week to week), Thomas Blackshear, Marcus Harrison, Tyriq Green, Amaris Williams, Dante Dowdell. Questionable: Isiah Canion. Back in: Nate Frazier from the ribs, with Chase Linton cleared.",
+                  "url": "https://247sports.com/college/georgia/longformarticle/georgia-bulldogs-football-injury-report-vs-alabama-update-isiah-canion-nate-frazier-kirby-smart-291017397/",
+                  "src": "247Sports"
+                },
+                {
+                  "h": "What it does to the bracket",
+                  "t": "The current Athlon projection has Georgia as the No. 2 seed and Alabama at No. 7, which means the loser here is playing a first-round road game in December.",
+                  "url": "https://sports.yahoo.com/articles/college-football-playoff-12-team-121500635.html",
+                  "src": "Athlon Sports / Yahoo Sports"
+                }
+              ]
+            },
+            {
+              "id": "pick-red-river",
+              "time": "9:38-9:45",
+              "title": "Red River: No. 1 Texas vs Oklahoma, 3:30PM ABC, Cotton Bowl",
+              "items": [
+                {
+                  "h": "Texas -7.5, total 38.5 at FanDuel; DraftKings has had -8.5 and 39.5",
+                  "t": "Both teams were on bye last week. Texas is 4-0, Oklahoma is 2-2, and the Sooners' season is on the table.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "Arch Manning is not playing like the favorite",
+                  "t": "63.5 percent, 862 yards, 7 TD, 3 INT. No touchdown and a pick against Tennessee in a 262-yard, 11-penalty afternoon.",
+                  "url": "https://www.si.com/betting/texas-vs-oklahoma-prediction-odds-and-key-players-to-watch-for-college-football-week-6-2026",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "What Texas does have is a defense that sacked Tennessee 10 times",
+                  "t": "Colin Simmons is at 7.5 sacks on the year after a school-record 5.5 in that game.",
+                  "url": "https://www.si.com/betting/texas-vs-oklahoma-prediction-odds-and-key-players-to-watch-for-college-football-week-6-2026",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Oklahoma's offense is the worst in the SEC on the ground",
+                  "t": "John Mateer has four interceptions in his last three games and zero rushing touchdowns this season. Oklahoma has not topped 14 points in three straight, averages 11.5 against Power Four, runs for 2.9 a carry - last in the SEC - and ranks 91st in adjusted EPA per play. The defense is third nationally on third down, which is the only reason this number is 7.5 and not 14.",
+                  "url": "https://sports.yahoo.com/articles/texas-vs-oklahoma-prediction-odds-222004538.html",
+                  "src": "NBC Sports / Yahoo Sports"
+                },
+                {
+                  "h": "The trends",
+                  "t": "Texas is 6-4 ATS in the last 10 meetings and the Under is 6-4 in the last 10. Both teams are 1-3 ATS this season with the Under 3-1. Texas won 23-6 last year and three of the last four, and under Brent Venables, Oklahoma has averaged 3.0 points in its Red River losses.",
+                  "url": "https://www.si.com/betting/texas-vs-oklahoma-prediction-odds-and-key-players-to-watch-for-college-football-week-6-2026",
+                  "src": "Sports Illustrated"
+                }
+              ]
+            },
+            {
+              "id": "pick-usc-penn-state",
+              "time": "9:45-9:50",
+              "title": "No. 19 USC at Penn State, 7:30PM NBC",
+              "items": [
+                {
+                  "h": "Penn State -1.5, total 54.5",
+                  "t": "FanDuel and CBS agree on this one. A ranked team is a 1.5-point underdog at an unranked team, which tells you exactly where Penn State is.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "The model likes the home team far more than the market does",
+                  "t": "numberFire gives Penn State a 73 percent win probability against a 1.5-point line. USC is 5-1 off the comeback win at Washington; Penn State is coming off 34-13 to Northwestern.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                }
+              ]
+            },
+            {
+              "id": "pick-ucla-oregon-indiana",
+              "time": "9:50-9:55",
+              "title": "UCLA at Oregon, and Indiana at Nebraska",
+              "items": [
+                {
+                  "h": "No. 21 UCLA at No. 13 Oregon, 3:30PM CBS - Oregon -11.5, total 58.5",
+                  "t": "UCLA is 4-0 and one of the last unbeatens nobody is taking seriously. Oregon is 3-1 and sits at No. 10 in the current bracket projection.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "No. 7 Indiana at Nebraska, Noon FOX - Indiana -7.5, total 48.5",
+                  "t": "Indiana is 5-0 and the projected Big Ten champion, and this is its toughest road trip yet. Nebraska is getting 48 AP votes after hanging 48 on Maryland with Anthony Colandrea going 238 passing, 108 rushing and three touchdowns.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                }
+              ]
+            },
+            {
+              "id": "cfb-board-heisman-bracket",
+              "time": "9:55-10:00",
+              "title": "The board, the model gaps, Heisman and the bracket",
+              "items": [
+                {
+                  "h": "Two games where the model and the market flatly disagree",
+                  "t": "No. 22 Houston at Kansas State, 3:30PM FOX, K-State -2.5 and a 55.5 total - but numberFire projects Houston to WIN at 51.5 percent. And No. 9 Ole Miss at Vanderbilt, 3:30PM ESPN, Ole Miss -9.5 and 55.5, with numberFire giving Ole Miss only 55.5 percent. That is the biggest model-versus-market gap on the board.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "Rest of the board",
+                  "t": "No. 10 LSU at Kentucky 7:00PM ESPN, LSU -8.5/51.5; Texas A&M at No. 14 Missouri Noon ABC, Missouri -3.5/48.5; South Carolina at No. 16 Florida 12:45PM SECN, Florida -11.5/60.5; North Carolina at No. 25 Pittsburgh Noon ESPN, Pitt -3.5/47.5; No. 15 Tennessee at Arkansas 4:15PM SECN, Tennessee -13.5/51.5; Stanford at No. 3 Notre Dame 3:30PM NBC, ND -37.5; Maryland at No. 5 Ohio State 4:15PM BTN, OSU -34.5; Kansas at No. 12 Utah 10:15PM ESPN, Utah -15.5; No. 23 Boise State at Fresno State 10:30PM CW, Boise -6.5.",
+                  "url": "https://www.fanduel.com/research/best-college-football-games-week-6-2026",
+                  "src": "FanDuel Research"
+                },
+                {
+                  "h": "On bye: Miami, Texas Tech, Mississippi State, SMU",
+                  "t": "Four ranked teams are off - No. 4 Miami, No. 11 Texas Tech, No. 17 Mississippi State and No. 24 SMU. Cincinnati is also on bye and comes to Morgantown next Saturday.",
+                  "url": "https://www.thetwodeep.com/college/bye-weeks",
+                  "src": "The Two Deep"
+                },
+                {
+                  "h": "Jeremiah Smith has gone +360 to +110 to -110 in a week",
+                  "t": "He is the Heisman favorite, and only one wide receiver has won it since 1992. Behind him: Darian Mensah +480, Keelon Russell +750, CJ Carr +750, Trinidad Chambliss +1600, Arch Manning +2500.",
+                  "url": "https://football.realgm.com/wiretap/55089/Jeremiah-Smith-Leads-2026-Heisman-Trophy-Odds-Entering-Week-6",
+                  "src": "RealGM"
+                },
+                {
+                  "h": "The current 12-team projection",
+                  "t": "Texas, Georgia, Notre Dame and Indiana with first-round byes, then Ohio State, Miami, Alabama, Ole Miss, LSU, Oregon, BYU and Boise State as the Group of Six team.",
+                  "url": "https://sports.yahoo.com/articles/college-football-playoff-12-team-121500635.html",
+                  "src": "Athlon Sports / Yahoo Sports"
+                },
+                {
+                  "h": "Panel prompt: who is the one-loss team you still believe in?",
+                  "t": "Go around the table. Ohio State, Ole Miss, LSU, Missouri, Tennessee, Florida - one of them is going to be in this field in January and one of them is going to be 8-4.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hour 2",
+      "subtitle": "Trent's Fantasy Five, then NFL Week 5 (10:00-11:00)",
+      "blocks": [
+        {
+          "title": "Block 1: Segment - Trent's Fantasy Five",
+          "time": "10:00-10:05",
+          "segments": [
+            {
+              "id": "fantasy-five",
+              "time": "10:00-10:05",
+              "title": "SEGMENT: Trent's fantasy five",
+              "items": [
+                {
+                  "h": "Five minutes, four beats, and remind people London kicks at 9:30 AM ET",
+                  "t": "Lineups have to be set Saturday night for the Eagles-Jaguars game in London.",
+                  "url": "https://www.nfl.com/schedules/2026/by-week/week-5",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Beat 1 - the news: Cincinnati's receiver room went down in one afternoon",
+                  "t": "Ja'Marr Chase is in concussion protocol and did not practice Wednesday; Tee Higgins has a groin-area injury and is expected to miss this week with Cincinnati's bye right behind it.",
+                  "url": "https://www.bengals.com/news/quick-hits-tee-higgins-limited-ja-marr-chase-in-protocol-dohnte-meyers-in-elite-company-as-is-drew-sample",
+                  "src": "Bengals.com"
+                },
+                {
+                  "h": "The add that comes out of it: WR Dohnte Meyers, Cincinnati, at Miami",
+                  "t": "Seven catches on nine targets, 68 of 76 snaps and 54 routes run in Week 4 - and he is rostered at zero percent on Yahoo and zero on ESPN. Free.",
+                  "url": "https://www.fantasypros.com/2026/10/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-5-2026/",
+                  "src": "FantasyPros"
+                },
+                {
+                  "h": "Beat 2 - other adds",
+                  "t": "RB Emanuel Wilson, Seattle vs San Francisco: about 120 scrimmage yards on roughly two dozen touches, and Mike Macdonald said Zach Charbonnet will NOT be activated off PUP this week, so Wilson keeps the job. RB Keaton Mitchell, Chargers vs Denver: out-snapped Omarion Hampton 26-25 and led their backs with six targets, with Ladd McConkey hurt. WR Tre' Harris, Chargers: 93 percent of the snaps last week, rostered around nine percent.",
+                  "url": "https://www.cbssports.com/fantasy/football/news/seahawks-zach-charbonnet-wont-debut-week-5/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Beat 3 - must starts",
+                  "t": "RB Jaylen Warren, Pittsburgh vs Indianapolis: 7.6 yards on 40 touches, fantasy RB15 without a touchdown yet, third in the league in rush yards over expected. RB Aaron Jones, Minnesota at New Orleans: 108.3 scrimmage yards a game, and New Orleans has allowed a league-high nine scores to running backs.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-running-backs-for-week-5",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Must starts, part two",
+                  "t": "TE Isaiah Likely, Giants at Washington: leads every tight end in the league in target share at 31.5 percent, 12 targets last week, and Washington has allowed the sixth-most fantasy points to the position. QB C.J. Stroud, Houston at Tennessee: 347 and 2 TD last week, and Tennessee allows the fifth-most EPA per dropback.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-5",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Beat 4 - sits",
+                  "t": "Jalen Hurts at Jacksonville: 93 passing yards on 27 attempts last week, and Jacksonville allows 13.3 points a game, second-fewest in football. David Montgomery at Tennessee: last among qualified rushers in yards per carry at 2.7, success rate and explosive run rate. Dalton Kincaid at the Rams: his target share fell from 25 percent to 8.9 percent, and the Rams have allowed the fewest receiving yards to tight ends in the league.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-running-backs-for-week-5",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Own the Kincaid miss on air",
+                  "t": "We graduated Kincaid off the stash list last Saturday and told people to start him. He has 5.5 fantasy points in two weeks and he is now a sit of the week. That one was a week early.",
+                  "url": "https://www.nfl.com/news/nfl-fantasy-2026-start-em-sit-em-tight-ends-for-week-5",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Streamers",
+                  "t": "QB Jacoby Brissett, Arizona vs Detroit - Detroit ranks 32nd against quarterbacks and this game is totaled at 54.5. TE Mike Gesicki, Cincinnati at Miami - Miami allows the most yards per target to tight ends and just gave up 13 catches to T.J. Hockenson, and Gesicki is the biggest beneficiary of the Chase and Higgins injuries. Defense: Cincinnati at Miami, where no offense has scored more than 13 points all season.",
+                  "url": "https://www.fantasypros.com/2026/10/top-5-fantasy-football-waiver-wire-pickups-defenses-week-5-2026/",
+                  "src": "FantasyPros"
+                },
+                {
+                  "h": "Stash list update: Tank Dell is still a hold",
+                  "t": "Houston expected to open Dell's 21-day practice window this week, but he likely will not be activated for Sunday at Tennessee. The Week 5 return window we teased last Saturday has slipped to a practice window.",
+                  "url": "https://www.cbssports.com/fantasy/football/news/texans-tank-dell-expected-to-practice-week-5/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "New stashes, drops, and one correction",
+                  "t": "Denzel Boston graduated and stays a start - 13-284-2 at 21.8 yards a catch. New stashes: Brian Robinson Jr. (three touchdowns Monday night), Zach Charbonnet, Xavier Worthy, Jonah Coleman. Drops: Michael Pittman Jr., Rachaad White. And the correction - we told people to drop Kaelon Black, and he is now listed as one of the most valuable handcuffs in fantasy. If your listeners dropped him, he is gone.",
+                  "url": "https://www.fantasypros.com/2026/10/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-5-2026/",
+                  "src": "FantasyPros"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: What Already Happened",
+          "time": "10:05-10:20",
+          "segments": [
+            {
+              "id": "nfl-thursday-night",
+              "time": "10:05-10:12",
+              "title": "Thursday night: Buccaneers 24, Cowboys 16",
+              "items": [
+                {
+                  "h": "Tampa Bay got its first win as a double-digit road underdog",
+                  "t": "Dallas closed around -9.5 to -10 and lost outright. The total was 47.5 and the game finished at 40.",
+                  "url": "https://www.cbssports.com/nfl/news/cowboys-vs-buccaneers-live-updates-score-highlights/live/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Line score: Dallas led 10-7 at the half, Tampa scored 17 unanswered in the third",
+                  "t": "TB 0-7-17-0 = 24. DAL 7-3-0-6 = 16.",
+                  "url": "https://www.footballdb.com/games/boxscore/tampa-bay-buccaneers-vs-dallas-cowboys-2026100801",
+                  "src": "FootballDB"
+                },
+                {
+                  "h": "Bucky Irving ran for 165 on 21 carries with a 72-yard run",
+                  "t": "Tampa Bay ran for 241 as a team on 39 carries. Note: the box score credits him with one touchdown and the CBS live blog says two - use the yardage.",
+                  "url": "https://www.footballdb.com/games/boxscore/tampa-bay-buccaneers-vs-dallas-cowboys-2026100801",
+                  "src": "FootballDB"
+                },
+                {
+                  "h": "Jalon Daniels, undrafted rookie, second career start: 19-of-25, 189, 1 TD, no picks",
+                  "t": "110.2 rating, with Baker Mayfield out on the dislocated throwing thumb.",
+                  "url": "https://www.footballdb.com/games/boxscore/tampa-bay-buccaneers-vs-dallas-cowboys-2026100801",
+                  "src": "FootballDB"
+                },
+                {
+                  "h": "Dak Prescott threw two interceptions",
+                  "t": "24-of-42 for 316 and a touchdown, picked off by Yaya Diaby and by Alex Anzalone in the red zone. George Pickens had 9-130-1.",
+                  "url": "https://www.cbssports.com/nfl/news/cowboys-vs-buccaneers-live-updates-score-highlights/live/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Records and the one thing not to say",
+                  "t": "Tampa Bay is 1-4, Dallas is 2-3. CeeDee Lamb left with an injury and missed second-half time, and no diagnosis has been released - do not put a name on it.",
+                  "url": "https://www.cbssports.com/nfl/standings/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-week4-rewind",
+              "time": "10:12-10:20",
+              "title": "Week 4 rewind and the Week 5 board",
+              "items": [
+                {
+                  "h": "Patriots 29, Bills 26",
+                  "t": "Drake Maye 269 and three touchdowns plus 54 rushing yards, Efton Chism III with a one-handed go-ahead score, Josh Allen with a late interception and Buffalo's defense giving up 405 yards.",
+                  "url": "https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Colts 30, Commanders 13 in London",
+                  "t": "Jonathan Taylor 95 and two touchdowns, and he is now the all-time leader in international-game rushing yards at 408. Marcus Mariota left with an MCL injury.",
+                  "url": "https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Ravens 24, Titans 18 - and the injury that reset the week",
+                  "t": "Tyler Loop hit a 64-yard field goal, Derrick Henry ran for 73 and a score against his old team, and Lamar Jackson left with the ankle.",
+                  "url": "https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Bears 23, Jets 12",
+                  "t": "Tyson Bagent threw for a career-high 268, Kyle Monangai ran for a career-high 146 and two scores, and Chicago ran 89 plays to New York's 32 while outgaining the Jets 492-157.",
+                  "url": "https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Rams 24, Eagles 20",
+                  "t": "Philadelphia went 0-for-12 on third down and Jalen Hurts threw for 93 yards. Kyren Williams had 147 total yards and the go-ahead score; Puka Nacua was back with 9-125.",
+                  "url": "https://www.nfl.com/news/2026-nfl-season-week-4-what-we-learned-from-sunday-s-games",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Falcons 45, Saints 24 on Monday night",
+                  "t": "Bijan Robinson 145 and two touchdowns including a 59-yarder on his first carry, Brian Robinson Jr. with three touchdowns, five rushing scores as a team to tie a franchise record set in 1973, and Michael Penix Jr. 15-of-20 for 223. Atlanta also lost LT Jake Matthews to a groin injury and had Za'Darius Smith ruled out with a concussion.",
+                  "url": "https://www.ajc.com/sports/2026/10/five-takeaways-from-falcons-mnf-win-over-saints/",
+                  "src": "Atlanta Journal-Constitution"
+                },
+                {
+                  "h": "The rest of Week 4",
+                  "t": "Cowboys 34, Texans 30 on CeeDee Lamb's 17 catches for 189 and the game-winner; Giants 36, Cardinals 24 on a 98-yard Deonte Banks pick-six in the final minute; Vikings 15, Dolphins 10, where Will Reichard kicked all 15 points and is on 31 straight field goals and Miami took 20 penalties; Chiefs 30, Raiders 27 behind Kenneth Walker III's two touchdowns; Seahawks 30, Chargers 23 with two Justin Herbert interceptions and a late strip-sack; Packers 17, Buccaneers 14, where Edgerrin Cooper suffered a non-contact Achilles injury; Jaguars 22, Bengals 17, where Chase went out; 49ers 24, Broncos 14; Panthers 32, Lions 26; Browns 27, Steelers 24.",
+                  "url": "https://www.cbssports.com/nfl/scoreboard/all/2026/regular/4/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Unbeaten, winless, and the shape of the board",
+                  "t": "4-0: Chiefs, Vikings, 49ers. 0-4: Titans, Texans, Dolphins, Chargers. The board is 15 games with 14 left after Thursday, and the first byes of the season go to Kansas City and Carolina. Highest totals 54.5 twice - Lions-Cardinals and Bills-Rams. Lowest 38.0, Texans-Titans. Biggest spreads 7.5 twice, Jacksonville and Houston.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Sunday Picks",
+          "time": "10:20-10:45",
+          "segments": [
+            {
+              "id": "nfl-early-window",
+              "time": "10:20-10:30",
+              "title": "Early window",
+              "items": [
+                {
+                  "h": "Eagles at Jaguars, London, 9:30AM NFL Network - JAX -7.5, O/U 41.5",
+                  "t": "The biggest line move of the week: Jacksonville went from -3.5 to -7.5, four full points, on Philadelphia's injury list. Barkley, DeVonta Smith, Greenard, Marquise Brown, Marcus Epps and C Drew Kendall were all out of practice, with Goedert and Baun limited, and the Eagles are coming off 0-for-12 on third down. Jacksonville had zero DNPs.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "Bengals at Dolphins, 1:00PM FOX - CIN -6.5, O/U 42.5",
+                  "t": "The total has fallen from 45.5 with Chase and Higgins both out of practice, and Miami is 0-4 off a 20-penalty loss to Minnesota.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-lamar-jackson-jamarr-chase/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Bears at Packers, 1:00PM FOX - CHI -1.5, O/U 45.5",
+                  "t": "Chicago is a road favorite in a division game with its backup starting: Caleb Williams is out with the hamstring and Ben Johnson confirmed Tyson Bagent. Kyle Monangai did not practice with a thumb and toe, and Green Bay lost Edgerrin Cooper. Confirm the side before you read the number - one source has Green Bay favored.",
+                  "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-05/caleb-williams-hammy-wont-play-in-week-5",
+                  "src": "NBC Sports"
+                },
+                {
+                  "h": "Giants at Commanders, 1:00PM FOX - WAS -4, O/U 41.5",
+                  "t": "Jayden Daniels was a full participant for the first time since the Week 2 dislocated elbow. But Terry McLaurin and Stefon Diggs both sat out with hamstrings and Malik Nabers sat out with a knee, and the total dropped from 44.5 to 41.5. The market is calling this an ugly one.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-lamar-jackson-jamarr-chase/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Texans at Titans, 1:00PM CBS - HOU -7.5, O/U 38.0",
+                  "t": "The only 0-4 versus 0-4 game on the board and the lowest total of the week. Somebody has to win. Houston was without Will Anderson Jr. and Jamal Hill in practice; Tennessee was without Jeffery Simmons and Amani Hooker.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "The rest of the early window",
+                  "t": "Raiders at Patriots 1:00PM CBS, NE -3.5, O/U 45.0 - New England has Carlton Davis and Christian Gonzalez out of practice. Vikings at Saints 1:00PM FOX, MIN -2.5, O/U 41.5 - Justin Jefferson's ankle and Jordan Addison's hamstring both matter. Browns at Jets 1:00PM CBS, NYJ -2.5, O/U 39.5. Colts at Steelers 1:00PM CBS, PIT -2.5, O/U 44.5 - Jalen Ramsey and Jamel Dean both missed practice for Pittsburgh.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                }
+              ]
+            },
+            {
+              "id": "nfl-late-window",
+              "time": "10:30-10:38",
+              "title": "Late window",
+              "items": [
+                {
+                  "h": "49ers at Seahawks, 4:25PM FOX - SEA -3, O/U 46.5",
+                  "t": "Best game of the afternoon: an unbeaten on the road as an underdog in the NFC West. San Francisco had Nick Bosa (knee and calf) and Christian McCaffrey (rest) both out of practice; Seattle rested Jaxon Smith-Njigba and had Leonard Williams out.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-lamar-jackson-jamarr-chase/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Lions at Cardinals, 4:25PM FOX - DET -5.5, O/U 54.5",
+                  "t": "Tied for the highest total on the board. Detroit is off the Sunday night loss to Carolina; Arizona blew a 14-3 lead and lost on the pick-six. Budda Baker was rested and Jordan Burch did not practice.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "Broncos at Chargers, 4:05PM CBS - DEN -3.5, O/U 41.5",
+                  "t": "The 0-4 Chargers are missing both tackles - Joe Alt with a neck and Rashawn Slater with an ankle - plus Derwin James with a hamstring. Denver had Pat Surtain II out of practice with an ankle.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-lamar-jackson-jamarr-chase/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-implied-totals",
+              "time": "10:38-10:45",
+              "title": "SEGMENT: Where the number says the value is",
+              "items": [
+                {
+                  "h": "The math, said out loud",
+                  "t": "Implied team totals off the same board. Favorite is the total plus the spread, divided by two. Underdog is the total minus the spread, divided by two.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "Highest implied totals",
+                  "t": "Detroit 30.0, the Rams 28.75, Buffalo 25.75, Seattle 24.75, Jacksonville 24.5, Cincinnati 24.5, Arizona 24.5, New England 24.25.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "Lowest implied totals",
+                  "t": "Tennessee 15.25, Philadelphia 17.0, Miami 18.0, Cleveland 18.5, the Giants 18.75, the Chargers 19.0, New Orleans 19.5, Baltimore 20.0.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "Detroit at 30.0 is the highest number of the week",
+                  "t": "And it is in the desert against a defense ranked 32nd against quarterbacks. That is why Jacoby Brissett is a streamer and why this is the game to watch for points.",
+                  "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-5-rb-zach-charbonnet-wr-keon-coleman-among-targets",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Bills-Rams is the only game where Vegas likes both offenses",
+                  "t": "The Rams at 28.75 and Buffalo at 25.75 - both above 25, in the rematch of a 44-42 game at SoFi.",
+                  "url": "https://www.therams.com/news/first-look-rams-host-bills-on-monday-night-football-in-week-5-2026",
+                  "src": "Los Angeles Rams"
+                },
+                {
+                  "h": "Philadelphia at 17.0 is a contender priced like a backup-quarterback team",
+                  "t": "A Super Bowl contender getting 7.5 on the road with an implied 17 points - and the injury list says the market is right.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "Baltimore at 20.0 is the Lamar Jackson line",
+                  "t": "If he plays, that number is wrong in a hurry. Which is the whole Sunday night conversation.",
+                  "url": "https://www.si.com/betting/ravens-vs-falcons-odds-completely-flip-after-latest-lamar-jackson-injury-update",
+                  "src": "Sports Illustrated"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 4: Primetime and Locks",
+          "time": "10:45-11:00",
+          "segments": [
+            {
+              "id": "nfl-snf-ravens-falcons",
+              "time": "10:45-10:51",
+              "title": "SNF: Ravens at Falcons, 8:20PM NBC",
+              "items": [
+                {
+                  "h": "Atlanta -3.5, O/U 43.5 - and the line is the story",
+                  "t": "The lookahead was Ravens -6. It opened Ravens -3.5. It has flipped all the way to Atlanta -3.5 on Lamar Jackson's ankle - roughly a nine-point swing - with the total down from 46.5 to 43.5.",
+                  "url": "https://www.si.com/betting/ravens-vs-falcons-odds-completely-flip-after-latest-lamar-jackson-injury-update",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Jackson has not practiced and has not been ruled out",
+                  "t": "Reported as an 'outside chance' to play, which means Tyler Huntley makes his first start of the season. Baltimore also had Trey Hendrickson and Marlon Humphrey out of practice.",
+                  "url": "https://www.nfl.com/injuries/",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Atlanta has won two straight, both in primetime",
+                  "t": "And just hung 45 on New Orleans with five rushing touchdowns, tying a franchise record set in 1973. But it lost LT Jake Matthews to a groin injury and has Za'Darius Smith in concussion protocol.",
+                  "url": "https://www.ajc.com/sports/2026/10/five-takeaways-from-falcons-mnf-win-over-saints/",
+                  "src": "Atlanta Journal-Constitution"
+                },
+                {
+                  "h": "Re-pull this line Saturday morning",
+                  "t": "It will move again on Jackson's final designation, and one book page is still showing the old number.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                }
+              ]
+            },
+            {
+              "id": "nfl-mnf-bills-rams",
+              "time": "10:51-10:56",
+              "title": "MNF: Bills at Rams, Monday 8:15PM ESPN and ABC",
+              "items": [
+                {
+                  "h": "Rams -3, O/U 54.5 - tied for the week's highest total",
+                  "t": "Opened LAR -2.5 with a 53.5 total and moved up.",
+                  "url": "https://www.sportsbettingdime.com/news/nfl/nfl-odds-movement-highlighting-week-5-spread-total-shifts/",
+                  "src": "Sports Betting Dime"
+                },
+                {
+                  "h": "This is the rematch of the 44-42 game",
+                  "t": "Josh Allen accounted for six touchdowns in that one at SoFi. It is the Rams' fourth primetime game in five weeks, and both teams run it - LA at 4.8 a carry, Buffalo at 5.1 - with the Rams' stated plan to stop the run and make Allen throw on obvious downs.",
+                  "url": "https://www.therams.com/news/first-look-rams-host-bills-on-monday-night-football-in-week-5-2026",
+                  "src": "Los Angeles Rams"
+                },
+                {
+                  "h": "Injury notes",
+                  "t": "Buffalo had D.J. Moore out of practice with the shoulder he aggravated in New England, plus Ed Oliver. The Rams had Davante Adams out of practice along with Quentin Lake, Nate Landman, Josaiah Stewart and Grant Stuard.",
+                  "url": "https://www.nfl.com/injuries/",
+                  "src": "NFL.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-lock-and-close",
+              "time": "10:56-11:00",
+              "title": "Lock of the week and close",
+              "items": [
+                {
+                  "h": "Panel prompt: lock of the week",
+                  "t": "One play and one sentence from each panelist. Keep it to a side or a total, no parlays.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "Panel prompt: close and tease",
+                  "t": "Reset the primetime slate, then tease next Saturday - Cincinnati comes to Morgantown October 17 at noon on TNT, and the NFL hits Week 6.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
