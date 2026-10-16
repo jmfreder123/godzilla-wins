@@ -2,7 +2,7 @@
   "id": "2026-10-17",
   "show": "Godzilla Wins",
   "date": "Saturday, October 17, 2026",
-  "airtime": "9:00-11:00 AM ET",
+  "airtime": "8:00-10:00 AM ET",
   "lineup": "Hour 1: college football in the first 15 - Georgia's new No. 1, Oklahoma's walk-off over Texas, WVU's 52-31 loss to Arizona and Cincinnati at noon - then 45 minutes of NFL Week 6, the Hurts line flip, Cowboys-Packers on SNF and Commanders-49ers on MNF. Hour 2: the Fantasy Football Hour with John, Frank and Trent Conner - Week 5 fallout and pickups, Best Starts of the Week, Stash Before Breakout and Vegas' Best Start off the implied team totals.",
   "lines_note": "NFL lines from bet365, one board, all 14 games, published by FOX Sports and captured Thursday October 15, 2026 at 10:54 AM ET. College football lines from DraftKings read off the VegasInsider board on October 16 (that page timestamps itself inconsistently between October 12 and October 15 - treat it as roughly October 15 lines, not live). Implied team totals are computed off the bet365 board using favorite = (total + spread) / 2 and underdog = (total - spread) / 2; they are not published figures. This is college football Week 7 and NFL Week 6 - NFL Week 7 is October 22-26.",
   "verify": [
@@ -32,11 +32,11 @@
       "blocks": [
         {
           "title": "Block 1: College Football",
-          "time": "9:00-9:15",
+          "time": "8:00-8:15",
           "segments": [
             {
               "id": "cfb-week6-reset",
-              "time": "9:00-9:05",
+              "time": "8:00-8:05",
               "title": "Week 6 reset and the new AP Top 25",
               "items": [
                 {
@@ -79,7 +79,7 @@
             },
             {
               "id": "wvu-arizona-cincinnati",
-              "time": "9:05-9:10",
+              "time": "8:05-8:10",
               "title": "WVU: Arizona 52, West Virginia 31, and Cincinnati at noon",
               "items": [
                 {
@@ -128,7 +128,7 @@
             },
             {
               "id": "cfb-picks-oct17",
-              "time": "9:10-9:15",
+              "time": "8:10-8:15",
               "title": "Today's biggest games and the picks",
               "items": [
                 {
@@ -191,11 +191,11 @@
         },
         {
           "title": "Block 2: NFL Week 6 - what already happened",
-          "time": "9:15-9:30",
+          "time": "8:15-8:30",
           "segments": [
             {
               "id": "nfl-tnf-den-sea",
-              "time": "9:15-9:21",
+              "time": "8:15-8:21",
               "title": "Thursday night: Broncos 17, Seahawks 14 (OT)",
               "items": [
                 {
@@ -226,7 +226,7 @@
             },
             {
               "id": "nfl-week5-rewind",
-              "time": "9:21-9:30",
+              "time": "8:21-8:30",
               "title": "Week 5 rewind and where the league stands",
               "items": [
                 {
@@ -295,11 +295,11 @@
         },
         {
           "title": "Block 3: NFL Week 6 picks",
-          "time": "9:30-10:00",
+          "time": "8:30-9:00",
           "segments": [
             {
               "id": "nfl-week6-board",
-              "time": "9:30-9:34",
+              "time": "8:30-8:34",
               "title": "The board",
               "items": [
                 {
@@ -318,7 +318,7 @@
             },
             {
               "id": "nfl-hurts-line-story",
-              "time": "9:34-9:40",
+              "time": "8:34-8:40",
               "title": "The line story of the week: Panthers at Eagles",
               "items": [
                 {
@@ -355,7 +355,7 @@
             },
             {
               "id": "nfl-snf-dal-gb",
-              "time": "9:40-9:46",
+              "time": "8:40-8:46",
               "title": "Sunday Night Football: Cowboys at Packers, 8:20PM NBC",
               "items": [
                 {
@@ -392,7 +392,7 @@
             },
             {
               "id": "nfl-mnf-was-sf",
-              "time": "9:46-9:51",
+              "time": "8:46-8:51",
               "title": "Monday Night Football: Commanders at 49ers, 8:15PM ESPN",
               "items": [
                 {
@@ -423,7 +423,7 @@
             },
             {
               "id": "nfl-rest-of-picks",
-              "time": "9:51-9:56",
+              "time": "8:51-8:56",
               "title": "The rest of the picks",
               "items": [
                 {
@@ -466,7 +466,7 @@
             },
             {
               "id": "nfl-locks",
-              "time": "9:56-10:00",
+              "time": "8:56-9:00",
               "title": "Lock of the week",
               "items": [
                 {
@@ -493,11 +493,11 @@
       "blocks": [
         {
           "title": "Block 1: Last week's fallout and the pickups",
-          "time": "10:00-10:20",
+          "time": "9:00-9:20",
           "segments": [
             {
               "id": "ff-week5-fallout",
-              "time": "10:00-10:08",
+              "time": "9:00-9:08",
               "title": "Week 5 fallout, plus what Thursday did",
               "items": [
                 {
@@ -546,7 +546,7 @@
             },
             {
               "id": "ff-pickups",
-              "time": "10:08-10:14",
+              "time": "9:08-9:14",
               "title": "The pickups",
               "items": [
                 {
@@ -595,7 +595,7 @@
             },
             {
               "id": "seg-best-starts",
-              "time": "10:14-10:20",
+              "time": "9:14-9:20",
               "title": "SEGMENT: Best Starts of the Week",
               "items": [
                 {
@@ -658,11 +658,11 @@
         },
         {
           "title": "Block 2: Stash list and the Vegas segment",
-          "time": "10:20-10:45",
+          "time": "9:20-9:45",
           "segments": [
             {
               "id": "seg-stash-before-breakout",
-              "time": "10:20-10:32",
+              "time": "9:20-9:32",
               "title": "SEGMENT: Stash Before Breakout",
               "items": [
                 {
@@ -735,7 +735,7 @@
             },
             {
               "id": "seg-vegas-best-start",
-              "time": "10:32-10:45",
+              "time": "9:32-9:45",
               "title": "SEGMENT: Vegas' Best Start",
               "items": [
                 {
@@ -786,11 +786,11 @@
         },
         {
           "title": "Block 3: Each host's calls and the close",
-          "time": "10:45-11:00",
+          "time": "9:45-10:00",
           "segments": [
             {
               "id": "hosts-start-sit-add",
-              "time": "10:45-10:56",
+              "time": "9:45-9:56",
               "title": "One start, one sit, one waiver add from each host",
               "items": [
                 {
@@ -809,7 +809,7 @@
             },
             {
               "id": "close-and-tease",
-              "time": "10:56-11:00",
+              "time": "9:56-10:00",
               "title": "Close and tease",
               "items": [
                 {
