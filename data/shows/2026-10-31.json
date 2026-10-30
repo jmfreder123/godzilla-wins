@@ -1,0 +1,758 @@
+{
+  "id": "2026-10-31",
+  "show": "Godzilla Wins",
+  "date": "Saturday, October 31, 2026",
+  "airtime": "9:00-11:00 AM ET",
+  "lineup": "Hour 1 is college football for the full hour: the Saturday that reset the poll again, the new AP Top 25 with three unbeaten teams left, West Virginia's win at TCU and its first bye of the season, and the Week 9 board. Hour 2 opens with Trent Conner's fantasy five, then NFL Week 8 - Thursday night at Lambeau, the Week 7 rewind, the DraftKings board, Eagles at Commanders, Bears at Seahawks, implied team totals and locks.",
+  "lines_note": "NFL lines from DraftKings, one board, all 13 remaining games, as published in ESPN's Week 8 schedule odds column (credited on-page to DraftKings) and captured Friday, October 30, 2026. College football lines also from DraftKings via ESPN's Week 9 schedule page, same Friday capture, with CBS Sports cross-checks noted where the two differ. Implied team totals are computed off that DraftKings board, not published figures. Kickoffs and networks from NFL.com for the NFL and FBSchedules cross-checked against ESPN for college.",
+  "verify": [
+    "AIRTIME IS 9:00-11:00 AM ET THIS WEEK, confirmed by Jack on Friday October 30, overriding the standing 8-10 default. Every block and topic time here is on the 9-11 clock. Kickoff times are real kickoffs and have not moved.",
+    "WEST VIRGINIA IS ON BYE. There is no WVU game today and no line to quote. The Dominion Post and WV MetroNews both wrote the bye-week story and WVU appears nowhere on the complete October 31 TV list. Next game is Saturday November 7 at No. 13 Texas Tech, with kickoff time, network and spread all still unposted.",
+    "Friday NFL game-status designations (Out/Doubtful/Questionable) are NOT posted for any Sunday or Monday game. nfl.com/injuries carries a Game Status value only for Thursday's finished Packers-Panthers game. What exists for the rest of the slate is Wednesday and Thursday practice participation only - say 'did not practice' or 'limited,' never 'questionable.' Re-pull nfl.com/injuries and the team sites Saturday morning.",
+    "Lamar Jackson (ankle) practiced in FULL this week, his first full practice since the injury, after missing three games. He is reported as expected to play at Buffalo but is not officially cleared and has no designation. That is the biggest single swing on the board, and the Ravens-Bills implied totals assume he plays.",
+    "No designation exists for any of these, and several are listed as must-starts anyway: Saquon Barkley (hamstring/back, DNP Wednesday and Thursday), DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) both DNP both days, Jahmyr Gibbs (shoulder) and Amon-Ra St. Brown (ankle) both DNP Wednesday, Ja'Marr Chase DNP Wednesday, A.J. Brown DNP Thursday, Rashee Rice and Zach Charbonnet practicing with no stated workload. Emeka Egbuka is in concussion protocol, which clears separately.",
+    "DAYLIGHT SAVING TIME ENDS OVERNIGHT SATURDAY INTO SUNDAY. NFL.com lists Thursday's game as EDT and Sunday's games as EST. Say it on air - somebody will set a lineup an hour late.",
+    "NO INTERNATIONAL GAME THIS WEEK. The Paris game was last week. The next early kick is Bengals-Falcons in Madrid, Sunday November 8 at 9:30 AM ET, which is Week 9.",
+    "NFL line moves are real this week, all on DraftKings numbers four days apart: Colts-Jaguars ran from JAX -7.5 to JAX -10; the Cardinals-Cowboys total climbed 49.5 to 51.5 to 54.5; Raiders-Jets flipped favorites from Raiders -1.5 to Jets -1.5; Titans-Bengals is -11.5 today against -10 and -10.5 elsewhere; Eagles-Commanders is WSH -6 on ESPN's DraftKings board but WSH -5.5 in an SI preview also citing DraftKings; Minnesota-Detroit is DET -3 at DraftKings and -3.5 at two other books. Name the book and the time if you read a number.",
+    "RECORDS ARE A TRAP. ESPN's standings page does not include Thursday's result - it still shows Green Bay 4-3. Confirmed post-Thursday: Green Bay 5-3, Carolina 3-4. Philadelphia 2-5 and Washington 1-4-1 per SI. Everything else on that page has uneven games played.",
+    "Jalen Hurts' diagnosis - deep vein thrombosis and bilateral pulmonary emboli - is confirmed by the Eagles and his agent. The season-ending part is REPORTING by Rapoport and Schefter, about three months. Say 'reported out for the season,' not 'ruled out.'",
+    "Jeffery Simmons' availability for Monday night is NOT announced. The Simmons-versus-Quenton-Nelson head-to-head framing is aggregator headlines only - a talking point, not a sourced fact.",
+    "Ohio State's starting quarterback at USC is NOT announced. Julian Sayin is out indefinitely with a throwing-arm injury and Ryan Day did not rule out the rest of the season. Candidates are freshman Luke Fahey and sophomore Tavien St. Clair. Check Saturday morning before naming one.",
+    "Florida-Georgia VENUE IS UNRESOLVED. FBSchedules lists it as Florida vs. Georgia in Atlanta; ESPN and CBS both list it Florida at Georgia. Do not say Jacksonville without checking.",
+    "The AP poll may or may not have a tie at No. 20 - ESPN's rankings page shows Boise State and Northwestern both at 20, Yahoo has Boise 20 and Northwestern 21. Say 'around No. 20' if it matters.",
+    "College line conflicts: Florida-Georgia is Georgia -12.5 and 55.5 at DraftKings, -11.5 and 56.5 at CBS twice. Miami at UNC -14 and 52.5 versus -14.5 and 52. Ohio State at USC -6.5 versus -7. Utah at Cincinnati -6.5 versus -7. Purdue at Penn State is a three-way split at -9.5, -10.5 and -7.5. Notre Dame-Navy total is 56.5 at three sources and 53.5 at one. Kansas at TCU is -5.5, -6.5 and -6. Oklahoma State at Iowa State is FOX per ESPN and FBSchedules, FS1 per CBS.",
+    "The Heisman odds below do not name a sportsbook - neither article that carries them says which book. Attribute them to the outlet.",
+    "Rich Rodriguez is NOT on any hot-seat list. He appears in none of the three coaching-carousel pieces. If somebody raises it, the honest framing is 5-3, two straight wins, first open date of the season, three ranked teams left.",
+    "STALE PAGES, DO NOT USE: Wikipedia's 2026 FBS rankings page stops at the October 18 AP poll and labels it 'Week 7.' Wikipedia's 2026 West Virginia page still shows WVU at 1-0. A CBS piece headlined 'Eagles will rest Jalen Hurts, start Tanner McKee against Commanders in Week 18' is a prior-season article and is dangerously plausible because McKee IS starting against Washington this week for a completely different reason. An NBC/ProFootballTalk piece listing Barkley questionable and DeVonta Smith out is the WEEK 7 final report. Several On3 West Virginia items reference a loss to Texas Tech; WVU has not played Texas Tech yet this season.",
+    "CBS's fantasy bye-week tags are broken this week - the column labels eleven players as on bye when the only Week 8 byes are Houston, New Orleans, the Giants and San Francisco. Use the NFL.com bye list.",
+    "Fantasy roster percentages differ wildly by platform and sometimes within one platform. Name the platform every time. Jordyn Tyson is 49 percent owned and has NOT PLAYED AN NFL GAME."
+  ],
+  "hours": [
+    {
+      "title": "Hour 1",
+      "subtitle": "College football, the full hour (9:00-10:00)",
+      "blocks": [
+        {
+          "title": "Block 1: Last Saturday and the New AP Top 25",
+          "time": "9:00-9:15",
+          "segments": [
+            {
+              "id": "cfb-week8-reset",
+              "time": "9:00-9:08",
+              "title": "The poll keeps blowing up",
+              "items": [
+                {
+                  "h": "Ten top-10 teams have lost in the past three weeks",
+                  "t": "Open with the number, because it is the whole segment. The AP's own write-up on the new poll leads with it, and adds that Miami was the only team in the top 25 to hold its spot.",
+                  "url": "https://www.timesfreepress.com/news/2026/oct/25/ap-top-25-no-1-miami-only-team-to-hold-its-spot/",
+                  "src": "Associated Press via Chattanooga Times Free Press"
+                },
+                {
+                  "h": "Three top-15 Big 12 teams lost on the same day, a first in AP poll history",
+                  "t": "BYU, Texas Tech and Houston all went down October 24. The week before, five of the AP top seven lost. Nicole Auerbach's takeaways piece has the stat.",
+                  "url": "https://www.nbcsports.com/college-football/news/takeaways-from-college-football-week-8-season-of-chaos-continues-with-byu-texas-tech-upsets",
+                  "src": "NBC Sports"
+                },
+                {
+                  "h": "UCF 39, No. 2 BYU 31 in double overtime",
+                  "t": "The upset of the day. BYU had beaten Notre Dame in Provo the week before, then lost at UCF and fell six spots to No. 8.",
+                  "url": "https://www.cbssports.com/college-football/scoreboard/FBS/2026/regular/8/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Cincinnati 37, No. 8 Texas Tech 24",
+                  "t": "Hold onto Cincinnati - the Bearcats are the hinge again this week with unbeaten Utah coming to town in the highest-totaled ranked game on the board.",
+                  "url": "https://www.espn.com/college-football/recap/_/gameId/401856840",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "No. 19 Texas 34, No. 7 Ole Miss 27",
+                  "t": "Texas held off an Ole Miss comeback and is now ranked ahead of them at No. 11, with Ole Miss at 12.",
+                  "url": "https://www.cbssports.com/college-football/scoreboard/FBS/2026/regular/8/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "No. 6 Indiana 13, Michigan 6 in overtime",
+                  "t": "Indiana rose two spots for winning a six-point game in Ann Arbor.",
+                  "url": "https://www.foxsports.com/college-football/indiana-hoosiers-vs-michigan-wolverines-oct-24-2026-game-boxscore-43797",
+                  "src": "FOX Sports"
+                },
+                {
+                  "h": "Wisconsin 24, No. 16 USC 7",
+                  "t": "The result that put Lincoln Riley at the top of the hot-seat lists and set up tonight against Ohio State. Also the win that helped Luke Fickell's own standing.",
+                  "url": "https://www.espn.com/college-football/game/_/gameId/401858500/usc-wisconsin",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The rest of the carnage: Illinois over Oregon, South Carolina over Tennessee, Minnesota over Iowa, Utah over Houston",
+                  "t": "Illinois 21, Oregon 10. South Carolina 27, No. 11 Tennessee 24, a week after Tennessee beat Alabama by 16. Minnesota 13, No. 15 Iowa 10. Utah 21, No. 14 Houston 13 on College GameDay's site. Virginia Tech 20, Clemson 16. Kansas 25, Baylor 24, and Baylor fired Dave Aranda the next day. Syracuse 31, North Carolina 30 in overtime.",
+                  "url": "https://www.cbssports.com/college-football/scoreboard/FBS/2026/regular/8/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "No. 1 Miami 52, Pittsburgh 23",
+                  "t": "Miami's first game as the AP No. 1 team since 2002, and they scored 52.",
+                  "url": "https://www.timesfreepress.com/news/2026/oct/25/ap-top-25-no-1-miami-only-team-to-hold-its-spot/",
+                  "src": "Associated Press via Chattanooga Times Free Press"
+                }
+              ]
+            },
+            {
+              "id": "cfb-ap-top-25",
+              "time": "9:08-9:15",
+              "title": "The new AP Top 25",
+              "items": [
+                {
+                  "h": "Top 10: Miami, Ohio State, Georgia, Indiana, Notre Dame, Utah, UCLA, BYU, Kentucky, Alabama",
+                  "t": "1 Miami (7-0) with 59 of 70 first-place votes, 2 Ohio State (6-1) with 10, 3 Georgia (6-1), 4 Indiana (7-1), 5 Notre Dame (6-1), 6 Utah (7-0) with the other first-place vote, 7 UCLA (7-0), 8 BYU (6-1), 9 Kentucky (7-1), 10 Alabama (6-2).",
+                  "url": "https://sports.yahoo.com/articles/college-football-rankings-2026-ap-180146299.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "11 through 25",
+                  "t": "Texas, Ole Miss, Texas Tech, Wake Forest, LSU, Tennessee, Florida, Houston, SMU, Boise State, Northwestern, Arizona, Missouri, Oklahoma State, Wisconsin.",
+                  "url": "https://www.espn.com/college-football/rankings",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Three unbeaten teams left in all of FBS - and two of them are Utah and UCLA",
+                  "t": "Miami, Utah and UCLA, all 7-0. Utah and UCLA are both inside the top seven and neither is a name the national broadcast has been selling since August. That is the segment.",
+                  "url": "https://www.timesfreepress.com/news/2026/oct/25/ap-top-25-no-1-miami-only-team-to-hold-its-spot/",
+                  "src": "Associated Press via Chattanooga Times Free Press"
+                },
+                {
+                  "h": "Ohio State and Georgia moved UP while idle",
+                  "t": "Both climbed on a bye week. Notre Dame slid one spot, also while idle. Miami picked up 19 more first-place votes than the week before.",
+                  "url": "https://www.timesfreepress.com/news/2026/oct/25/ap-top-25-no-1-miami-only-team-to-hold-its-spot/",
+                  "src": "Associated Press via Chattanooga Times Free Press"
+                },
+                {
+                  "h": "The coaches disagree at the back end",
+                  "t": "The AFCA poll has Iowa and USC in its top 25 where the AP has Oklahoma State and Wisconsin. The coaches also have Utah 5th and Notre Dame 6th, flipping the AP's order.",
+                  "url": "https://www.espn.com/college-football/rankings",
+                  "src": "ESPN"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: West Virginia - the TCU Win and the Bye",
+          "time": "9:15-9:25",
+          "segments": [
+            {
+              "id": "wvu-tcu-win",
+              "time": "9:15-9:21",
+              "title": "West Virginia 24, TCU 20",
+              "items": [
+                {
+                  "h": "Second straight win, 5-3 overall and 2-3 in the Big 12",
+                  "t": "Won at Amon G. Carter Stadium in Fort Worth. The five wins already beat all of last season's four.",
+                  "url": "https://wvmetronews.com/2026/10/24/behind-late-stop-west-virginia-hangs-on-for-24-20-victory-at-tcu/",
+                  "src": "WV MetroNews"
+                },
+                {
+                  "h": "TCU outgained West Virginia 484 to 272 and lost",
+                  "t": "TCU ran 82 plays to WVU's 57. Jaden Craig went 33-of-47 for 372. This was a defensive win, which is new - the 20 points allowed are the fewest in 14 Big 12 games under Rodriguez since the second tenure began.",
+                  "url": "https://wvmetronews.com/2026/10/24/behind-late-stop-west-virginia-hangs-on-for-24-20-victory-at-tcu/",
+                  "src": "WV MetroNews"
+                },
+                {
+                  "h": "Michael Hawkins Jr. responsible for three touchdowns in a return to his home state",
+                  "t": "A 2-yard run, a 36-yard run that was his 16th touchdown of the season, and the 13-yard game-winner to Cam Cook with 11:28 left. He completed only 7 passes for 79 yards and led all rushers with 94 on 19 carries. Cook ran 18 times for 90.",
+                  "url": "https://abcnews.com/Sports/wireStory/hawkins-responsible-3-tds-return-home-state-west-137542459",
+                  "src": "Associated Press via ABC News"
+                },
+                {
+                  "h": "The finish: a sack-strip with under a minute left",
+                  "t": "David Afogho sacked Craig and stripped him, Ben Cutter recovered, game over - WVU's third sack. Earlier, Chams Diagne picked Craig off before half and TCU turned it over on downs at the WVU 20 on fourth-and-2.",
+                  "url": "https://wvmetronews.com/2026/10/24/behind-late-stop-west-virginia-hangs-on-for-24-20-victory-at-tcu/",
+                  "src": "WV MetroNews"
+                },
+                {
+                  "h": "Rodriguez: \"We didn't really play great. We played with a little bit of grit.\"",
+                  "t": "And: \"Any win is a big win and winning on the road is especially big.\" These are the quotes traceable to a named author at a named outlet - Greg Carey at WV MetroNews.",
+                  "url": "https://wvmetronews.com/2026/10/24/behind-late-stop-west-virginia-hangs-on-for-24-20-victory-at-tcu/",
+                  "src": "WV MetroNews"
+                }
+              ]
+            },
+            {
+              "id": "wvu-bye-week",
+              "time": "9:21-9:25",
+              "title": "The bye, and what is left",
+              "items": [
+                {
+                  "h": "West Virginia is off today - say it early so nobody waits for a score",
+                  "t": "This is the first open date of the entire season for them, one of the few teams in the country that had not had one. Eight straight games.",
+                  "url": "https://www.dominionpost.com/2026/10/25/wvu-football-takes-2-game-winning-streak-into-much-needed-bye-week/",
+                  "src": "The Dominion Post"
+                },
+                {
+                  "h": "Rodriguez: \"On an open date, you don't want to go in on a loss.\"",
+                  "t": "And: \"We can grow from this. We are going to have to.\" Spencer Ripchik's piece also notes Rodriguez himself had been physically ill for a couple of weeks and wanted the break to let players reset.",
+                  "url": "https://www.dominionpost.com/2026/10/25/wvu-football-takes-2-game-winning-streak-into-much-needed-bye-week/",
+                  "src": "The Dominion Post"
+                },
+                {
+                  "h": "Four games left, three of them against ranked teams",
+                  "t": "November 7 at No. 13 Texas Tech with time and network still unannounced, November 14 Kansas at home, November 21 No. 18 Houston at home, November 27 at No. 6 Utah on FOX to close the regular season. Two ranked road games and a ranked home game in the last four weeks, with a team that has just learned how to win a close one. Panel question: what is the realistic win total from here?",
+                  "url": "https://cfbtvtimes.com/team/west-virginia",
+                  "src": "CFB TV Times"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Today's Board and Picks",
+          "time": "9:25-10:00",
+          "segments": [
+            {
+              "id": "cfb-ranked-vs-ranked",
+              "time": "9:25-9:35",
+              "title": "The ranked-versus-ranked game, and Florida-Georgia",
+              "items": [
+                {
+                  "h": "No. 22 Arizona at No. 13 Texas Tech, NOON ESPN - Texas Tech -3.5, total 54.5",
+                  "t": "There is exactly ONE top-25 versus top-25 game on this entire slate, and every source agrees on both numbers, which is unusual this week. Arizona is 6-1 and got into the poll two weeks ago on a bye. Texas Tech was No. 8 and lost at Cincinnati.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 17 Florida vs No. 3 Georgia, 3:30 PM ABC - Georgia -12.5, total 55.5",
+                  "t": "Fowler and Herbstreit. CBS has it -11.5 and 56.5, so say \"Georgia by eleven and a half, twelve and a half.\" Florida won at Texas two weeks ago with a backup quarterback; Georgia moved UP to No. 3 on a bye. VENUE IS UNRESOLVED - see Verify.",
+                  "url": "https://www.cbssports.com/betting/news/2026-week-9-college-football-odds-betting-lines-spreads-start-times-picks-predictions-best-bets/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "That is the whole marquee - the interesting games today are the road games",
+                  "t": "One ranked-vs-ranked game and one rivalry. Panel prompt: when the marquee is this thin, do you chase the dog spots in Topic 6 or sit the week out?",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            },
+            {
+              "id": "cfb-ranked-road",
+              "time": "9:35-9:45",
+              "title": "Top-25 teams on the road",
+              "items": [
+                {
+                  "h": "Nine ranked teams are playing away from home and TWO of them are underdogs",
+                  "t": "That is the shape of this board. DraftKings via ESPN, captured Friday October 30.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 2 Ohio State at USC, 7:30 PM NBC - Ohio State -6.5, total 51.5",
+                  "t": "CBS has -7. The game of the night, and it is not about the spread. Ohio State does not have a quarterback named yet with Julian Sayin out indefinitely. USC lost 24-7 at Wisconsin and Lincoln Riley has the hottest seat in the sport. Two teams on opposite sides of the same cliff.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 6 Utah at Cincinnati, 3:45 PM ESPN - Utah -6.5, total 56.5",
+                  "t": "CBS has -7 twice; the total agrees everywhere. That 56.5 is the highest total among the ranked games, and Cincinnati has beaten Texas Tech and lost 45-42 at West Virginia in the last three weeks. One of the three unbeatens, on the road, in the highest-totaled ranked game.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 1 Miami at North Carolina, 7:30 PM ABC - Miami -14, total 52.5",
+                  "t": "CBS has -14.5 and 52. Miami is 7-0 and just scored 52 on Pitt.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 21 Northwestern at Oregon, 3:30 PM Peacock - and OREGON IS FAVORED, -3.5, total 47.5",
+                  "t": "Northwestern is 6-1 and getting points at a team that just lost to Illinois.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 25 Wisconsin at Iowa, NOON FOX - and IOWA IS FAVORED, -3.5, total 36.5",
+                  "t": "CBS has Iowa -2.5. The 36.5 is the LOWEST total on the entire board. Wisconsin just beat USC by 17 and is still a road dog.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 19 SMU at Syracuse, NOON ESPN2 - SMU -10.5, total 57.5",
+                  "t": "CBS has -9.5 and 58.5. Syracuse just won in overtime at North Carolina.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "No. 24 Oklahoma State at Iowa State, 7:00 PM - Oklahoma State -9.5, total 57.5",
+                  "t": "Tied for the highest total on the board. NETWORK CONFLICT: FOX per ESPN and FBSchedules, FS1 per CBS. The spread agrees across all three.",
+                  "url": "https://www.cbssports.com/betting/news/2026-week-9-college-football-odds-betting-lines-spreads-start-times-picks-predictions-best-bets/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "No. 23 Missouri at Arkansas, 7:45 PM SEC Network - Missouri -10, total 49",
+                  "t": "This one is CBS's number, not DraftKings' - the ESPN board did not carry it where we could read it.",
+                  "url": "https://www.cbssports.com/betting/news/2026-week-9-college-football-odds-betting-lines-spreads-start-times-picks-predictions-best-bets/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "cfb-rest-of-board",
+              "time": "9:45-9:53",
+              "title": "Ranked teams at home, the byes, and the hot-seat games",
+              "items": [
+                {
+                  "h": "The ranked home slate",
+                  "t": "No. 5 Notre Dame vs Navy in Foxborough, NOON ABC, -30.5, total 56.5 (both numbers have a dissenting source). No. 12 Ole Miss vs Auburn, 12:45 PM SECN, -12.5, 57.5 - and Auburn beat the No. 1 team in the country two weeks ago. No. 4 Indiana vs Minnesota, 3:30 PM CBS, -20.5, 41.5. No. 8 BYU vs Arizona State, 3:30 PM FOX, -16.5, 48.5. No. 14 Wake Forest vs Virginia, 3:45 PM ESPN2, -12.5, 49.5. No. 7 UCLA vs Nevada, 4:15 PM BTN, -22.5, 44.5. No. 11 Texas vs Mississippi State, 7:30 PM ESPN, -20.5, 50.5. No. 20 Boise State vs Texas State, 10:00 PM The CW, -11, total 63.5 - the highest total in college football tonight.",
+                  "url": "https://www.espn.com/college-football/schedule/_/week/9/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "College GameDay is in Bloomington for Minnesota at No. 4 Indiana",
+                  "t": "Showalter Fountain on the Indiana campus. Note that the same tracker's Week 10 through 12 locations are market-price projections, not announcements - do not read those on air.",
+                  "url": "https://www.covers.com/ncaaf/college-gameday-schedule-2026",
+                  "src": "Covers"
+                },
+                {
+                  "h": "FIVE ranked teams are idle, four of them SEC",
+                  "t": "No. 9 Kentucky, No. 10 Alabama, No. 15 LSU, No. 16 Tennessee, No. 18 Houston. Twenty-six FBS teams are on bye in all, West Virginia among them.",
+                  "url": "https://afterthetimeout.com/cfb/schedule/",
+                  "src": "After the Timeout"
+                },
+                {
+                  "h": "The hot-seat games worth a mention",
+                  "t": "Michigan at Rutgers 12:30 BTN, Michigan -15.5, with Greg Schiano carrying a reported $19.1 million buyout. Kansas State at Colorado 2:00 on TNT and truTV, COLORADO -1.5, with Deion Sanders 5-10 in his last 20. Clemson at Florida State 7:00 ACCN, Florida State -6, and both coaches are on the lists - Norvell's buyout is reported around $48 million. Georgia Tech at Pitt 7:30 ESPN2, Pitt -8.5. Illinois at Maryland NOON FS1 and California at NC State NOON ACCN are both interim-coach teams now. And Marshall at Old Dominion 1:00 ESPN+, Marshall -3, for the in-state audience.",
+                  "url": "https://fbschedules.com/college-football-schedule-tv-selections-for-october-31-2026/",
+                  "src": "FBSchedules"
+                },
+                {
+                  "h": "Get Friday night's finals before the show",
+                  "t": "Tulane at Charlotte 7:00 ESPN2, Baylor at UCF 7:30 ESPN - Baylor's first game since Aranda was fired and they were only -1.5 - and Kent State at Sacramento State 10:30 ESPN2.",
+                  "url": "https://fbschedules.com/college-football-schedule-tv-selections-for-october-31-2026/",
+                  "src": "FBSchedules"
+                }
+              ]
+            },
+            {
+              "id": "cfb-heisman-bracket-carousel",
+              "time": "9:53-9:57",
+              "title": "The Heisman, the bracket and the carousel",
+              "items": [
+                {
+                  "h": "Heisman: Jeremiah Smith +124, Darian Mensah +290, Malachi Toney +345",
+                  "t": "Then a huge gap to CJ Carr +2000 and Trinidad Chambliss +2200. The article does not name a sportsbook - attribute it to the outlet.",
+                  "url": "https://www.si.com/fannation/college/cfb-hq/betting/heisman-odds-2026-malachi-toney-surges-top-3-jeremiah-smith-slips-darian-mensah-ohio-state-miami",
+                  "src": "Sports Illustrated (CFB HQ)"
+                },
+                {
+                  "h": "Malachi Toney went +2700 to +345 in one week",
+                  "t": "Sixteen catches, 194 yards and three touchdowns against Pitt. That means both of the top three behind Smith are Miami players.",
+                  "url": "https://www.si.com/fannation/college/cfb-hq/betting/heisman-odds-2026-malachi-toney-surges-top-3-jeremiah-smith-slips-darian-mensah-ohio-state-miami",
+                  "src": "Sports Illustrated (CFB HQ)"
+                },
+                {
+                  "h": "Jeremiah Smith went from -120 to +124 during a bye week",
+                  "t": "Purely because Julian Sayin got hurt. A receiver's odds got worse because his quarterback went down - which is exactly the thing that has kept receivers from winning this award. One has won it since 1992. Chambliss fell +650 to +2200 after the Texas loss, and Bear Bachmeier dropped out of the top 10 after UCF.",
+                  "url": "https://www.si.com/fannation/college/cfb-hq/betting/heisman-odds-2026-malachi-toney-surges-top-3-jeremiah-smith-slips-darian-mensah-ohio-state-miami",
+                  "src": "Sports Illustrated (CFB HQ)"
+                },
+                {
+                  "h": "Projected 12-team bracket: Georgia, Miami, Ohio State and BYU with the byes",
+                  "t": "Then Indiana, Notre Dame, UCLA, Kentucky, Utah, LSU, Texas, and Boise State as the Group of Six champion. Projected title game is Georgia-Miami in Las Vegas. The committee's first ranking of the season has not come out yet and we could not confirm the date - do not say when it drops.",
+                  "url": "https://sports.yahoo.com/articles/college-football-playoff-12-team-120500362.html",
+                  "src": "Athlon Sports via Yahoo Sports"
+                },
+                {
+                  "h": "Three head coaches already gone, and the SEC has not fired anybody",
+                  "t": "Dave Aranda at Baylor October 25 (40-40 in seven seasons), Dave Doeren at NC State October 24 (98-74 in 14), Mike Locksley at Maryland October 21 (39-54). The seats described as hottest now: Riley at USC - playing Ohio State tonight - plus Schiano, Sanders and Norvell, with Brent Key and Dabo Swinney on the warming list.",
+                  "url": "https://sports.yahoo.com/articles/college-football-coaching-carousel-picks-090831873.html",
+                  "src": "USA TODAY Sports via Yahoo Sports"
+                }
+              ]
+            },
+            {
+              "id": "cfb-picks-tease",
+              "time": "9:57-10:00",
+              "title": "Picks and the tease",
+              "items": [
+                {
+                  "h": "One college play and one sentence from each panelist",
+                  "t": "Name the book and the number you are taking. The honest framing of this slate: one ranked-vs-ranked game, two ranked road underdogs, five ranked teams on bye - the value is in the dog spots, not the marquee. Then tease Trent at the top of the hour.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hour 2",
+      "subtitle": "Trent Conner's fantasy five at the top, then NFL Week 8 (10:00-11:00)",
+      "blocks": [
+        {
+          "title": "Block 1: Trent Conner's Fantasy Five",
+          "time": "10:00-10:05",
+          "segments": [
+            {
+              "id": "fantasy-five",
+              "time": "10:00-10:05",
+              "title": "Five minutes, hard out",
+              "items": [
+                {
+                  "h": "Lead with the clock change - set lineups Saturday night",
+                  "t": "Daylight saving time ends overnight. One o'clock Sunday is an hour later than it felt last week. NFL.com itself lists Thursday as EDT and Sunday as EST.",
+                  "url": "https://www.nfl.com/schedules/2026/REG8/",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "The headline add: Jonah Coleman, Denver - but add him, do not necessarily start him",
+                  "t": "First game back off a high-ankle sprain: 9 carries for 54, two catches for 15, and more to the point he led the Denver backfield with 30 snaps, about half the team's, and ran 11 routes, while J.K. Dobbins played 23 percent. Consensus number one add at four outlets. Ownership is reported about 35 percent of Yahoo leagues and 68 percent of CBS leagues - say the Yahoo number and name the platform. The catch: Kansas City has held running backs to 3.4 yards a carry and CBS says nobody should start Coleman this week. Say that split out loud.",
+                  "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-waiver-wire-rookies-jonah-coleman-omar-cooper-jr-headline-top-pickups-150345826.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "Omar Cooper Jr., Jets - two straight hundred-yard games off IR, 48 percent Yahoo",
+                  "t": "Six for 103 and a score, then five for 115 and a score. Thirty-eight snaps and 23 routes last week, and he is ahead of Adonai Mitchell in two-receiver sets.",
+                  "url": "https://www.fantasypros.com/2026/10/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-8-2026/",
+                  "src": "FantasyPros"
+                },
+                {
+                  "h": "Antonio Williams, Washington - the lowest-owned real add on the board at 8 percent Yahoo",
+                  "t": "The reason is Terry McLaurin, out for the season with a torn patellar tendon. Williams led Washington's receivers in snaps and routes; 18 catches for 205 and a score on 26 targets this season.",
+                  "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-8-waiver-wire/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Chig Okonkwo, Washington, 17 percent Yahoo - same vacancy, scarcer position",
+                  "t": "Six targets for 60 against the Giants, seven for 69 against San Francisco. And three of the four tight ends with four or more targets against Philadelphia scored 11.7 PPR or better. One usage report lists him on New Orleans - three other outlets and the McLaurin logic say Washington.",
+                  "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-8-waiver-wire/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Makai Lemon, Philadelphia, 36 percent - led the Eagles with 8 targets",
+                  "t": "Seven for 67 and a score against Dallas with DeVonta Smith and Dontayvion Wicks out, and both of them did not practice Wednesday or Thursday again this week.",
+                  "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-waiver-wire-rookies-jonah-coleman-omar-cooper-jr-headline-top-pickups-150345826.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "The stash list, one pass, updating last week's",
+                  "t": "GRADUATING: Jonah Coleman is now an add-everywhere name, Omar Cooper Jr. is startable in deeper leagues, Zach Charbonnet is a full practice participant off the ACL and could play Monday night. STILL STASHES: Brian Robinson Jr., Dylan Sampson. DROPS: Ja'Kobi Lane and Terrance Ferguson have not produced, and MarShawn Lloyd in Green Bay is the week's top drop at 50 percent Yahoo now that Josh Jacobs is back - and Jacobs was back from a SUSPENSION, not an injury; one outlet has that wrong.",
+                  "url": "https://www.fantasypros.com/nfl/news/615720/josh-jacobs-suspension-active-week-7.php",
+                  "src": "FantasyPros"
+                },
+                {
+                  "h": "New stashes: Mendoza, Tyson, McGowan, Rodriguez Jr., Pierce",
+                  "t": "Fernando Mendoza, Las Vegas, 5 percent Yahoo - the best stash on the board if Kirk Cousins gets moved before the November 10 deadline. Jordyn Tyson, New Orleans - say clearly he has NOT PLAYED AN NFL GAME; he is 49 percent owned on nothing, debut expected next week off the bye. Seth McGowan, Indianapolis, 7 percent, a 34.5 percent snap share, with ESPN putting Jonathan Taylor's chances of being traded at 30 percent. Chris Rodriguez Jr., Jacksonville, 24 percent, out-producing Bhayshul Tuten 5.0 yards a carry to 3.6. Dameon Pierce, Philadelphia, 55 percent, the direct Barkley contingency.",
+                  "url": "https://www.espn.com/fantasy/football/story/_/id/50319084/nfl-trade-deadline-2026-fantasy-football-potential-impact",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "One start, one sit, one stream, then out",
+                  "t": "START Hunter Henry at Miami - Miami has given up at least 10.4 PPR to a tight end in five straight games and Henry has four straight over 11.2. SIT Patrick Mahomes at Denver; he put up 5.0 points in a 20-3 loss last week and his knee is fine, it is the matchup. STREAM the Cincinnati defense against Tennessee at 26 percent Yahoo, or if you are desperate, Washington against Philadelphia at 2 percent - Hurts is out, McKee is starting, Barkley is hurt and six Eagles did not practice.",
+                  "url": "https://www.fantasypros.com/2026/10/lets-stream-defenses-week-8-2026-fantasy-football/",
+                  "src": "FantasyPros"
+                },
+                {
+                  "h": "Saturday-morning checks for Trent",
+                  "t": "Barkley, Gibbs, St. Brown, Chase and A.J. Brown all have NO designation and CBS lists several of them as must-starts anyway. Rashee Rice is practicing with no status. And CBS's bye-week tags are broken this week - the column labeled eleven players on bye when the only Week 8 byes are Houston, New Orleans, the Giants and San Francisco.",
+                  "url": "https://sports.yahoo.com/fantasy/live/nfl-injury-tracker-week-8-latest-news-fantasy-implications-as-saquon-barkley-hamstring-remains-out-of-practice-lamar-jackson-ankle-set-to-return-132719592.html",
+                  "src": "Yahoo Sports"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: What Already Happened",
+          "time": "10:05-10:25",
+          "segments": [
+            {
+              "id": "nfl-tnf-packers-panthers",
+              "time": "10:05-10:12",
+              "title": "Thursday night: Packers 27, Panthers 19",
+              "items": [
+                {
+                  "h": "Green Bay is 5-3, Carolina 3-4",
+                  "t": "At Lambeau. These are the confirmed post-Thursday records - ESPN's standings page still has Green Bay at 4-3.",
+                  "url": "https://www.espn.com/nfl/recap?gameId=401873023",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Bryce Young sacked SIX times - that is the game",
+                  "t": "Young 23-of-41 for 209, one touchdown, one interception. Jordan Love 30-of-41 for 288 with three touchdowns and a pick. Josh Jacobs 21 carries for 39 yards and a rushing score plus a 4-yard touchdown catch; Chuba Hubbard 22 for 81 and a score.",
+                  "url": "https://www.espn.com/nfl/recap?gameId=401873023",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Christian Watson broke a rib, went to the hospital by ambulance, and came back and finished the game",
+                  "t": "He broke it on a 53-yard catch. A CT scan showed no internal bleeding and he returned - eight catches for 113 yards. That is the story out of this game. Monitor him.",
+                  "url": "https://www.espn.com/nfl/recap?gameId=401873023",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The sequence",
+                  "t": "Carolina field goal, then Love 12 yards to Tucker Kraft, Jacobs in from a yard, Matthew Golden 24 yards, Jacobs again for 27-10. Zakee Wheatley then picked Love off in the end zone and Carolina pushed back - Young 26 yards to Jalen Coker with 5:37 left, but the two-point try failed at 27-19 and the last drive died on a Dani Dennis-Sutton sack.",
+                  "url": "https://www.espn.com/nfl/recap?gameId=401873023",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Other injuries out of it",
+                  "t": "Josh Whyle evaluated for a concussion in the first half. Carolina cornerback Will Lee carted off with a hamstring on the same play as Watson - and Carolina already had three cornerbacks on injured reserve. Guard Corey Bullock went out with a quad.",
+                  "url": "https://www.espn.com/nfl/recap?gameId=401873023",
+                  "src": "ESPN"
+                }
+              ]
+            },
+            {
+              "id": "nfl-week7-rewind",
+              "time": "10:12-10:20",
+              "title": "Week 7 rewind",
+              "items": [
+                {
+                  "h": "Seahawks 20, Chiefs 3",
+                  "t": "Kansas City held to a single field goal, and Mahomes went 19-of-33 for 165 with no touchdowns and an interception - 5.0 fantasy points. That is the lead-in to Chiefs at Denver on Sunday, where Kansas City is only a 1.5-point favorite.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Falcons 29, 49ers 20 - San Francisco's unbeaten start is over",
+                  "t": "Atlanta forced four turnovers and Michael Penix Jr. threw three touchdowns.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Cowboys 38, Eagles 21 on Monday night",
+                  "t": "Dak Prescott with three touchdown passes. Philadelphia is 2-5 and now a six-point road underdog in Washington.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Bengals 35, Ravens 13 - and Baltimore gets Buffalo next",
+                  "t": "A blowout in Baltimore, with Lamar Jackson out. He may be back Sunday.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Dolphins 28, Jets 25 - Miami's first win of the season",
+                  "t": "With Malik Willis at quarterback: 208 passing yards, two touchdown passes, 37 rushing yards and a rushing score.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The rest of the slate",
+                  "t": "Buccaneers 43 Panthers 13. Giants 27 Texans 21 in overtime on a 30-yard Devin Singletary run. Steelers 16 Saints 10 in Paris. Browns 27 Titans 24. Vikings 16 Colts 10. Broncos 30 Cardinals 16. Lions 20 Packers 17. Rams 35 Raiders 21. Thursday: Bears 30 Patriots 24.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Fantasy fallout in one breath",
+                  "t": "Tony Pollard went 25 for 129 and three touchdowns, 36.5 PPR, the week's top score - and two outlets call that a sell-high rather than a breakout, with Cincinnati's run defense next. Ashton Jeanty ran 8 times for 15 yards. Colston Loveland got 12 targets and went 7 for 69 and a score. Cam Skattebo ran for a career-high 124 a week after being benched. Ollie Gordon II had his third straight game with 88-plus rushing and a touchdown.",
+                  "url": "https://blitzsportsmedia.com/fantasy-football-takeaways-wk7-26/",
+                  "src": "Blitz Sports Media"
+                }
+              ]
+            },
+            {
+              "id": "nfl-deadline-standings",
+              "time": "10:20-10:25",
+              "title": "Where things stand, and the deadline",
+              "items": [
+                {
+                  "h": "Byes: Houston, New Orleans, the Giants, San Francisco",
+                  "t": "Four teams off the board.",
+                  "url": "https://www.nfl.com/schedules/2026/REG8/",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "The deadline has already produced the Monday night game",
+                  "t": "Chicago gave Tennessee a 2027 first, a 2027 fourth and a 2028 first for defensive tackle Jeffery Simmons on October 29. Seattle got guard Quenton Nelson from Indianapolis on October 27 for a 2027 third and a 2028 fifth. Both of this week's Monday night teams bought at the deadline and are playing each other four days later. Trade deadline is Tuesday November 10 at 4:00 PM ET.",
+                  "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Indianapolis is selling",
+                  "t": "Nelson out, DeForest Buckner back to San Francisco for a 2027 fourth. Earlier moves worth having in your pocket: Marvin Harrison Jr. from Arizona to Houston, Cam Jurgens from Philadelphia to Baltimore, Joey Porter Jr. from Pittsburgh to Dallas, J.J. McCarthy from Minnesota to the Giants.",
+                  "url": "https://www.espn.com/nfl/story/_/id/50043471/2026-trade-deadline-updates-latest-news-deals-terms",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Do NOT read a record off ESPN's standings page this morning",
+                  "t": "It does not include Thursday's result and its games-played counts are uneven across divisions. Panel prompt: who is actually buying before November 10, and is Chicago's price for Simmons defensible?",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 3: Week 8 Picks, the Vegas Numbers and the Locks",
+          "time": "10:25-11:00",
+          "segments": [
+            {
+              "id": "nfl-the-board",
+              "time": "10:25-10:32",
+              "title": "The board",
+              "items": [
+                {
+                  "h": "1:00 PM Sunday, eight games",
+                  "t": "Ravens at Bills CBS, Buffalo -3, total 54.5. Titans at Bengals CBS, Cincinnati -11.5, 46.5. Cardinals at Cowboys FOX, Dallas -7, 54.5. Vikings at Lions FOX, Detroit -3, 46.5. Raiders at Jets FOX, Jets -1.5, 45.5. Browns at Steelers CBS, Pittsburgh -3.5, 39.5. Falcons at Buccaneers FOX, Tampa Bay -2.5, 44.5. Colts at Jaguars CBS, Jacksonville -10, 46.5.",
+                  "url": "https://www.espn.com/nfl/schedule/_/week/8/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "Late and primetime",
+                  "t": "Chargers at Rams 4:05 FOX, Rams -6.5, 45.5. Chiefs at Broncos 4:25 CBS, KANSAS CITY -1.5, total 40.5 - the Chiefs barely favored on the road a week after scoring three points. Patriots at Dolphins 4:25 CBS, New England -7, 43.5. Eagles at Commanders Sunday 8:20 PM NBC, WASHINGTON -6, 40.5. Bears at Seahawks Monday 8:15 PM ESPN, Seattle -3, 46.5.",
+                  "url": "https://www.espn.com/nfl/schedule/_/week/8/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "The extremes, and the number that should stop the room",
+                  "t": "Highest total 54.5, twice - Ravens-Bills and Cardinals-Cowboys. Lowest 39.5, Browns-Steelers. Biggest spread Cincinnati -11.5. And Philadelphia is a SIX-POINT ROAD UNDERDOG to a 1-4-1 team. Three games moved hard this week: Colts-Jaguars from -7.5 to -10, the Cardinals-Cowboys total from 49.5 to 54.5, and Raiders-Jets actually flipped favorites.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-snf-eagles-commanders",
+              "time": "10:32-10:39",
+              "title": "Sunday Night Football: Eagles at Commanders",
+              "items": [
+                {
+                  "h": "8:20 PM NBC - Washington -6, total 40.5. Eagles 2-5, Commanders 1-4-1",
+                  "t": "Northwest Stadium.",
+                  "url": "https://www.si.com/betting/eagles-vs-commanders-prediction-odds-spread-injuries-trends-for-nfl-week-8-01m5zknjrzj7",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "The spread tells the story better than we can: this opened with PHILADELPHIA favored by 1.5",
+                  "t": "The moment Jalen Hurts went on injured reserve it flipped to Washington -3.5, and it has kept moving to -6. The total dropped from 46.5 to 40.5. That is a seven-and-a-half-point swing in the line and a six-point drop in the total on one piece of news.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Hurts: deep vein thrombosis and bilateral pulmonary emboli - blood clots in his lungs",
+                  "t": "Confirmed by the team and his agent. On blood thinners, described as clinically stable, with a reported three-month recovery and an expected full recovery with no long-term effects. He cannot do contact work on blood thinners, which is why Rapoport and Schefter both report the season is over. Say \"reported,\" not \"ruled out.\"",
+                  "url": "https://www.nfl.com/news/eagles-qb-jalen-hurts-out-2026-season-blood-clots",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Tanner McKee starts, behind a thinner line",
+                  "t": "He started the Week 6 loss to Carolina. Philadelphia also traded center Cam Jurgens to Baltimore on October 7.",
+                  "url": "https://www.nfl.com/news/eagles-qb-jalen-hurts-out-2026-season-blood-clots",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "And yet Washington is the other half of this - Jayden Daniels has not won a start in over a year",
+                  "t": "Not since an October game last season. This year: 64.7 percent, 759 yards, five touchdowns in four games. Terry McLaurin and Jaylin Lane are both on injured reserve. Stefon Diggs did not practice Wednesday and was FULL Thursday - trending up.",
+                  "url": "https://www.si.com/betting/eagles-vs-commanders-prediction-odds-spread-injuries-trends-for-nfl-week-8-01m5zknjrzj7",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "Injuries, no designations posted for either team",
+                  "t": "Philadelphia DNP Wednesday: Barkley (hamstring/back), Jihaad Campbell, DeVonta Smith (hamstring), Jonathan Jones, Dontayvion Wicks, Britian Covey. Limited: Jonathan Greenard (ankle), Nolan Smith (concussion). Washington DNP: Diggs before Thursday, Javon Kinlaw (knee), John Bates; Jer'Zhan Newton limited in his 21-day window. The 40.5 total is the second-lowest on the board for a reason - this is an under-and-a-defense game, not a start-your-skill-players game.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-kerby-joseph-updates/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-mnf-bears-seahawks",
+              "time": "10:39-10:45",
+              "title": "Monday Night Football: Bears at Seahawks",
+              "items": [
+                {
+                  "h": "8:15 PM ESPN at Lumen Field - Seattle -3, total 46.5",
+                  "t": "The hook is the trade deadline colliding with itself: Chicago bought Jeffery Simmons on October 29 for two first-round picks, Seattle bought Quenton Nelson on October 27.",
+                  "url": "https://www.espn.com/nfl/schedule/_/week/8/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds)"
+                },
+                {
+                  "h": "Whether Simmons plays is NOT announced",
+                  "t": "Nothing forces him to sit - he played 64 defensive snaps for Tennessee on October 25 with no injury designation. The only question is how fast he can learn Dennis Allen's defense. Put the Simmons-against-Nelson matchup as a question, not a fact; that framing is aggregator headlines only.",
+                  "url": "https://sports.yahoo.com/articles/jeffery-simmons-trade-chicago-bears-174040747.html",
+                  "src": "Yahoo Sports"
+                },
+                {
+                  "h": "Seattle held Kansas City to three points last week",
+                  "t": "In Kansas City. Chicago's counter is rest - they last played Thursday October 22, so eleven days off before the trip west.",
+                  "url": "https://www.espn.com/nfl/scoreboard/_/week/7/year/2026/seasontype/2",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "There is NO injury information published for this game at all",
+                  "t": "Not on nfl.com, not at CBS. Do not put anybody in or out. Fantasy angles if somebody raises them: Luther Burden III against the zone looks Seattle plays, Jaxon Smith-Njigba the other way, and Zach Charbonnet is a full practice participant off the ACL who could play - unconfirmed, no designation.",
+                  "url": "https://www.nfl.com/injuries/",
+                  "src": "NFL.com"
+                }
+              ]
+            },
+            {
+              "id": "nfl-implied-totals",
+              "time": "10:45-10:53",
+              "title": "The Vegas numbers - implied team totals",
+              "items": [
+                {
+                  "h": "The full list, computed off the DraftKings board",
+                  "t": "Favorite is total plus spread over two; underdog is total minus spread over two. These are OUR numbers, not published figures, and the arithmetic has been checked twice. Cowboys 30.75 / Cardinals 23.75. Bengals 29.0 / Titans 17.5. Bills 28.75 / Ravens 25.75. Jaguars 28.25 / Colts 18.25. Rams 26.0 / Chargers 19.5. Patriots 25.25 / Dolphins 18.25. Lions 24.75 / Vikings 21.75. Seahawks 24.75 / Bears 21.75. Buccaneers 23.5 / Falcons 21.0. Jets 23.5 / Raiders 22.0. Commanders 23.25 / Eagles 17.25. Steelers 21.5 / Browns 18.0. Chiefs 21.0 / Broncos 19.5.",
+                  "url": "https://www.espn.com/nfl/schedule/_/week/8/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds), totals computed by the show"
+                },
+                {
+                  "h": "HIGHEST: Dallas at 30.75, and it is a start-both-sides game",
+                  "t": "A seven-point favorite in a game whose total has climbed from 49.5 to 54.5 during the week, against an Arizona defense that plays into it - and Arizona at 23.75 is itself the fifth-highest number on the board. Dallas has been the shootout-or-nothing profile all season. Then Cincinnati at 29.0 off the biggest spread of the week, and Buffalo at 28.75 in the other 54.5 game.",
+                  "url": "https://www.cbssports.com/nfl/news/nfl-week-8-odds-lines-spreads-picks-vikings-lions-chiefs-broncos/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "LOWEST: Philadelphia at 17.25 - the whole Hurts story in one number",
+                  "t": "Then Tennessee 17.5, Cleveland 18.0, and Indianapolis and Miami tied at 18.25.",
+                  "url": "https://www.espn.com/nfl/schedule/_/week/8/year/2026/seasontype/2",
+                  "src": "ESPN (DraftKings odds), totals computed by the show"
+                },
+                {
+                  "h": "The games to leave alone - and the strangest number on the board",
+                  "t": "Browns-Steelers is the lowest total at 39.5 and BOTH teams sit under 22 - that is an under and a defense, not a lineup. Eagles-Commanders at 40.5 is the same shape. And Chiefs-Broncos at 40.5 is the odd one: Kansas City implied at 21.0 and Denver at 19.5, which means the market expects a defensive game out of two teams with real offenses. Make somebody defend that.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "Caution: Ravens-Bills assumes Lamar Jackson plays",
+                  "t": "He practiced in full and is reported as expected to play, but there is no designation. If he is out Saturday, Baltimore's 25.75 is wrong and the total comes down.",
+                  "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/wolfson-lamar-jackson-will-play-week-8-vs-bills",
+                  "src": "NBC Sports"
+                }
+              ]
+            },
+            {
+              "id": "nfl-locks-close",
+              "time": "10:53-11:00",
+              "title": "Locks of the week and the close",
+              "items": [
+                {
+                  "h": "One NFL play and one sentence from each panelist",
+                  "t": "Name the book and the number.",
+                  "url": "",
+                  "src": ""
+                },
+                {
+                  "h": "The close - hit all four",
+                  "t": "The clocks fall back overnight, so 1:00 Sunday is an hour later than last week. No early game this week; the Madrid game is NEXT Sunday at 9:30 in the morning. Four teams on bye: Houston, New Orleans, the Giants, San Francisco. Trade deadline is Tuesday November 10 at 4:00.",
+                  "url": "https://www.nfl.com/schedules/2026/REG8/",
+                  "src": "NFL.com"
+                },
+                {
+                  "h": "Tease next week",
+                  "t": "West Virginia back from the bye at Texas Tech, and Ohio State-USC tonight will have decided whether Lincoln Riley still has a job.",
+                  "url": "",
+                  "src": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
