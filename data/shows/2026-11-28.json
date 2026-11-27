@@ -2,12 +2,24 @@
   "id": "2026-11-28",
   "show": "Godzilla Wins",
   "date": "Saturday, November 28, 2026",
-  "airtime": "9:00-11:00 AM ET",
-  "lineup": "Hour 1 is college football for the full hour - rivalry week, the AP and CFP rankings now disagreeing about whole conferences, and West Virginia's bowl season decided at Utah on Friday night. Hour 2 opens with Trent Conner's fantasy five, then NFL Week 12: the Thanksgiving triple-header where all three games were won inside the final minute, and Sunday's board.",
+  "airtime": "8:00-10:00 AM ET",
+  "lineup": "The show opens cold on Aaron Rodgers for twenty minutes - released by Pittsburgh Wednesday after accusing his head coach of sleeping in meetings, now a free agent nobody has called. Then college football for the rest of Hour 1 - rivalry week, the AP and CFP rankings now disagreeing about whole conferences, and West Virginia's bowl season decided at Utah on Friday night. Hour 2 opens with Trent Conner's fantasy five, then NFL Week 12: the Thanksgiving triple-header where all three games were won inside the final minute, and Sunday's board.",
   "lines_note": "NFL lines are DraftKings as published by CBS Sports (\"Odds provided by DraftKings\"), page published Wednesday Nov 26, 2026, 11:40 AM ET, captured Friday Nov 27. Implied team totals are computed off that board, not published figures, and the arithmetic has been verified in code. There is no single clean DraftKings board for the college slate: the complete DraftKings set is Nov 22 (all 69 games, via SportsBettingDime), a partial set is Nov 24 (21 games, via Bleacher Nation), and ESPN's DraftKings page on Nov 27 carries no timestamp and truncates after the early afternoon. Every college number is tagged with its capture date - say \"opened at\" or \"was,\" not \"is.\" Kickoffs and networks: nfl.com plus the league TV grid for the NFL; FBSchedules' finalized Rivalry Week slate (Nov 23) cross-checked against Bleacher Nation for college.",
   "verify": [
     "THE SHOW CLOCK ITSELF. This sheet assumes 8:00-10:00 AM ET, the standing default confirmed in the 10/2 show notes and by Jack's Oct 24 instruction (\"8-10 am until I say different\"). The stored task prompt still says 9-11; this is the fifth straight week it has been flagged. If the show is actually at 9, every block and topic time slides one hour. Kickoff times do not move.",
     "TWO FINAL SCORES THAT EXIST BY AIR AND ARE NOT IN THIS SHEET. West Virginia at Utah kicked at 9:00 PM ET Friday on FOX; Broncos at Steelers kicked at 3:00 PM ET Friday on Prime Video. Neither had been played when this was built, and both are load-bearing - WVU's bowl season and Jonah Coleman's must-start status ride on them. Pull both box scores before air, plus the whole Friday college slate.",
+    "MIKE McCARTHY IS PITTSBURGH'S HEAD COACH, NOT MIKE TOMLIN. Tomlin stepped down in January 2026 after 19 seasons and McCarthy replaced him; Tomlin is now an NBC analyst, which is why he is the one calling it a dumpster fire on television. McCarthy coached Rodgers for thirteen years in Green Bay. Do not mix them up on air - it is the easiest mistake in this story.",
+    "THERE IS NO FULL PUBLIC TRANSCRIPT OF THE McAFEE INTERVIEW. Every Rodgers quote in Block 1 is as transcribed by ESPN and CBS Sports off the live broadcast. The two outlets independently agree on the key lines, which is why they are in here, but say \"as transcribed by ESPN\" once at the top of the segment and do not present them as a verbatim transcript.",
+    "\"RELEASED\" OR \"WAIVED\" - BOTH ARE CORRECT AND IT WILL SOUND LIKE AN ERROR. Steelers.com says released; ESPN says waived. Because the move came after the trade deadline, even a vested veteran passes through waivers. He cleared them Thursday at 4 PM with no claim and is an unrestricted free agent.",
+    "THE ROONEY QUOTE HAS TWO PUBLISHED WORDINGS. The Post-Gazette, whose own reporter did the interview, has \"insubordination will not be tolerated.\" ESPN has \"insubordination can't be tolerated.\" Use the Post-Gazette version.",
+    "THE GRIEVANCE HAS NOT BEEN FILED. ESPN reports only that Pittsburgh may file for conduct detrimental to recover the $8.56 million. Do not say they are doing it. And Joel Corry's roughly $6.1 million figure is the maximum allowable discipline as a calculation, not a reported settlement.",
+    "TWO MONEY ITEMS ARE RUMOR-TIER AND STAY OFF THE AIR: an aggregated Ari Meirov item about a \"$22,000,000 issue\" tied to Rodgers not reporting to the facility, and reported comments from his brother Jordan and his estranged father, neither of which could be verified.",
+    "RODGERS HAS SAID NOTHING SINCE THE RELEASE - no statement, no post, no podcast, as of Friday afternoon, and no response to Rooney calling him insubordinate. If something lands overnight this block changes. Note he had already announced on May 20 that he would retire after this season, so retirement is not news, it is the standing plan.",
+    "USE THE CAREER NUMBERS FROM STEELERS.COM AND NFL.COM: 68,515 yards, 543 touchdowns, 274 games, 267 starts, 22 seasons. Wikipedia's Aaron Rodgers page is stale to Week 2 and shows 66,682 and 528 while still listing him as an active Steeler. Do not read those.",
+    "KALSHI IS A PREDICTION MARKET, NOT A SPORTSBOOK, and the two markets disagree about his next team: Kalshi has retirement at 74 percent with Baltimore second among teams; BetOnline posted no retirement line at all and has Cleveland second. Name the market every time.",
+    "BILL COWHER, RUSSELL WILSON AND NATE BURLESON were reported to have \"struck a similar tone\" on CBS with no direct quotes published. Do not put words in Cowher's mouth.",
+    "ESPN'S STEELERS PLAYOFF PERCENTAGES LOOK WRONG. The same piece carries a division figure falling from 19.7 percent to about 5 percent and separately 92 percent with a Denver win and 82 percent with a loss. Those cannot both be right for a 6-4 team. Use the 19.7-to-5 division number or nothing. Pittsburgh is 6-4 and holds the AFC's last wild-card spot per Yahoo's Jori Epstein; they were 6-2 before the bye and lost both games out of it.",
+    "RODGERS-STORY STALE PAGES, AND THERE ARE A LOT: an SI piece dated Nov 24, 2025 describes a 6-5 Steelers team after a loss to Chicago and will read exactly like this week - it is last year. A Steelers Depot piece from August 2026 covers a different Rodgers controversy. And searches on this story surface enormous amounts of 2018-2024 Packers and Jets content about the Rodgers-McCarthy feud, plus the 2022, 2023 and 2024 retirement and landing-spot cycles and a 2023 next-team odds table. Check the year on every page.",
     "THE ENTIRE FRIDAY NFL INJURY REPORT. nfl.com/injuries and Sharp Football's all-32 report both show \"No designation\" in the game status column for every player in every Sunday game and the Monday game. Designations exist only for the Wednesday, Thursday and Friday games. The Chargers' own report has blank Game Status and blank Friday columns for every player, and Vikings.com says in writing that designations are announced Friday. Say \"did not practice\" or \"limited,\" never \"questionable.\"",
     "FOOTBALLGUYS IS PRINTING DESIGNATIONS THAT DO NOT EXIST. Its weekly report shows \"Questionable\" next to Purdy, Herbert, Derrick Henry and Kyler Murray for Sunday games, with no timestamp and no claim they are official, and it invents a \"Probable\" label it then concedes is not an NFL designation. Every primary report on Purdy says only that he missed a second straight practice. Lineups.com stays off the sheet for the same reason as last week.",
     "TWO QUARTERBACKS WHO MAY NOT PLAY SUNDAY AND HAVE ALREADY MOVED THE BOARD. Brock Purdy did not practice Wednesday or Thursday on the ankle; Shanahan says there is a \"possibility\" he sits and Mac Jones would start. Justin Herbert did not practice Wednesday or Thursday and is still in concussion protocol; DJ Uiagalelei or Jake Browning would start. Herbert alone flipped Patriots-Chargers by six points and dropped its total four. Purdy dropped Seahawks-49ers three. Neither has a designation.",
@@ -34,15 +46,205 @@
   "hours": [
     {
       "title": "Hour 1",
-      "subtitle": "College football, the full hour (8:00-9:00)",
+      "subtitle": "Aaron Rodgers cold open, 20 minutes (8:00-8:20), then college football (8:20-9:00)",
       "blocks": [
         {
-          "title": "Block 1: The Carnage, and Two Rankings That Now Disagree About Whole Conferences",
+          "title": "Block 1: Cold Open - Aaron Rodgers Is Gone",
           "time": "8:00-8:20",
           "segments": [
             {
+              "id": "rodgers-release",
+              "time": "8:00-8:05",
+              "title": "The release, and the money",
+              "items": [
+                {
+                  "h": "Pittsburgh released Aaron Rodgers Wednesday and the team's entire official statement was one sentence",
+                  "t": "Steelers.com posted it at 4:48 PM Wednesday Nov 25, bylined Teresa Varley: \"The Steelers released quarterback Aaron Rodgers.\" No coach quoted, no executive quoted, no reason given. Gerry Dulac at the Post-Gazette had it first.",
+                  "url": "https://www.steelers.com/news/steelers-release-rodgers",
+                  "src": "Pittsburgh Steelers"
+                },
+                {
+                  "h": "\"Released\" or \"waived\" - both are right, and it will sound like an error",
+                  "t": "Steelers.com says released; ESPN says waived. Because the move came after the trade deadline, even a vested veteran passes through waivers. He cleared them Thursday at 4 PM with no claim and is now an unrestricted free agent who can sign anywhere for the rest of the season.",
+                  "url": "https://www.espn.com/nfl/story/_/id/50606625/aaron-rodgers-officially-free-agent-clearing-waivers",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The contract: one year, $22,502,750, and Pittsburgh still owes $8.56 million guaranteed",
+                  "t": "His second straight one-year Pittsburgh deal, worth up to $25 million with incentives including $625,000 per playoff win at 75 percent of snaps. He has been paid $13.44 million. Per ESPN's Dan Graziano the release does not change their 2026 cap number at all.",
+                  "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The live wire: ESPN reports Pittsburgh MAY file a grievance for conduct detrimental",
+                  "t": "If it succeeded they would get the $8.56 million back as a cap credit at season's end. Joel Corry's math on maximum discipline - a one-week fine plus a four-week unpaid suspension - is about $6.1 million. Say that is a hypothetical ceiling, not a settlement, and say ESPN reports only that they could file, not that they have.",
+                  "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "He turns 43 next Wednesday, Dec 2",
+                  "t": "And he had already announced on May 20 that he would retire after this season - so retirement is not news, it is the standing plan.",
+                  "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-qb-retiring-after-2026-season/",
+                  "src": "CBS Sports"
+                }
+              ]
+            },
+            {
+              "id": "mcafee-interview",
+              "time": "8:05-8:12",
+              "title": "What he actually said on Pat McAfee's show - this is the segment",
+              "items": [
+                {
+                  "h": "Frame the sourcing first, one sentence",
+                  "t": "There is no full public transcript. Every quote here is as transcribed by ESPN and CBS Sports off the live broadcast Wednesday midday, and the two outlets independently agree on the key lines. McAfee teased it beforehand with two words: \"This feels large.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "He found out he was benched from a teammate, not from the coach",
+                  "t": "Rodgers: \"I was talking to Muth and a couple other guys and he said, 'I can't believe they're doing this.'\" And Rodgers answered: \"Doing what?\" Muth is tight end Pat Freiermuth.",
+                  "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The allegation that made it a national story - he said the head coach fell asleep in a quarterback meeting",
+                  "t": "\"Mike came in late, sat down, and within 10 minutes began snoring. Woke himself up, was rattling his papers. We all looked around.\" And: \"I'm telling you, you snored in the meeting twice, in a quarterback meeting; that's unacceptable.\" He says McCarthy answered: \"You're telling me you've never slept at a facility before.\"",
+                  "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-unleases-on-steelers-mike-mccarthy-pat-mcafee-interview/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "And the one McCarthy himself confirmed, which is why it matters most",
+                  "t": "At halftime of the Eagles loss, Rodgers says McCarthy broke the huddle on \"All right, one, two, three, Packers.\" Rodgers: \"And I think the nail in the coffin for so many of us was at halftime.\" And: \"Everybody across the entire locker room heard it.\" On preparation: \"I think he learns the plan during the week.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "The line that decides whether you defend him",
+                  "t": "\"I'm not saying that to bury you.\" And: \"I'm saying that because this behavior and these habits are not healthy.\" And: \"I have a hundred witnesses and collaborating people who would support what I'm saying.\" And: \"I'm standing on the truth. Everybody there knows it.\" Multiple outlets report he called McCarthy \"unwell\" and suggested a health issue - that is the part that got him released, not the snoring.",
+                  "url": "https://www.cbssports.com/nfl/news/aaron-rodgers-unleases-on-steelers-mike-mccarthy-pat-mcafee-interview/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "The Green Bay callback - and McCarthy coached him thirteen years there",
+                  "t": "\"Nobody knew what was going on for 10 years in Green Bay.\" And: \"Everybody knows. Just like the guys in Green Bay knew.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "He did not touch his teammates, and he saw the release coming",
+                  "t": "\"I love those guys. I talked to so many of them. They know what's going on.\" He thanked Mike Tomlin by name for \"giving me that joy and passion back.\" And: \"What's the repercussions for me? I don't care about getting released. I don't care about making any more money.\" And: \"That ship has definitely sailed. I'm not going back to Pittsburgh.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50595660/rodgers-heard-mccarthy-benching",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Do not skip the corroboration - it is the fairest thing in the segment",
+                  "t": "ESPN's Brooke Pryor had a source say of the allegations: \"It's all true.\" ESPN's Adam Schefter had a source say McCarthy \"crossed\" Rodgers. And NFL Network's Jane Slater reported several sources raised similar concerns about McCarthy during his Dallas years. The counter-witness: retired quarterback Ben DiNucci, two and a half years with McCarthy in Dallas, says he \"never witnessed him doze off or fall asleep.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50597187/sources-confirm-aaron-rodgers-allegations-mike-mccarthy",
+                  "src": "ESPN"
+                }
+              ]
+            },
+            {
+              "id": "pittsburgh-answer",
+              "time": "8:12-8:17",
+              "title": "Pittsburgh's answer - and the man who used to have the job",
+              "items": [
+                {
+                  "h": "Art Rooney II went on the record Thursday and was not careful about it",
+                  "t": "To Gerry Dulac, whose own reporter did the interview, so use this wording: \"Insubordination will not be tolerated.\" And: \"When you start getting ultimatums, you can't live with that.\" And the one that will get the phones going: \"He talks about wanting to be a good teammate, but you don't do that to your teammates a couple days before the game.\" ESPN renders the first as \"insubordination can't be tolerated\" - use the Post-Gazette version.",
+                  "url": "https://www.post-gazette.com/sports/steelers/art-rooney-aaron-rodgers-mike-mccarthy-OWI5SSIIDJC6FKGMOJ4BFAN32Q/",
+                  "src": "Pittsburgh Post-Gazette"
+                },
+                {
+                  "h": "The ultimatum itself, per Post-Gazette sources",
+                  "t": "Rodgers told McCarthy: \"Either let me call all the plays or just release me.\" Rapoport and Garafolo reported a floated compromise where quarterbacks coach Tom Arth would relay plays to him. Rooney's position is that this is outside a player's job description, full stop.",
+                  "url": "https://www.post-gazette.com/sports/steelers/art-rooney-aaron-rodgers-mike-mccarthy-OWI5SSIIDJC6FKGMOJ4BFAN32Q/",
+                  "src": "Pittsburgh Post-Gazette"
+                },
+                {
+                  "h": "Rooney guaranteed the coach's job on the same day - ask whether that is confidence or damage control",
+                  "t": "To ESPN in writing: \"I am disappointed in where this went with Aaron Rodgers, but I have 100% confidence in Mike McCarthy.\" And to the Post-Gazette, that he expects McCarthy to be the coach \"this season, next season and beyond.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50605070/steelers-owner-disappointed-rodgers-backs-mccarthy",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "McCarthy, Wednesday: it was his call, and he gave up an admission that will follow him",
+                  "t": "\"There was an ultimatum made clearly outside of his job description. So, it was my decision to bench him.\" He disputed the no-communication claim. He confirmed the halftime moment as \"an embarrassing moment, but I just think we worked a lot of hours, so definitely a difference of opinion.\" He defended himself with \"I know how to win, and that's the facts. This is my third program.\" And: \"I probably should have had more dialogue earlier in the process when I first arrived here.\" Per CBS he did not address the snoring specifically.",
+                  "url": "https://www.cbssports.com/nfl/news/steelers-mike-mccarthy-responds-to-aaron-rodgers-after-pat-mcafee-interview/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "Mike McCarthy is Pittsburgh's head coach, not Mike Tomlin - do not mix them up",
+                  "t": "Tomlin stepped down in January 2026 after 19 seasons and McCarthy replaced him. Rodgers says he vouched for McCarthy in Pittsburgh's coaching search.",
+                  "url": "https://www.steelers.com/team/coaches-roster/",
+                  "src": "Pittsburgh Steelers"
+                },
+                {
+                  "h": "And Tomlin, now an NBC analyst, called it a dumpster fire on Thanksgiving",
+                  "t": "At halftime of Chiefs-Bills, to Mike Tirico: \"I'm upset about it, it's a dumpster fire.\" And: \"Sad that we might be looking at the end of a legendary career.\" And: \"He was beloved, and I'm not over-exaggerating that.\"",
+                  "url": "https://www.cbssports.com/nfl/news/former-steelers-coach-mike-tomlin-aaron-rodgers-mike-mccarthy-saga-dumpster-fire/",
+                  "src": "CBS Sports"
+                },
+                {
+                  "h": "The locker room is shellshocked, and the detail tells you everything",
+                  "t": "ESPN's Brooke Pryor reports \"confusion and discontent\" and that Steelers sources backed Rodgers' account. Freiermuth: \"Obviously, he said what he said,\" and on confidence in the staff, just \"I'm confident.\" Rookie quarterback Drew Allar: \"It's kind of sad to see because I have a lot of respect for Aaron\" - and safety DeShon Elliott was trying to signal him to stop talking to reporters. Marquez Valdes-Scantling, a former Packers teammate: \"I think he's the best player that ever played the game at that position.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50597989/steelers-players-try-keep-focus-broncos-amid-rodgers-fallout",
+                  "src": "ESPN"
+                }
+              ]
+            },
+            {
+              "id": "rodgers-next",
+              "time": "8:17-8:20",
+              "title": "Where he goes, and the panel",
+              "items": [
+                {
+                  "h": "Say the fact first - he has not signed anywhere and nobody has been reported to have called",
+                  "t": "ESPN's Jeremy Fowler reports the Patriots and Eagles are unlikely to show interest, and that Baltimore - who plays Pittsburgh twice - might consider it but probably will not. An unnamed AFC executive told ESPN playoff-bubble teams might get desperate but \"it will be hard after his comments.\"",
+                  "url": "https://www.espn.com/nfl/story/_/id/50596920/pittsburgh-steelers-aaron-rodgers-mike-mccarthy-next",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "Retirement is the favorite, and the two markets disagree about the teams",
+                  "t": "On Kalshi, a prediction market and not a sportsbook, retires-or-no-team is 74 percent, with New England 14, Baltimore 7, Pittsburgh 4, Atlanta 2. BetOnline posted team odds with no retirement line at all: Patriots +200, Browns +300, Falcons +400, Giants +500. Name the market every time - Baltimore is second on Kalshi and absent from BetOnline; Cleveland is second on BetOnline and absent from Kalshi.",
+                  "url": "https://www.cbssports.com/prediction/news/aaron-rodgers-next-team-predictions-patriots-ravens-favored-to-land-quarterback-after-steelers-release/",
+                  "src": "CBS Sports (Kalshi prediction market)"
+                },
+                {
+                  "h": "Gronkowski on FOX: \"To me personally, I don't think he plays again in the NFL\"",
+                  "t": "And the other published odds board, for contrast.",
+                  "url": "https://sports.yahoo.com/betting/articles/patriots-favored-over-browns-falcons-225025160.html",
+                  "src": "ClutchPoints via Yahoo Sports (BetOnline)"
+                },
+                {
+                  "h": "The milestones he is now stranded short of - the closing beat",
+                  "t": "68,515 yards, fifth all-time, and he needs about 1,712 more for 70,000 - he finishes roughly 1,485 short. 543 touchdowns, third all-time behind only Brady and Brees. 296 games, four short of 300. Four MVPs, one Super Bowl, 22 seasons.",
+                  "url": "https://www.espn.com/nfl/story/_/id/49907062/aaron-rodgers-2026-nfl-season-steelers-packers-jets-tracking-records-milestones",
+                  "src": "ESPN"
+                },
+                {
+                  "h": "PANEL: whistleblower or saboteur? Give everybody a turn.",
+                  "t": "For him: Pryor's source said \"it's all true,\" Schefter's source said the coach crossed him, Slater found the same concerns in Dallas, McCarthy admitted the halftime moment, James Harrison said he had heard such things before, Ryan Clark said \"not 1 lie told.\" Against him: T.J. Lang, eight years his teammate in Green Bay, said \"I think it's despicable\" and \"it's a victim mentality\"; Greg Jennings said \"none of us ever saw that\"; Brady said \"the sanctity of an NFL locker room is a very sacred place\"; and Terry Bradshaw, four Super Bowls in that building, said \"I'm sorry that he had to go public with all his gripes and complaints.\" And Le'Veon Bell splits it perfectly - believes about 98 percent of it and still thinks it was selfish.",
+                  "url": "https://www.si.com/nfl/steelers/nfl-world-wildest-reactions-aaron-rodgers-full-blown-takedown-mike-mccarthy",
+                  "src": "Sports Illustrated"
+                },
+                {
+                  "h": "The hand-off to the board",
+                  "t": "A 6-4 team holding the AFC's last wild-card spot just handed the ball to a 31-year-old with one pass attempt all season, with two men who have never played an NFL regular-season down behind him. That game kicked off Friday afternoon - Topic 14 has it.",
+                  "url": "https://sports.yahoo.com/nfl/article/if-aaron-rodgers-is-done-for-the-season-why-are-steelers-rolling-with-mason-rudolph-073016953.html",
+                  "src": "Yahoo Sports"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Block 2: College - The Carnage and the Two Rankings",
+          "time": "8:20-8:34",
+          "segments": [
+            {
               "id": "last-saturday",
-              "time": "8:00-8:08",
+              "time": "8:20-8:27",
               "title": "Last Saturday: three of the top ten lost, two in overtime",
               "items": [
                 {
@@ -103,7 +305,7 @@
             },
             {
               "id": "ap-top-25",
-              "time": "8:08-8:13",
+              "time": "8:27-8:30",
               "title": "The AP Top 25, released Sunday Nov 22 at 2:23 PM ET",
               "items": [
                 {
@@ -134,7 +336,7 @@
             },
             {
               "id": "cfp-rankings",
-              "time": "8:13-8:20",
+              "time": "8:30-8:34",
               "title": "The fourth CFP rankings, out Tuesday night Nov 24",
               "items": [
                 {
@@ -184,12 +386,12 @@
           ]
         },
         {
-          "title": "Block 2: West Virginia - It Was Decided Last Night",
-          "time": "8:20-8:33",
+          "title": "Block 3: West Virginia - It Was Decided Last Night",
+          "time": "8:34-8:44",
           "segments": [
             {
               "id": "houston-wvu",
-              "time": "8:20-8:26",
+              "time": "8:34-8:39",
               "title": "Houston 34, West Virginia 31",
               "items": [
                 {
@@ -232,7 +434,7 @@
             },
             {
               "id": "wvu-utah",
-              "time": "8:26-8:33",
+              "time": "8:39-8:44",
               "title": "West Virginia at No. 2 Utah, last night, 9:00 ET on FOX - GET THE SCORE FIRST",
               "items": [
                 {
@@ -282,12 +484,12 @@
           ]
         },
         {
-          "title": "Block 3: Rivalry Week - Today's Board and Picks",
-          "time": "8:33-9:00",
+          "title": "Block 4: Rivalry Week - The Board and Picks",
+          "time": "8:44-9:00",
           "segments": [
             {
               "id": "friday-results",
-              "time": "8:33-8:40",
+              "time": "8:44-8:48",
               "title": "Thursday and Friday - six games finished before we went on",
               "items": [
                 {
@@ -330,7 +532,7 @@
             },
             {
               "id": "todays-board",
-              "time": "8:40-8:48",
+              "time": "8:48-8:54",
               "title": "The honest shape of today's board",
               "items": [
                 {
@@ -373,8 +575,8 @@
             },
             {
               "id": "rivalries",
-              "time": "8:48-8:54",
-              "title": "The rivalries and the rest of the board",
+              "time": "8:54-8:57",
+              "title": "The rivalries, the Heisman and the carousel - fast rundown",
               "items": [
                 {
                   "h": "Auburn at No. 6 Alabama, the Iron Bowl, 7:30 on ABC",
@@ -435,14 +637,7 @@
                   "t": "Boise -21 with a 75.5. The team holding a playoff bid the committee will not rank is in a seventy-five-and-a-half-point game.",
                   "url": "https://www.sportsbettingdime.com/news/college-football/opening-week-13-college-football-odds-spreads-rivalry-week-2026/",
                   "src": "SportsBettingDime (DraftKings, Nov 22)"
-                }
-              ]
-            },
-            {
-              "id": "heisman-carousel",
-              "time": "8:54-8:57",
-              "title": "The Heisman and the carousel",
-              "items": [
+                },
                 {
                   "h": "The Heisman favorite's team has lost two in a row and he is pulling away anyway",
                   "t": "Jeremiah Smith, the Ohio State receiver, went from -140 at FanDuel on Nov 15 to -400 on a Nov 22 board to an 80 percent implied price on a prediction market Nov 25. Three boards, three books - name the book and the date.",
@@ -530,10 +725,10 @@
                   "src": "FOX Sports"
                 },
                 {
-                  "h": "Aaron Rodgers was released by Pittsburgh on Nov 25 - released, not benched",
-                  "t": "He was 220-of-361 for 2,241 and 16 touchdowns in ten starts. Mason Rudolph started Friday against Denver.",
-                  "url": "https://www.steelers.com/news/steelers-release-rodgers",
-                  "src": "Pittsburgh Steelers"
+                  "h": "Skip Rodgers here - he got twenty minutes off the top. Just the fantasy line on Pittsburgh.",
+                  "t": "Mason Rudolph started Friday with one pass attempt all season behind him, and Will Howard and Drew Allar, who have never played an NFL regular-season down, are behind him.",
+                  "url": "https://www.espn.com/nfl/player/_/id/3116407/mason-rudolph",
+                  "src": "ESPN"
                 },
                 {
                   "h": "The Colts waived Daniel Jones and named Anthony Richardson the starter",
@@ -633,7 +828,7 @@
                 },
                 {
                   "h": "Items Trent must check Saturday morning",
-                  "t": "The Friday designations for all eleven Sunday games and the Monday game - none had posted when this was built, and that is the biggest gap. Colston Loveland's MRI. Purdy. Herbert. Brock Bowers. Derrick Henry, upgraded to full but not formally cleared. Bhayshul Tuten. Tyler Higbee's chest. The Denver-Pittsburgh box score, because Jonah Coleman was CBS's only must-start in it. And whether Aaron Rodgers signed anywhere overnight.",
+                  "t": "The Friday designations for all eleven Sunday games and the Monday game - none had posted when this was built, and that is the biggest gap. Colston Loveland's MRI. Purdy. Herbert. Brock Bowers. Derrick Henry, upgraded to full but not formally cleared. Bhayshul Tuten. Tyler Higbee's chest. The Denver-Pittsburgh box score, because Jonah Coleman was CBS's only must-start in it. And whether Aaron Rodgers signed anywhere overnight - he cleared waivers Thursday and was unsigned as of Friday afternoon.",
                   "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-12-latest-news-fantasy-implications-as-brock-purdy-ankle-misses-practice-again-justin-herbert-concussion-remains-in-protocol-131639563.html",
                   "src": "Yahoo Sports"
                 }
@@ -947,7 +1142,7 @@
                 },
                 {
                   "h": "The close, and hit all six",
-                  "t": "There are no NFL games today, so everything we picked is tomorrow and Monday. The Patriots-Chargers line has flipped six points and both quarterbacks in that game are backups. There are still no official injury designations on any Sunday or Monday game, so nobody says \"questionable\" on the air. Aaron Rodgers was released, not benched, and Anthony Richardson has the Colts. Nobody clinches anything this week, and a 5-5 Carolina team is still ahead of an 8-3 Detroit team. And Joe Burrow tied Peyton Manning and did not pass him.",
+                  "t": "There are no NFL games today, so everything we picked is tomorrow and Monday. The Patriots-Chargers line has flipped six points and both quarterbacks in that game are backups. There are still no official injury designations on any Sunday or Monday game, so nobody says \"questionable\" on the air. Anthony Richardson has the Colts and Mason Rudolph has Pittsburgh - and circle back to the top of the show, because Aaron Rodgers cleared waivers Thursday and was still unsigned. Nobody clinches anything this week, and a 5-5 Carolina team is still ahead of an 8-3 Detroit team. And Joe Burrow tied Peyton Manning and did not pass him.",
                   "url": "",
                   "src": ""
                 },
